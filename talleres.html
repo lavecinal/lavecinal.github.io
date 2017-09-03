@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<h1>Talleres</h1>
+
+{% for talleres in site.talleres %}
+  <a class="header" href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a>
+{% endfor %}

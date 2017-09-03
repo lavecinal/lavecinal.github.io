@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h3>Hola al sitio de la vecinal</h3>
+
+{% for post in site.posts %}
+	<a href="{{site.baseurl}}{{post.url}}" class="header">
+		{{post.title}}
+	</a>
+{%endfor %}
