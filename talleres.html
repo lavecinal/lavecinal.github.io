@@ -2,8 +2,13 @@
 layout: default
 ---
 
+<div style="background: #fff; padding: 2em 3em;">
+	
 <h1>Talleres</h1>
 
+<div class="talleres-list">
 {% for talleres in site.talleres %}
   <a class="header" href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a>
 {% endfor %}
+</div>
+</div>

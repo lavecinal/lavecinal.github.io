@@ -6,6 +6,10 @@ body {
 	background: #f9f9f9;
 }
 
+h1, h2, h3, h4, h5 {
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
 .top-bar {
 	display: flex;
 	background: #fff;
@@ -46,4 +50,43 @@ body {
 .main-container {
 	max-width: 900px;
 	margin: 0 auto;
+}
+
+
+.talleres-list {
+
+	a {
+		width: 30%;
+		height: 250px;
+		border: 1px solid #ddd;
+		display: inline-block;
+		text-decoration: none;
+		font-size: 24px;
+		color: #fff;
+		padding: 1%;
+		background-color: #157A40;
+		margin-bottom: 6px;
+		font-family: 'Alegreya Sans SC', sans-serif;
+	}
+}
+
+.novedades {
+	background: #fff; padding: 2em 3em;
+
+	ul {
+
+	}
+
+	li {
+		margin: 5px 0;
+	}
+
+	a {
+		font-size: 20px; 
+	}
+}
+
+.espacio {
+	background: #fff; padding: 2em 3em;
+	text-align: center;
 }
