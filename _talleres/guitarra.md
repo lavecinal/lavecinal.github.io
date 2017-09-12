@@ -4,3 +4,6 @@ title: Guitarra
 permalink: /talleres/guitarra/
 categoria: taller
 ---
+
+
+

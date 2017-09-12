@@ -4,9 +4,9 @@ layout: default
 
 <div style="background: #fff; padding: 2em 3em;">
 	
-<h1>Talleres</h1>
-
-<div class="talleres-list">
+<h1 style="text-align: center;">Talleres</h1>
+<img width="100%" src="/img/pizarra.png" alt="">
+<div class="talleres-list flex">
 {% for talleres in site.talleres %}
   <a class="header" href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a>
 {% endfor %}
