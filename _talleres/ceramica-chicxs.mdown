@@ -1,0 +1,7 @@
+---
+layout: post-talleres
+title: Ceramica niñxs
+permalink: /talleres/ceramica-chicxs/
+categoria: taller
+dia:   [ jueves]
+---

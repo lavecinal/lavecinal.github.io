@@ -1,10 +1,13 @@
 ---
 title: Claridad para el camino
-layout: post
-published: true
+layout: post-novedad
+categoria: noticia
+featured: false
+image_url: https://cristinahyland.com.ar/wp-content/uploads/DSCfoots.jpg
+meta: The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.
 ---
 
-<h1 id="main">Bitters example page</h1>
+<h1 id="main">Bitters example page</h1>d
 
 <p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
 
@@ -152,4 +155,3 @@ published: true
     <td>Division 1</td><td>Division 2</td><td>Division 3</td>
   </tr>
 </table>
-</div>

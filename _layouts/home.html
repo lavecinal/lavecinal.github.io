@@ -1,0 +1,167 @@
+---
+layout: default
+---
+
+<script>
+  $(document).ready(function(){
+    $('.featured-container').owlCarousel({
+        center: true,
+        singleItem:true,
+        navigation : true, // Show next and prev buttons
+        navigationText: [
+        "<i class='fa fa-angle-left'></i>",
+        "<i class='fa fa-angle-right'></i>"
+        ],
+        items:1,
+        autoplayHoverPause: true,
+        autoHeight:true,
+        slideSpeed : 1000,
+        autoPlay: 10000,
+        paginationSpeed : 2000,
+        loop:true,
+        margin:10,
+    })
+  });
+</script>
+
+<div class="home">
+	<div class="top-bar">
+		<a class="logo" href="{{ site.baseurl }}/">
+			<img src="{{ site.baseurl }}/img/logo-vecinal.svg" width="200px">
+		</a>
+		<nav>
+			<a href="{{ site.baseurl }}/elespacio/" {% if page.url == '/elespacio/' %}class="active" {% endif %}>el espacio</a>
+			<a href="{{ site.baseurl }}/talleres/" {% if page.url == '/talleres/' %}class="active" {% endif %}>talleres</a>
+			<a href="{{ site.baseurl }}/novedades/" {% if page.url == '/novedades/' %}class="active" {% endif %}>novedades</a>
+			<a href="{{ site.baseurl }}/participa/" {% if page.url == '/participa/' %}class="active" {% endif %}>participa</a>
+		</nav>
+	</div>
+
+	<div class="main-container">
+			
+
+
+<div class="featured-container owl-carousel owl-theme">
+
+  {% assign features = site.posts | where:"featured", true %}
+  {% for post in features limit:4%}
+  	  <div class="item">
+	  	  <div class="image">
+	  	  	<img src="{{post.image_url}}">
+	  	  </div>
+	  	  <div class="content">
+		      <a class="header" href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+		      <p class="description">{{post.meta}}</p>
+		  	  <div class="action">
+		  	  	<a href="{{site.baseurl}}{{post.url}}" class="ui button">ver mas</a>
+		  	  </div>
+	  	  </div>
+  	  </div>
+  {% endfor %}
+
+</div>
+
+		<section>
+			<article>
+			{{content}}
+			</article>
+			<aside>
+				<div class="widget">
+					<h3>agenda</h3>
+					 {% for post in site.posts %}
+    					{% if post.categoria == 'agenda' %}
+						  	  <div class="content">
+							      <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+							      <p class="description">{{post.fecha}} / {{post.hora}}</p>
+						  	  </div>
+						{% endif %}
+					{%endfor %}
+
+				</div>
+				<div class="widget">
+				<h3>seguinos</h3>
+				<div id="fb-root"></div>
+				<div class="fb-page" data-href="https://www.facebook.com/Vecinal-Paraje-Entre-Rios-249804882198048" data-tabs="timeline" data-width="500px" data-height="800px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Vecinal-Paraje-Entre-Rios-249804882198048" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Vecinal-Paraje-Entre-Rios-249804882198048">Vecinal Paraje Entre Rios</a></blockquote></div>
+				</div>
+
+			</aside>
+		</section>
+		
+		<section class="talleres">
+			
+<script type="text/javascript">
+$(function(){
+  $('#Container').on('mixLoad', function() {
+    console.log('[event-handler] MixItUp Loaded');
+  });
+  
+  $('#Container').on('mixStart', function() {
+    console.log('[event-handler] Animation Started')
+  });
+  
+  $('#Container').on('mixEnd', function() {
+    console.log('[event-handler] Animation Ended')
+  });
+  
+  $('#Container').mixItUp({
+    callbacks: {
+      onMixLoad: function() {
+        console.log('[callback] MixItUp Loaded');
+      },
+      onMixStart: function() {
+        console.log('[callback] Animation Started');
+      },
+      onMixEnd: function() {
+        console.log('[callback] Animation Ended');
+      }
+    }
+  });
+});
+</script>
+
+
+	<h1 style="text-align: center; margin: 0 0 20px 0;">Talleres</h1>
+	<div class="controls">
+		<b>filtrar por dia</b>
+
+	  <button type="button" class="ui button compact large" data-filter=".item-lunes">
+	  	<span> lunes</span>
+	  </button>
+	  <button type="button" class="ui button compact large" data-filter=".item-martes">
+	  	<span> martes</span>
+	  </button>
+	    <button type="button" class="ui button compact large" data-filter=".item-miercoles">
+	  	<span> miercoles</span>
+	  </button>
+	    <button type="button" class="ui button compact large" data-filter=".item-jueves">
+	  	<span> jueves</span>
+	  </button>
+	    <button type="button" class="ui button compact large" data-filter=".item-viernes">
+	  	<span> viernes</span>
+	  </button>
+	    <button type="button" class="ui button compact large" data-filter=".item-sabado">
+	  	<span> sabado</span>
+	  </button>
+	    <button type="button" class="ui button compact large" data-filter=".item-domingo">
+	  	<span> domingo</span>
+	  </button>
+	  	  <button type="button" class="ui button compact large " data-filter="all">
+	  	<span> mostrar todo </span>
+	  </button>
+	</div>
+	<div id="Container" class="container">
+	    <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
+		{% for talleres in site.talleres %}
+		<div class="mix item-{{ talleres.dia | sort | join: " item-" }}">
+
+	  		<h3>{{ talleres.title }}</h3>
+	  		<small style="text-align: center;">{{ talleres.dia | sort | join: " y " }}</small><br>
+		</div>
+		{% endfor %}
+	</div>
+
+		</section>
+
+	</div>
+</div>
+

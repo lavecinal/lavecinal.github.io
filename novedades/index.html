@@ -1,0 +1,62 @@
+---
+layout: page
+
+---
+
+<div class="post">
+<article style="padding: 2em;">
+	
+<h1>Novedades</h1>
+<div class="ui items">
+	
+{% for post in paginator.posts %}
+<div class="item">
+      <div class="image">
+        <img src="{{post.image_url}}">
+      </div>
+      <div class="content">
+        <a href="{{site.baseurl}}{{post.url}}" class="header">
+          {{post.title}}
+        </a>
+        <div class="meta">
+          <span>{{post.categoria}}</span>
+        </div>
+        <div class="description">
+          <p> {{post.meta}}</p>
+        </div>
+      </div>
+    </div>
+{% endfor %}
+</div>
+
+{% if paginator.next_page or paginator.previous_page %}
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}">pagina anterior</a>
+  {% else %}
+    pagina anterior
+  {% endif %}
+  | <b>{{paginator.page}} / {{paginator.total_pages}}</b> |
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}">pagina siguiente</a>
+  {% else %}
+    pagina siguiente
+  {% endif %}
+{% endif %}
+
+
+
+</article>
+<aside>
+	<div class="widget">
+		<h3>últimas novedades</h3>
+		<ul>
+			
+		 {% for post in site.posts %}
+	 	  <li><a href="{{site.baseurl}}{{post.url}}" class="header">
+	 	  	{{post.title}}
+	 	  </a></li>
+		{%endfor %}
+		</ul>
+	</div>
+</aside>
+</div>

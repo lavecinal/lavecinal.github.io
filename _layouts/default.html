@@ -3,25 +3,31 @@
 <head>
 	<meta charset="UTF-8">
   <title>Vecinal</title>
+  <meta property="fb:app_id" content="1288928734550299" />
   <link rel="stylesheet" href="{{site.baseurl}}/style.css">
+  <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="{{ site.baseurl }}/js/mixitup.js"></script>
 </head>
 <body>
 
-<div class="top-bar">
-	<a class="logo" href="{{ site.baseurl }}/">
-		<img src="{{ site.baseurl }}/img/logo-vecinal.svg" width="200px">
-	</a>
-	<nav>
-		<a href="{{ site.baseurl }}/elespacio/" {% if page.url == '/elespacio/' %}class="active" {% endif %}>el espacio</a>
-		<a href="{{ site.baseurl }}/talleres/" {% if page.url == '/talleres/' %}class="active" {% endif %}>talleres</a>
-		<a href="{{ site.baseurl }}/novedades/" {% if page.url == '/novedades/' %}class="active" {% endif %}>novedades</a>
-		<a href="{{ site.baseurl }}/participa/" {% if page.url == '/participa/' %}class="active" {% endif %}>participa</a>
-	</nav>
-</div>
 
-<div class="main-container">
-	{{content}}
-</div>
+{{content}}
 
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.10";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script src="{{ site.baseurl }}/js/owl.carousel.js"></script>
+
+<footer style="text-align: center; background: #333; padding: 2em;">
+  <img src="{{ site.baseurl }}/img/logo-vecinal.svg" width="200px">
+</footer>
 
 </body>

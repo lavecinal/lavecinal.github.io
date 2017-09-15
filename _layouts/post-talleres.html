@@ -1,0 +1,43 @@
+---
+layout: page
+---
+<div class="post">
+	
+<article style="background: #fff; padding: 2em 3em;">
+	
+<h1 style="
+    text-align: center;
+    font-size: 35px;
+    text-transform: lowercase;
+    border-bottom: 1px solid #ddd;
+">
+	{{page.title}} <br>
+</h1>
+<h2 style="text-align: center;">{{page.dia}}</h2>
+
+{{content}}
+
+
+</article>
+<aside>
+
+
+   <div class="widget">
+		<h3>lista de talleres</h3>
+		<ul>
+			
+		{% for talleres in site.talleres %}
+		  <li><a class="header" href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a></li>
+		{% endfor %}
+		</ul>
+	</div>
+	
+
+</aside>
+
+<div class="comentarios">
+<h2 style="text-align: center">Comentarios</h2>
+<div class="fb-comments" data-href="lavecinal.github.io{{ page.url }}" data-num-posts="4" data-width="100%"></div>
+</div>
+
+</div>

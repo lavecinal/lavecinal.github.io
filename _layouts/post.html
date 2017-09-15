@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 ---
-
+<div class="post">
+	
 <article style="background: #fff; padding: 2em 3em;">
 	
 <h1 style="
@@ -14,4 +15,28 @@ layout: default
 </h1>
 
 {{content}}
+
+
 </article>
+<aside>
+{% if page.id == "talleres" %}
+   <div class="widget">
+		<h3>lista de talleres</h3>
+		{% for talleres in site.talleres %}
+		  <a class="header" href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a>
+		{% endfor %}
+	</div>
+{% endif %}
+	
+
+	<div class="widget">
+		<h3>últimas novedades</h3>
+	</div>
+</aside>
+
+<div class="comentarios">
+<h2 style="text-align: center">Comentarios</h2>
+<div class="fb-comments" data-href="lavecinal.github.io{{ page.url }}" data-num-posts="4" data-width="100%"></div>
+</div>
+
+</div>

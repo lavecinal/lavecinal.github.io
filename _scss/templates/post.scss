@@ -1,0 +1,16 @@
+.post {
+	display: flex;
+
+	article {
+		flex: 1;
+	}
+
+	aside {
+		width: 400px;
+		padding: 2em 1em;
+	}
+
+	.comentarios {
+		display: none;
+	}
+}

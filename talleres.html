@@ -1,14 +1,77 @@
 ---
-layout: default
+layout: page
+permalink: /talleres/
 ---
 
-<div style="background: #fff; padding: 2em 3em;">
-	
-<h1 style="text-align: center;">Talleres</h1>
-<img width="100%" src="/img/pizarra.png" alt="">
-<div class="talleres-list flex">
-{% for talleres in site.talleres %}
-  <a class="header" href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a>
-{% endfor %}
-</div>
+
+<script type="text/javascript">
+$(function(){
+  $('#Container').on('mixLoad', function() {
+    console.log('[event-handler] MixItUp Loaded');
+  });
+  
+  $('#Container').on('mixStart', function() {
+    console.log('[event-handler] Animation Started')
+  });
+  
+  $('#Container').on('mixEnd', function() {
+    console.log('[event-handler] Animation Ended')
+  });
+  
+  $('#Container').mixItUp({
+    callbacks: {
+      onMixLoad: function() {
+        console.log('[callback] MixItUp Loaded');
+      },
+      onMixStart: function() {
+        console.log('[callback] Animation Started');
+      },
+      onMixEnd: function() {
+        console.log('[callback] Animation Ended');
+      }
+    }
+  });
+});
+</script>
+
+<div class="talleres">
+	<h1 style="text-align: center; margin: 0 0 20px 0;">Talleres</h1>
+	<div class="controls">
+		<b>filtrar por dia</b>
+
+	  <button type="button" class="ui button compact large" data-filter=".item-lunes">
+	  	<span> lunes</span>
+	  </button>
+	  <button type="button" class="ui button compact large" data-filter=".item-martes">
+	  	<span> martes</span>
+	  </button>
+	    <button type="button" class="ui button compact large" data-filter=".item-miercoles">
+	  	<span> miercoles</span>
+	  </button>
+	    <button type="button" class="ui button compact large" data-filter=".item-jueves">
+	  	<span> jueves</span>
+	  </button>
+	    <button type="button" class="ui button compact large" data-filter=".item-viernes">
+	  	<span> viernes</span>
+	  </button>
+	    <button type="button" class="ui button compact large" data-filter=".item-sabado">
+	  	<span> sabado</span>
+	  </button>
+	    <button type="button" class="ui button compact large" data-filter=".item-domingo">
+	  	<span> domingo</span>
+	  </button>
+	  	  <button type="button" class="ui button compact large " data-filter="all">
+	  	<span> mostrar todo </span>
+	  </button>
+	</div>
+	<div id="Container" class="container">
+	    <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
+		{% for talleres in site.talleres %}
+		<div class="mix item-{{ talleres.dia | sort | join: " item-" }}">
+
+	  		<h3>{{ talleres.title }}</h3>
+	  		<small style="text-align: center;">{{ talleres.dia | sort | join: " y " }}</small><br>
+		</div>
+		{% endfor %}
+	</div>
 </div>

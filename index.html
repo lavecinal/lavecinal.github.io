@@ -1,10 +1,33 @@
 ---
-layout: default
+layout: home
 ---
-<div class="hero">
-	<h1 style="text-align: center; color:#fff; padding-top: 2em;">
-		Bienvenidos al sitio web de la vecinal<br>
-		<small>
-		<a href="{{ site.baseurl }}/elespacio/">conocer mas</a></small>
-	</h1>
+
+
+<h1>
+   <a href="{{ site.baseurl }}/novedades/">mas novedades</a>
+</h1>
+
+<div class="ui items">
+  {% assign features = site.posts | where:"featured", false %}
+  {% for post in features limit:4%}
+    {% if post.categoria == 'noticia' %}
+      <div class="item">
+      <div class="image">
+        <img src="{{post.image_url}}">
+      </div>
+      <div class="content">
+        <a href="{{site.baseurl}}{{post.url}}" class="header">
+          {{post.title}}
+        </a>
+        <div class="meta">
+          <span>{{post.categoria}}</span>
+        </div>
+        <div class="description">
+          <p> {{post.meta}}</p>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+
 </div>
