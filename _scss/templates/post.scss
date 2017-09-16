@@ -1,13 +1,27 @@
+$mobile: new-breakpoint(max-width 500px 4);
+
 .post {
 	display: flex;
 
+	@include media($mobile) {
+		flex-direction: column;
+	}
+
 	article {
 		flex: 1;
+
+		@include media($mobile) {
+			width: 100%;
+		}
 	}
 
 	aside {
-		width: 400px;
+		width: 300px;
 		padding: 2em 1em;
+
+		@include media($mobile) {
+			width: 100%;
+		}
 	}
 
 	.comentarios {

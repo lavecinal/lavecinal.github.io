@@ -1,0 +1,46 @@
+$mobile: new-breakpoint(max-width 600px 4);
+
+.top-bar {
+	display: flex;
+	background: #fff;
+	align-items: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 80px;
+	box-shadow: 0 8px 17px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.2);
+	z-index: 299;
+
+	.logo {
+		position: absolute;
+		top: -5px;
+	}
+
+	nav {
+		
+		flex: 1;
+		text-align: right;
+
+		@include media($mobile) {
+				display: none;
+			}
+
+		a {
+			margin: 0 15px;
+			text-decoration: none;
+			font-family: 'Alegreya Sans SC', sans-serif;
+			border-bottom: 2px solid transparent;
+			color: #157A40;
+			padding: 10px 0;
+			font-size: 20px;
+
+			&.active {
+				border-bottom: 2px solid #157A40;
+			}
+		}
+	}
+
+	
+
+}

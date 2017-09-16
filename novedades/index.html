@@ -3,14 +3,12 @@ layout: page
 
 ---
 
-<div class="post">
-<article style="padding: 2em;">
-	
-<h1>Novedades</h1>
-<div class="ui items">
-	
-{% for post in paginator.posts %}
-<div class="item">
+<div class="novedades">
+  <article>
+    <h1>Novedades</h1>
+    <div class="ui items">
+    {% for post in paginator.posts %}
+    <div class="item">
       <div class="image">
         <img src="{{post.image_url}}">
       </div>
@@ -18,45 +16,47 @@ layout: page
         <a href="{{site.baseurl}}{{post.url}}" class="header">
           {{post.title}}
         </a>
-        <div class="meta">
-          <span>{{post.categoria}}</span>
-        </div>
         <div class="description">
           <p> {{post.meta}}</p>
         </div>
       </div>
     </div>
-{% endfor %}
-</div>
+    {% endfor %}
+    </div>
 
-{% if paginator.next_page or paginator.previous_page %}
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">pagina anterior</a>
-  {% else %}
-    pagina anterior
-  {% endif %}
-  | <b>{{paginator.page}} / {{paginator.total_pages}}</b> |
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">pagina siguiente</a>
-  {% else %}
-    pagina siguiente
-  {% endif %}
-{% endif %}
+    <div class="paginator">
+    {% if paginator.next_page or paginator.previous_page %}
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}">
+         <i class="fa fa-long-arrow-left" aria-hidden="true"></i> página anterior</a>
+      {% else %}
+        <b> <i class="fa fa-long-arrow-left" aria-hidden="true"></i>página anterior</b>
+      {% endif %}
+      <b>{{paginator.page}} / {{paginator.total_pages}}</b>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}">página siguiente <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+      {% else %}
+        <b>página siguiente <i class="fa fa-long-arrow-right" aria-hidden="true"></i></b>
+      {% endif %}
+    {% endif %}
+    </div>
+  </article>
 
-
-
-</article>
-<aside>
-	<div class="widget">
-		<h3>últimas novedades</h3>
-		<ul>
-			
-		 {% for post in site.posts %}
-	 	  <li><a href="{{site.baseurl}}{{post.url}}" class="header">
-	 	  	{{post.title}}
-	 	  </a></li>
-		{%endfor %}
-		</ul>
-	</div>
-</aside>
+  <aside>
+  	<div class="widget">
+  		<h3>últimas novedades</h3>
+  		<ul>
+  		 {% for post in site.posts %}
+  	 	  <li><a href="{{site.baseurl}}{{post.url}}" class="header">
+  	 	  	{{post.title}}
+  	 	  </a></li>
+  		{%endfor %}
+  		</ul>
+  	</div>
+  	<div class="widget">
+  	<h3>seguinos</h3>
+  	<div id="fb-root"></div>
+  	<div class="fb-page" data-href="https://www.facebook.com/Vecinal-Paraje-Entre-Rios-249804882198048" data-tabs="timeline" data-width="500px" data-height="800px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Vecinal-Paraje-Entre-Rios-249804882198048" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Vecinal-Paraje-Entre-Rios-249804882198048">Vecinal Paraje Entre Rios</a></blockquote></div>
+  	</div>
+  </aside>
 </div>

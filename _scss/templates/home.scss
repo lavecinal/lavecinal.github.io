@@ -2,30 +2,7 @@ $mobile: new-breakpoint(max-width 500px 4);
 
 .home {
 
-    @include media($mobile) {
-       
-		padding-top: 160px;
-
-		.top-bar {
-			background: #f9f9f9;
-			height: 250px;
-			flex-direction: column;
-			position: absolute;
-
-			.logo {
-				position: relative;
-				top: -5px;
-				flex: 1;
-				align-items: center;
-				display: flex;
-			}
-
-			nav {
-				flex: 0;
-				margin: 30px 0;
-			}
-		}
-	}
+    
 
 	.main-container {
 		display: flex;
@@ -44,9 +21,17 @@ $mobile: new-breakpoint(max-width 500px 4);
 		background: #f1f1f1;
 		border-bottom: 2px solid #ddd;
 
+		@include media($mobile) {
+			height: 600px;
+		}
+
 
 		.owl-wrapper-outer {
 			height: 400px;
+
+			@include media($mobile) {
+				height: 600px;
+			}
 
 
 		}
@@ -93,6 +78,9 @@ $mobile: new-breakpoint(max-width 500px 4);
 			padding: 3em 2em;
 			color: #333;
 
+			@include media($mobile) {
+				height: 600px;
+			}
 		}
 
 		.item {
@@ -100,8 +88,17 @@ $mobile: new-breakpoint(max-width 500px 4);
 			max-width: 900px;
 			margin: 0 auto;
 
+			@include media($mobile) {
+				flex-direction: column;
+			}
+
 			.image {
 				width: 50%;
+
+
+				@include media($mobile) {
+					width: 100%;
+				}
 
 				img {
 					width: 100%;
@@ -111,6 +108,11 @@ $mobile: new-breakpoint(max-width 500px 4);
 			.content {
 				width: 50%;
 				padding: 1em;
+
+				@include media($mobile) {
+					width: 100%;
+				}
+
 
 				.header {
 					font-size: 32px;
@@ -133,15 +135,19 @@ $mobile: new-breakpoint(max-width 500px 4);
 		padding: 0;
 		display: flex;
 
-		 @include media($mobile) {
-		 	
-		 }
+		@include media($mobile) {
+			flex-direction: column-reverse;
+		}
 
 		
 		article {
 			flex: 1;
 			background: #fff;
 			padding: 2em 1em;
+
+			@include media($mobile) {
+				width: 100%;
+			}
 		}
 
 		h1 {

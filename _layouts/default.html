@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
   <title>Vecinal</title>
   <meta property="fb:app_id" content="1288928734550299" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   <link rel="stylesheet" href="{{site.baseurl}}/style.css">
   <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.min.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
@@ -13,8 +14,18 @@
 </head>
 <body>
 
+<div class="offcanvas js-menu sliding-panel-content">
+  <ul>
+      <li><a href="{{ site.baseurl }}/elespacio/" {% if page.url == '/elespacio/' %}class="active" {% endif %}>el espacio</a></li>
+      <li><a href="{{ site.baseurl }}/talleres/" {% if page.url == '/talleres/' %}class="active" {% endif %}>talleres</a></li>
+      <li><a href="{{ site.baseurl }}/novedades/" {% if page.url == '/novedades/' %}class="active" {% endif %}>novedades</a></li>
+      <li><a href="{{ site.baseurl }}/participa/" {% if page.url == '/participa/' %}class="active" {% endif %}>participa</a></li>
+  </ul>
+</div>
 
 {{content}}
+
+<div class="js-menu-screen sliding-panel-fade-screen"></div>
 
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -29,5 +40,7 @@
 <footer style="text-align: center; background: #333; padding: 2em;">
   <img src="{{ site.baseurl }}/img/logo-vecinal.svg" width="200px">
 </footer>
+
+{% include offcanvas.html %}
 
 </body>
