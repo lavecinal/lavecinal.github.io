@@ -1,7 +1,7 @@
 ---
 title: Reunion de talleristas
 layout: post-novedad
-featured: false
+featured: true
 categoria: agenda
 fecha: 19 de septiembre
 hora: 18.30hs

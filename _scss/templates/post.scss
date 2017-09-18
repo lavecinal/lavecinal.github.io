@@ -9,14 +9,17 @@ $mobile: new-breakpoint(max-width 500px 4);
 
 	article {
 		flex: 1;
+		background: #fff;
+		padding: 2em 3em;
 
 		@include media($mobile) {
 			width: 100%;
+			padding: 1.8em 0.8em;
 		}
 	}
 
 	aside {
-		width: 300px;
+		width: 400px;
 		padding: 2em 1em;
 
 		@include media($mobile) {
@@ -24,7 +27,37 @@ $mobile: new-breakpoint(max-width 500px 4);
 		}
 	}
 
+	.featured-image {
+		max-height: 300px;
+		overflow: hidden;
+		border-radius: 10px;
+	}
+
+	.article {
+		max-width: 600px;
+		margin: 0 auto;
+
+		p {
+			font-size: 20px;
+		}
+	}
+
+	.pagination {
+		max-width: 600px;
+		margin: 50px auto;
+		display: flex;
+		justify-content: space-between;
+		border-bottom: 1px solid #ddd;
+		padding: 1em 0;
+
+		a {
+			color: #157a40;
+			font-weight: 600;
+			font-size: 20px;
+		}
+	}
+
 	.comentarios {
-		display: none;
+		//display: none;
 	}
 }

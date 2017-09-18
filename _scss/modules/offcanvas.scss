@@ -2,10 +2,10 @@ $mobile: new-breakpoint(max-width 600px 4);
 
 .offcanvas {
 	position: fixed;
-	top: 0;
+	top: 80px;
 	right: -310px;
-	z-index: 9999;
-	background: #333;
+	z-index: 2;
+	background: #157a40;
 	bottom: 0;
 	width: 300px;
 	box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
@@ -25,12 +25,12 @@ $mobile: new-breakpoint(max-width 600px 4);
 .sliding-panel-content {
   $action-color: #ddd !default;
   $dark-gray: #f9f9f9 !default;
-  $sliding-panel-border-color: $dark-gray;
+  $sliding-panel-border-color: #25a55f;
   $sliding-panel-background: lighten($sliding-panel-border-color, 5%);
   $sliding-panel-color: #fff;
   $sliding-panel-border: 1px solid $sliding-panel-border-color;
-  $sliding-panel-background-hover: $action-color;
-  $sliding-panel-color-hover: #999;
+  $sliding-panel-background-hover: #205436;
+  $sliding-panel-color-hover: #fff;
   $sliding-panel-background-focus: lighten($sliding-panel-background, 5%);
 
 	//position: fixed;
@@ -65,6 +65,7 @@ $mobile: new-breakpoint(max-width 600px 4);
     font-weight: bold;
     padding: 1em;
     text-decoration: none;
+    text-transform: uppercase;
 
     &:focus {
       background-color: $sliding-panel-background-focus;

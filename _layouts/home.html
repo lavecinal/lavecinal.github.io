@@ -66,14 +66,15 @@ layout: default
 			<aside>
 				<div class="widget">
 					<h3>agenda</h3>
-					 {% for post in site.posts %}
-    					{% if post.categoria == 'agenda' %}
-						  	  <div class="content">
-							      <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-							      <p class="description">{{post.fecha}} / {{post.hora}}</p>
-						  	  </div>
-						{% endif %}
-					{%endfor %}
+					{% assign items = site.agenda | sort: 'fecha' %}
+					{% for item in items limit:6 %}
+					  	  <div class="content">
+						      <p class="description">{{item.fecha}} / {{item.hora}}</p>
+						      <a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
+						      <hr>
+					  	  </div>
+					{% endfor %}
+					
 				</div>
 				<div class="widget">
 					<h3>seguinos</h3>

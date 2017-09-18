@@ -3,22 +3,23 @@ layout: page
 ---
 <div class="post">
 	
-<article style="background: #fff; padding: 2em 3em;">
+<article>
 
 <div class="featured-image">
 	<img src="{{page.image_url}}" style="width: 100%;">
 </div>
-
+<div class="article">
+	
 <h1 style="
-    text-align: center;
+    text-align: left;
     font-size: 35px;
-    text-transform: lowercase;
     border-bottom: 1px solid #ddd;
 ">
 	{{page.title}} <br>
 </h1>
 
 {{content}}
+</div>
 
 <div class="pagination">  
   {% if page.previous.url %}  
@@ -29,10 +30,13 @@ layout: page
   {% endif %}  
 </div>  
 
+<div class="comentarios">
+<h2 style="text-align: center">Comentarios</h2>
+<div class="fb-comments" data-href="lavecinal.github.io{{ page.url }}" data-num-posts="4" data-width="100%"></div>
+</div>
+
 </article>
 <aside>
-
-
 	<div class="widget">
 		<h3>últimas novedades</h3>
 		<ul>
@@ -46,9 +50,6 @@ layout: page
 	</div>
 </aside>
 
-<div class="comentarios">
-<h2 style="text-align: center">Comentarios</h2>
-<div class="fb-comments" data-href="lavecinal.github.io{{ page.url }}" data-num-posts="4" data-width="100%"></div>
-</div>
+
 
 </div>

@@ -3,4 +3,20 @@
 		font-family: 'Alegreya Sans SC', sans-serif;
 		font-size: 22px;
 	}
+
+	ul {
+		padding: 0;
+		list-style-type: none;
+	}
+
+	li {
+		border-bottom: 1px solid #ddd;
+		padding: 5px;
+		font-size: 17px;
+
+		a {
+			text-decoration: none;		
+		}
+	}
+
 }

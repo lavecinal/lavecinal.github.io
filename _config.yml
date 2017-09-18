@@ -9,17 +9,19 @@
 
 baseurl: 
 exclude: ['README.md', 'Gemfile']
-permalink: "/:slug"
+permalink: "/novedades/:slug"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
   sass_dir: _scss
 
-host: 192.168.0.104
+host: 192.168.0.109
 
 collections:
   talleres:
     output: true
+  agenda:
+    output: true
 
-paginate: 6
+paginate: 5
 paginate_path: "/novedades/:num/"
