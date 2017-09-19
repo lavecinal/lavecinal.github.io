@@ -1,5 +1,5 @@
 ---
-title: Reunion Vecinal - 36
+title: Reunión Vecinal - 36
 layout: post-novedad
 featured: false
 categoria: noticia
@@ -8,7 +8,7 @@ hora: 19hs
 image_url: https://lavecinal.github.io/img/vecinal-espacio.jpg
 ---
 
-Reunion de la vecinal: Semana 36
+Reunión de la vecinal: Semana 36
 
 <p>
 	Temas tratados:

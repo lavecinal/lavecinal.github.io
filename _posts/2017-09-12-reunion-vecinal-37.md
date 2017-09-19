@@ -1,5 +1,5 @@
 ---
-title: Reunion Vecinal - 37
+title: Reunión Vecinal - 37
 layout: post-novedad
 featured: false
 categoria: noticia
@@ -8,7 +8,7 @@ hora: 19hs
 image_url: https://lavecinal.github.io/img/vecinal-espacio.jpg
 ---
 
-Reunion de la vecinal: Semana 37
+Reunión de la vecinal: Semana 37
 
 <p>
 	Temas a tratar:

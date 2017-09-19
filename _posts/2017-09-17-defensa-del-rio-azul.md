@@ -1,5 +1,5 @@
 ---
-title: Audiencia por el río azul suspendida
+title: Audiencia por el Río Azul suspendida
 layout: post-novedad
 categoria: noticia
 featured: true
