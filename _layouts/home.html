@@ -46,13 +46,16 @@ layout: default
 		{% for post in features limit:4%}
 		<div class="item">
 			<div class="image">
-				<img src="{{post.image_url}}">
+				<img class="ui fluid image" src="{{post.image_url}}">
 			</div>
 			<div class="content">
 				<a class="header" href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
 				<p class="description">{{post.meta}}</p>
 				<div class="action">
-					<a href="{{site.baseurl}}{{post.url}}" class="ui button">ver mas</a>
+					<a href="{{site.baseurl}}{{post.url}}" class="ui button orange compact">
+						Leer mas
+						<i class='fa fa-chevron-circle-right fa-fw'></i>
+					</a>
 				</div>
 			</div>
 		</div>
@@ -64,23 +67,33 @@ layout: default
 			{{content}}
 			</article>
 			<aside>
-				<div class="widget">
+				<div class="widget agenda">
 					<h3>agenda</h3>
 					{% assign items = site.agenda | sort: 'fecha' %}
 					{% for item in items limit:6 %}
 					  	  <div class="content">
-						      <p class="description">{{item.fecha}} / {{item.hora}}</p>
-						      <a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
+						      <b class="description">{{item.fecha}}</b> 
+						      <a href="{{site.baseurl}}{{item.url}}">{{item.hora}} - {{item.title}}</a>
 						      <hr>
 					  	  </div>
 					{% endfor %}
 					
 				</div>
-				<div class="widget">
-					<h3>seguinos</h3>
-					<div id="fb-root"></div>
-					<div class="fb-page" data-href="https://www.facebook.com/Vecinal-Paraje-Entre-Rios-249804882198048" data-tabs="timeline" data-width="500px" data-height="800px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Vecinal-Paraje-Entre-Rios-249804882198048" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Vecinal-Paraje-Entre-Rios-249804882198048">Vecinal Paraje Entre Rios</a></blockquote></div>
-				</div>
+				   <div class="widget talleres-widget">
+						<h3>talleres</h3>
+						<ul>
+						{% assign talleres-items = site.talleres | sort: 'title' %}
+						{% for item in talleres-items %}
+						  <li>
+						  	<a class="header" href="{{ site.baseurl }}{{ item.url }}">
+							  	<b>{{ item.title }}</b>
+							  	<small style="margin-left: 10px; color: #333;">({{ item.dia | sort | join: " y " }})</small>
+
+						  	</a>
+						  </li>
+						{% endfor %}
+						</ul>
+					</div>
 			</aside>
 		</section>
 	</div>

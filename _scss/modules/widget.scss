@@ -2,6 +2,9 @@
 	h3 {
 		font-family: 'Alegreya Sans SC', sans-serif;
 		font-size: 22px;
+		padding: .5em 0;
+		border-bottom: 4px solid #ddd;
+		margin-bottom: 15px;
 	}
 
 	ul {
@@ -15,8 +18,38 @@
 		font-size: 17px;
 
 		a {
-			text-decoration: none;		
+			text-decoration: none;	
+			color: #2c9f5b;
 		}
 	}
 
+
+	&.agenda {
+		h3 {
+
+		}
+
+		.content {
+
+		}
+
+		.description {
+			padding: 0 .5em;
+			display: block;
+		}
+
+		a {
+			text-decoration: none;
+			color: #2c9f5b;
+			font-weight: 600;
+			padding: 0 .5em;
+			display: block;
+		}
+	}
+
+	&.talleres-widget {
+		h3 {
+			
+		}
+	}
 }

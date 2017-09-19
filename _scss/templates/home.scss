@@ -20,6 +20,24 @@ $mobile: new-breakpoint(max-width 500px 4);
 		height: 400px;
 		background: #f1f1f1;
 		border-bottom: 2px solid #ddd;
+		background-image: url(/img/vecinal-espacio.jpg);
+		background-size: cover;
+		background-position: center center;
+
+		&::before {
+			background-color: #25a55f;
+			content: '';
+			position: absolute;
+			top: 0px;
+			left: 0;
+			right: 0;
+			height: 400px;
+			opacity: 0.9;
+
+			@include media($mobile) {
+				height: 600px;
+			}
+		}
 
 		@include media($mobile) {
 			height: 600px;
@@ -56,12 +74,25 @@ $mobile: new-breakpoint(max-width 500px 4);
 			-webkit-border-adius: 100px !important;
 			-moz-border-radius: 100px !important;
 			border-radius: 100px !important;
-			background: #869791 !important;
-			opacity: .5 !important;
+			background: #f9f9f9 !important;
+			opacity: .8 !important;
 			height: 45px;
 			width: 45px;
 			text-align: center;
 		    line-height: 45px;
+
+		    @include media($mobile) {
+		    	top: 30%;
+		    }
+
+
+		    .fa {
+		    	color: #177d42;
+		    }
+		}
+
+		.owl-page span {
+			background: #fff !important;
 		}
 
 		.owl-prev {
@@ -76,7 +107,7 @@ $mobile: new-breakpoint(max-width 500px 4);
 			height: 400px;
 			text-align: left;
 			padding: 3em 2em;
-			color: #333;
+			color: #fff;
 
 			@include media($mobile) {
 				height: 600px;
@@ -93,39 +124,52 @@ $mobile: new-breakpoint(max-width 500px 4);
 			}
 
 			.image {
-				width: 50%;
 				overflow: hidden;
 				border-radius: 9px;
 				position: relative;
 				height: 252px;
+			    flex: 1;
 
 
 				@include media($mobile) {
 					width: 100%;
+					height: auto;
 				}
 
 				img {
-					height: 400px;
+					height: auto;
 				}
 			}
 
 			.content {
 				width: 50%;
-				padding: 1em;
+				padding: 0 1em;
+				display: flex;
+				flex-direction: column;
+			    flex: 1;
 
 				@include media($mobile) {
 					width: 100%;
+					padding: .5em;
 				}
 
 
 				.header {
 					font-size: 32px;
-					color: #333;
+					color: #fff;
 					text-decoration: none;
+					font-weight: 600;
+
+					@include media($mobile) {
+						font-size: 24px;
+					}
+
 				}
 
 				.description {
 					font-size: 20px;
+					color: #fff;
+					flex: 1;
 				}
 
 			}
@@ -164,6 +208,12 @@ $mobile: new-breakpoint(max-width 500px 4);
 				color: #157a40;
 			}
 		}
+
+		.item {
+			border-bottom: 1px solid #ddd !important;
+			padding-bottom: 25px !important;
+		}
+
 		aside {
 			width: 350px;
 			padding: 0 2em;
