@@ -71,6 +71,9 @@ $(function(){
 
 	  		<h3><a href="{{ talleres.url }}">{{ talleres.title }}</a></h3>
 	  		<small style="text-align: center;">{{ talleres.dia | sort | join: " y " }}</small><br>
+	  		{{ talleres.hora }} 
+	  		
+	  		{{ talleres.hora-alt }}
 		</div>
 		{% endfor %}
 	</div>

@@ -6,7 +6,7 @@ layout: page
 <article>
 
 <div class="featured-image">
-	<img src="{{page.image_url}}" style="width: 100%;">
+	<!--<img src="{{page.image_url}}" style="width: 100%;">-->
 </div>
 <div class="article">
 	
@@ -37,6 +37,18 @@ layout: page
 
 </article>
 <aside>
+	<div class="widget agenda">
+		<h3>agenda</h3>
+		{% assign items = site.agenda | sort: 'fecha' %}
+		{% for item in items limit:6 %}
+		  	  <div class="content">
+			      <b class="description">{{item.fecha}}</b> 
+			      <a>{{item.hora}} - {{item.title}}</a>
+			      <hr>
+		  	  </div>
+		{% endfor %}
+		
+	</div>
 	<div class="widget">
 		<h3>últimas novedades</h3>
 		<ul>
@@ -48,6 +60,7 @@ layout: page
 		{%endfor %}
 		</ul>
 	</div>
+
 </aside>
 
 

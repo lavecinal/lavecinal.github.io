@@ -72,8 +72,8 @@ layout: default
 					{% assign items = site.agenda | sort: 'fecha' %}
 					{% for item in items limit:6 %}
 					  	  <div class="content">
-						      <b class="description">{{item.fecha}}</b> 
-						      <a href="{{site.baseurl}}{{item.url}}">{{item.hora}} - {{item.title}}</a>
+						      <b class="description">{{item.fecha}} a las <span >{{item.hora}} - {{item.title}}</span></b> 
+						      
 						      <hr>
 					  	  </div>
 					{% endfor %}

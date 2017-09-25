@@ -1,8 +1,8 @@
 ---
 title: Reunión de talleristas
 layout: post-novedad
-featured: true
-categoria: agenda
+featured: false
+categoria: noticia
 fecha: 19 de septiembre
 hora: 18.30hs
 image_url: https://lavecinal.github.io/img/vecinal-espacio.jpg
