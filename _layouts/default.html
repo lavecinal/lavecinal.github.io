@@ -37,8 +37,43 @@
 
 <script src="{{ site.baseurl }}/js/owl.carousel.js"></script>
 
-<footer style="text-align: center; background: #333; padding: 2em;">
-  <img src="{{ site.baseurl }}/img/logo-vecinal.svg" width="200px">
+<footer style="text-align: left; background: #333; padding: 2em;">
+<span class="fa-stack fa-lg" aria-hidden="true">
+    <i class="fa fa-flag fa-stack-2x" style="
+    color: #25a55f;
+"></i>
+    <i class="fa fa-heart fa-stack-1x" style="
+    color: #fff;
+    position: relative;
+    top: -5px;
+    font-size: 12px;
+    left: 0px;
+"></i>
+  </span>
+  <span id="demo" style="color: #fff;width: auto;text-indent: -7px;overflow: hidden;margin: 0px 0 0 15px;font-size: 20px;display: inline-block;position: relative;top: 5px;"></span>
+
+  <script>
+  // Set the date we're counting down to
+  var countDownDate = new Date("Aug 1, 2017 22:00:00").getTime();
+
+  // Update the count down every 1 second
+  var x = setInterval(function() {
+
+    // Get todays date and time
+    var now = new Date().getTime();
+
+    // Find the distance between now an the count down date
+    var distance = countDownDate - now;
+
+    // Time calculations for days, hours, minutes and seconds
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+
+    // Display the result in the element with id="demo"
+    document.getElementById("demo").innerHTML = days + " dias sin Santiago Maldonado";
+
+    
+  }, 1000);
+  </script>
 </footer>
 
 {% include offcanvas.html %}
