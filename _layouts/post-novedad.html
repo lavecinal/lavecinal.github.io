@@ -42,8 +42,8 @@ layout: page
 		{% assign items = site.agenda | sort: 'fecha' %}
 		{% for item in items limit:6 %}
 		  	  <div class="content">
-			      <b class="description">{{item.fecha}}</b> 
-			      <a>{{item.hora}} - {{item.title}}</a>
+			      <b class="description">{{item.fecha}} <span> a las {{item.hora}} - {{item.title}}</span></b> 
+			      
 			      <hr>
 		  	  </div>
 		{% endfor %}

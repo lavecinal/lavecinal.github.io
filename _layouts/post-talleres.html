@@ -8,12 +8,21 @@ layout: page
 <h1 style="
     text-align: center;
     font-size: 35px;
-    text-transform: lowercase;
     border-bottom: 1px solid #ddd;
 ">
 	{{page.title}} <br>
 </h1>
-<h2 style="text-align: center;">{{page.dia}}</h2>
+{% if page.anexo %}
+  <b style="text-align: center; width: 100%; display: block;">({{page.anexo}})</b>
+{% endif %}
+<h2 style="text-align: center;">
+{{page.dia}} de {{page.hora}}
+
+{% if page.dia-2 %}
+  y {{page.dia-2}} de {{page.hora-2}}
+{% endif %}
+</h2>
+
 
 {{content}}
 

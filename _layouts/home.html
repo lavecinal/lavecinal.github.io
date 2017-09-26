@@ -87,7 +87,12 @@ layout: default
 						  <li>
 						  	<a class="header" href="{{ site.baseurl }}{{ item.url }}">
 							  	<b>{{ item.title }}</b>
-							  	<small style="margin-left: 10px; color: #333;">({{ item.dia | sort | join: " y " }})</small>
+							  	<small style="margin-left: 10px; color: #333;">
+							  		({{ item.dia}} 
+									  	{% if item.dia-2 %}
+									  	  y {{ item.dia-2 }}
+									  	{% endif %})
+							  	</small>
 
 						  	</a>
 						  </li>

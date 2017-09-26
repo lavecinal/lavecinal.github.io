@@ -2,6 +2,6 @@
 layout: post-talleres
 title: Masajes
 permalink: /talleres/masajes/
-categoria: taller
 dia:   [jueves]
+hora: 10 a 12hs
 ---

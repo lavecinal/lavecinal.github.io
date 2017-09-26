@@ -3,5 +3,5 @@ layout: post-talleres
 title: Cocina
 permalink: /talleres/cocina/
 dia:   [ sabado]
-categoria: taller
+hora: 13 a 15hs
 ---

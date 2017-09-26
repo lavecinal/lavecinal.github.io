@@ -5,17 +5,35 @@ $mobile: new-breakpoint(max-width 500px 4);
 	padding: 0;
     min-height: 90vh;
 
+    .right-content {
+        margin: 0 0 0 300px;
+        padding: 1em;
+
+        @include media($mobile) {
+            margin: 0;
+            padding: 1em;
+        }
+    }
+
     .controls {
     	padding: 2em;
-    	background-image: url(/img/pizarra.png);
+    	//background-image: url(/img/pizarra.png);
+        background: #378c5b;
     	color: #fff;
-    	height: 37vh;
     	overflow: hidden;
     	background-size: cover;
     	background-position: center center;
+        position: fixed;
+        top: 80px;
+        left: 0;
+        width: 300px;
+        bottom: 0;
 
     	@include media($mobile) {
     		padding: 2em .5em;
+            position: relative;
+            top: 0;
+            width: 100%;
     	}
 
     	h1 {
@@ -30,7 +48,7 @@ $mobile: new-breakpoint(max-width 500px 4);
 
     	&::before {
     		background-color: #378c5b;
-    		content: '';
+    		//content: '';
     		position: absolute;
     		top: 80px;
     		left: 0;
@@ -41,6 +59,12 @@ $mobile: new-breakpoint(max-width 500px 4);
 
     	b {
     		position: relative;
+            display: block;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            text-transform: uppercase;
+            width: 100%;
+            margin-bottom: 15px;
 
     		@include media($mobile) {
     			display: none;
@@ -49,10 +73,12 @@ $mobile: new-breakpoint(max-width 500px 4);
 
     	button {
     		position: relative;
+            width: 100%;
 
     		@include media($mobile) {
     			font-size: 14px !important;
     			padding: 11px !important;
+                width: auto;
     		}
     		span {
     			text-transform: lowercase;

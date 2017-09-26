@@ -36,9 +36,7 @@ $(function(){
 
 <div class="talleres">
 	<div class="controls">
-		<h1>Talleres</h1>
-		<b>filtrar por dia</b>
-
+	  <b>filtrar por dia</b>
 	  <button type="button" class="ui button compact green" data-filter=".item-lunes">
 	  	<span> lunes</span>
 	  </button>
@@ -61,20 +59,23 @@ $(function(){
 	  	<span> domingo</span>
 	  </button>
 	  	  <button type="button" class="ui button compact orange " data-filter="all">
-	  	<span> mostrar todo </span>
+	  	<span> mostrar todos ({{ site.talleres | size }})</span>
 	  </button>
 	</div>
-	<div id="Container" class="container">
-	    <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
-		{% for talleres in site.talleres %}
-		<div class="mix item-{{ talleres.dia | sort | join: " item-" }}">
+	<div class="right-content">
+		<h1 style="text-align: center; border-bottom: 1px solid #ddd; margin: 1%;">Talleres </h1>
+		<div id="Container" class="container">
+			
+		    <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
+			{% for talleres in site.talleres %}
+			<div class="mix item-{{ talleres.dia}} item-{{ talleres.dia-2}}">
 
-	  		<h3><a href="{{ talleres.url }}">{{ talleres.title }}</a></h3>
-	  		<small style="text-align: center;">{{ talleres.dia | sort | join: " y " }}</small><br>
-	  		{{ talleres.hora }} 
-	  		
-	  		{{ talleres.hora-alt }}
+		  		<h3><a href="{{ talleres.url }}">{{ talleres.title }}</a></h3>
+		  		<b style="text-align: center;">{{ talleres.dia }} - {{ talleres.hora }} <br>
+		  		{{ talleres.dia-2 }} {{ talleres.hora-2 }}</b>
+		  		<small>{{talleres.anexo}}</small>
+			</div>
+			{% endfor %}
 		</div>
-		{% endfor %}
 	</div>
 </div>

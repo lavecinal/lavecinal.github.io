@@ -1,8 +1,7 @@
 ---
 layout: post-talleres
-title: Centro de montaña
-permalink: /talleres/centro-de-montana/
-categoria: taller
+title: Literatura en ingles
+permalink: /talleres/literatura-en-ingles/
 hora: 14 a 15:30hs
 edad: [ adultos]
 dia:   [ martes]
