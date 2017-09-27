@@ -69,36 +69,37 @@ layout: default
 			<aside>
 				<div class="widget agenda">
 					<h3>agenda</h3>
-					{% assign items = site.agenda | sort: 'fecha' %}
+					{% assign items = site.agenda | sort: 'orden' %}
 					{% for item in items limit:6 %}
 					  	  <div class="content">
-						      <b class="description">{{item.fecha}} a las <span >{{item.hora}} - {{item.title}}</span></b> 
-						      
+						      <div class="description">
+							      {{item.title}} <br>
+							      <b>{{item.fecha}} a las {{item.hora}}</b>
+						      </div> 
 						      <hr>
 					  	  </div>
 					{% endfor %}
-					
 				</div>
-				   <div class="widget talleres-widget">
-						<h3>talleres</h3>
-						<ul>
-						{% assign talleres-items = site.talleres | sort: 'title' %}
-						{% for item in talleres-items %}
-						  <li>
-						  	<a class="header" href="{{ site.baseurl }}{{ item.url }}">
-							  	<b>{{ item.title }}</b>
-							  	<small style="margin-left: 10px; color: #333;">
-							  		({{ item.dia}} 
-									  	{% if item.dia-2 %}
-									  	  y {{ item.dia-2 }}
-									  	{% endif %})
-							  	</small>
+			   <div class="widget talleres-widget">
+					<h3>talleres</h3>
+					<ul>
+					{% assign talleres-items = site.talleres | sort: 'title' %}
+					{% for item in talleres-items %}
+					  <li>
+					  	<a class="header" href="{{ site.baseurl }}{{ item.url }}">
+						  	<b>{{ item.title }}</b>
+						  	<small style="margin-left: 10px; color: #333;">
+						  		({{ item.dia}} 
+								  	{% if item.dia-2 %}
+								  	  y {{ item.dia-2 }}
+								  	{% endif %})
+						  	</small>
 
-						  	</a>
-						  </li>
-						{% endfor %}
-						</ul>
-					</div>
+					  	</a>
+					  </li>
+					{% endfor %}
+					</ul>
+				</div>
 			</aside>
 		</section>
 	</div>

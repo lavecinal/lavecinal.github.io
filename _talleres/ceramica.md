@@ -1,6 +1,6 @@
 ---
 layout: post-talleres
-title: Ceramica
+title: Cerámica
 permalink: /talleres/ceramica/
 dia:   [ lunes]
 dia-2:   [ jueves]

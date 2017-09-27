@@ -2,5 +2,6 @@
 layout: agenda
 title: Curanto
 fecha: 29 de Octubre
-hora: 12hs
+hora: 13hs
+orden: 3
 ---

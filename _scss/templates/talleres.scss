@@ -9,7 +9,7 @@ $mobile: new-breakpoint(max-width 500px 4);
         margin: 0 0 0 300px;
         padding: 1em;
 
-        @include media($mobile) {
+        @include media($desktop) {
             margin: 0;
             padding: 1em;
         }
@@ -29,7 +29,7 @@ $mobile: new-breakpoint(max-width 500px 4);
         width: 300px;
         bottom: 0;
 
-    	@include media($mobile) {
+    	@include media($desktop) {
     		padding: 2em .5em;
             position: relative;
             top: 0;
@@ -66,7 +66,7 @@ $mobile: new-breakpoint(max-width 500px 4);
             width: 100%;
             margin-bottom: 15px;
 
-    		@include media($mobile) {
+    		@include media($desktop) {
     			display: none;
     		}
     	}
@@ -75,7 +75,7 @@ $mobile: new-breakpoint(max-width 500px 4);
     		position: relative;
             width: 100%;
 
-    		@include media($mobile) {
+    		@include media($desktop) {
     			font-size: 14px !important;
     			padding: 11px !important;
                 width: auto;
@@ -89,6 +89,20 @@ $mobile: new-breakpoint(max-width 500px 4);
 
     .mix {
     	background: #fff;
+
+        h3 {
+            font-size: 30px;
+            margin: 0 0 15px 0;
+            font-weight: 100;
+            border-bottom: 1px solid #ddd;
+        }
+
+        b {
+            text-align: center;
+            text-transform: lowercase;
+            font-family: 'Alegreya Sans SC';
+            font-size: 18px;
+        }
     }
 
 }

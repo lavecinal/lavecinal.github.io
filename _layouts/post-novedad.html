@@ -18,6 +18,8 @@ layout: page
 	{{page.title}} <br>
 </h1>
 
+
+
 {{content}}
 </div>
 
@@ -39,15 +41,16 @@ layout: page
 <aside>
 	<div class="widget agenda">
 		<h3>agenda</h3>
-		{% assign items = site.agenda | sort: 'fecha' %}
+		{% assign items = site.agenda | sort: 'orden' %}
 		{% for item in items limit:6 %}
 		  	  <div class="content">
-			      <b class="description">{{item.fecha}} <span> a las {{item.hora}} - {{item.title}}</span></b> 
-			      
-			      <hr>
+	  	        <div class="description">
+	  	  	      {{item.title}} <br>
+	  	  	      <b>{{item.fecha}} a las {{item.hora}}</b>
+	  	        </div> 
+			    <hr>
 		  	  </div>
 		{% endfor %}
-		
 	</div>
 	<div class="widget">
 		<h3>últimas novedades</h3>
