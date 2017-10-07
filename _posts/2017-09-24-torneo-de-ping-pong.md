@@ -1,7 +1,7 @@
 ---
 title: Torneo de Ping Pong
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 fecha: 25 de septiembre
 hora: 11hs
