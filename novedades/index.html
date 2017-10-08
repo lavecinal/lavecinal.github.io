@@ -9,18 +9,18 @@ layout: page
     <div class="ui items">
     {% for post in paginator.posts %}
     <div class="item">
-      <div class="image">
+      <div class="ui image medium">
         <img src="{{post.image_url}}">
       </div>
       <div class="content">
         <a href="{{site.baseurl}}{{post.url}}" class="header">
           {{post.title}}
         </a>
-        <div class="description">
+        <div class="description" style="font-size: 18px; line-height: 23px;">
           <p> {{post.meta}}</p>
         </div>
         <div class="meta">
-          <a href="{{site.baseurl}}{{post.url}}" class="ui button mini teal compact">
+          <a href="{{site.baseurl}}{{post.url}}" class="ui button small inverted orange compact">
             Leer mas
             <i class='fa fa-chevron-circle-right fa-fw'></i>
           </a>

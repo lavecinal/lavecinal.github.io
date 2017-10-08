@@ -1,5 +1,5 @@
 ---
-title: Gran Curanto para la ampliacion de la vecinal
+title: Gran Curanto para la ampliación de la vecinal
 layout: post-novedad
 featured: true
 categoria: noticia
@@ -27,9 +27,11 @@ meta: Recaudaremos fondos para la construcción de una ampliación en el centro 
 •	Convocamos a productores y artesanos a armar puesto.
 •	Costo de la porción: $150.-
 
-Venta: A través del Face Book y la reunión de los martes 19 hs.
-En la Rotisería de Isolina y el Kiosco de Pedro (los dos muy cerca de la Esc 109).
-También a los TE: 2944299684 y 2944551873
+Venta a través del facebook y la reunión de los Martes a las 19 hs
+En la Rotisería de Isolina, el Kiosco de Pedro y la Verdulería de Thalman
+( todos muy cerca de la escuela 109 )
+Y también a los tel. 294-429-9684 y 294-455-1873
+
 •	Se suspende en caso de lluvia.
 
 <img src="/img/curanto-slider.jpg" alt="" width="100%">

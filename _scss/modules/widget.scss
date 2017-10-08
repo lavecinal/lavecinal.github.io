@@ -1,15 +1,20 @@
 .widget {
+	background: #fff;
+
 	h3 {
 		font-family: 'Alegreya Sans SC', sans-serif;
 		font-size: 22px;
 		padding: .5em 0;
 		border-bottom: 4px solid #ddd;
-		margin-bottom: 15px;
+		margin-bottom: 0;
+		text-align: center;
+		background: #fff;
 	}
 
 	ul {
-		padding: 0;
+		padding: 1em;
 		list-style-type: none;
+		margin: 0;
 	}
 
 	li {
@@ -23,18 +28,25 @@
 		}
 	}
 
+	
 
 	&.agenda {
+
+		hr {margin: 0}
 		h3 {
 
 		}
 
 		.content {
+		    margin: 0;
+			
+			
 
 		}
 
+
 		.description {
-			padding: 0 .5em;
+			padding: 10px;
 			display: block;
 		}
 
