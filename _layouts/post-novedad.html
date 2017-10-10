@@ -45,7 +45,11 @@ layout: page
 		{% for item in items limit:6 %}
 		  	  <div class="content">
 	  	        <div class="description">
-	  	  	      {{item.title}} <br>
+            	  {% if item.link %}
+      			<a href="{{ site.baseurl }}{{item.link}}">{{item.title}} </a>
+            	  {% else %}
+      			<a style="color: #333;">{{item.title}} </a>
+            	  {% endif %}
 	  	  	      <b>{{item.fecha}} a las {{item.hora}}</b>
 	  	        </div> 
 			    <hr>
