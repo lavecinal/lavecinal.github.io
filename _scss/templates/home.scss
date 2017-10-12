@@ -1,4 +1,6 @@
 $mobile: new-breakpoint(max-width 500px 4);
+$ipad-v: new-breakpoint(max-width 768px 4);
+$ipad-h: new-breakpoint(max-width 1027px 4);
 
 .home {
 
@@ -184,6 +186,10 @@ $mobile: new-breakpoint(max-width 500px 4);
 		padding: 0;
 		display: flex;
 
+		@include media($ipad-v) {
+			flex-direction: column;
+		}
+
 		@include media($mobile) {
 			flex-direction: column-reverse;
 		}
@@ -218,6 +224,10 @@ $mobile: new-breakpoint(max-width 500px 4);
 		aside {
 			width: 350px;
 			padding: 0 2em;
+
+			@include media($ipad-v) {
+			 	width: 100%;
+			}
 
 			 @include media($mobile) {
 			 	width: 100%;
