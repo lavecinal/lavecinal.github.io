@@ -1,7 +1,7 @@
 ---
 title: Sabado de música con Ánimos inciertos
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 fecha: 14 de Octubre
 hora: 21hs
