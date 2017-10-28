@@ -71,9 +71,11 @@ $(function(){
 		    <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
 			{% for talleres in site.talleres %}
 			<div class="mix item-{{ talleres.dia}} item-{{ talleres.dia-2}}" >
+				{% if talleres.slug %}
 				<a href="{{ site.baseurl }}{{ talleres.url }}">
 					<img class="ui image" src="/img/talleres/header-{{talleres.slug}}.jpg" alt="">
 				</a>
+				{% endif %}
 		  		<h3><a href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a></h3>
 		  		<b style="text-align: center;">{{ talleres.dia }} - {{ talleres.hora }} <br>
 		  		{{ talleres.dia-2 }} {{ talleres.hora-2 }}</b> <br>
