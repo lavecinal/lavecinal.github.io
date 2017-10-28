@@ -6,9 +6,7 @@ layout: page
 <article style="background: #fff; padding: 2em 3em;">
 
 	
-<a class="ui button green tiny" href="/talleres">
-	<i class="fa fa-chevron-left">Volver a talleres</i>
-</a>
+<img src="/img/talleres/{{page.slug}}.jpg" alt="" width="100%">
 
 
 <h1 style="
@@ -29,8 +27,9 @@ layout: page
 {% endif %}
 </h2>
 
-
-{{content}}
+<section class="article">
+	{{content}}
+</section>
 
 <div class="comentarios">
 <h2 style="text-align: center">Comentarios</h2>
@@ -40,6 +39,9 @@ layout: page
 </article>
 <aside>
 
+	<a class="ui button green tiny" href="/talleres">
+		<i class="fa fa-chevron-left">Volver a talleres</i>
+	</a>
 
    <div class="widget">
 		<h3>lista de talleres</h3>

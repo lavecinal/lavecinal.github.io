@@ -1,7 +1,7 @@
 ---
 layout: post-talleres
-title: Sikuris
-permalink: /talleres/sikuris/
+title: Sikuri
+permalink: /talleres/sikuri/
 dia:   [sabado]
 hora: 17 a 19hs
 ---

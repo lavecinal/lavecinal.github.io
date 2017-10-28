@@ -65,16 +65,17 @@ $(function(){
 	<div class="right-content">
 		<h1 style="text-align: left; border-bottom: 1px solid #ddd; margin: 1%;">Talleres
 		</h1>
-		<span class="talleres-soon">contenido en construcción <i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+		<span class="talleres-soon">última actualización el 28/10 <i class="fa fa-pencil-square" aria-hidden="true"></i></span>
 		<div id="Container" class="container">
 			
 		    <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
 			{% for talleres in site.talleres %}
-			<div class="mix item-{{ talleres.dia}} item-{{ talleres.dia-2}}">
-
-		  		<h3><a>{{ talleres.title }}</a></h3>
+			<div class="mix item-{{ talleres.dia}} item-{{ talleres.dia-2}}" >
+				<a href="{{ talleres.permalink }}"><img class="ui image" src="/img/talleres/{{talleres.slug}}.jpg" alt=""></a>
+		  		
+		  		<h3><a href="{{ talleres.permalink }}">{{ talleres.title }}</a></h3>
 		  		<b style="text-align: center;">{{ talleres.dia }} - {{ talleres.hora }} <br>
-		  		{{ talleres.dia-2 }} {{ talleres.hora-2 }}</b>
+		  		{{ talleres.dia-2 }} {{ talleres.hora-2 }}</b> <br>
 		  		<small>{{talleres.anexo}}</small>
 			</div>
 			{% endfor %}
