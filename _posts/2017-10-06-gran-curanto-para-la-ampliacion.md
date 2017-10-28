@@ -3,7 +3,7 @@ title: Gran Curanto para la ampliación de la vecinal
 layout: post-novedad
 featured: true
 categoria: noticia
-fecha: 29 de octubre
+fecha: 5 de noviembre
 hora: 13hs
 image_url: /img/curanto-slider.jpg
 meta: Recaudaremos fondos para la construcción de una ampliación en el centro comunitario. Domingo 29/10. A las 13 hs (aprox) “destapamos” y se sirven las porciones.
@@ -12,7 +12,7 @@ meta: Recaudaremos fondos para la construcción de una ampliación en el centro 
 
 
 
-<p>Domingo 29/10. A las 13 hs (aprox) “destapamos” y se sirven las porciones.</p>
+<p>Domingo 5/11. A las 13 hs (aprox) “destapamos” y se sirven las porciones.</p>
 <i>(Para los vecinos curiosos: pueden acercarse para ver todo el proceso de preparación y cocción del Curanto.)</i>
 <ul style="font-size: 20px;">
 <li>Puede consumirse en La Vecinal (llevar platos, cubiertos y silla – banco)</li>
