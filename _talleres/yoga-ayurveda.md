@@ -25,5 +25,7 @@ Yoga esta abierto a todes, yoga es terapeútico, yoga es sentir, yoga es unión.
 <p>
 Les espero los Lunes de 16 a 17.30 hs en la vecinal 
 Venite con ropa cómoda y ganas de sentirte ✨
+
 </p>
+<img src="/img/talleres/misc-yoga-ayurveda.jpg" alt="" width="100%;">
 

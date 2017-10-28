@@ -5,8 +5,10 @@ layout: page
 	
 <article style="background: #fff; padding: 2em 3em;">
 
-	
-<img src="/img/talleres/{{page.slug}}.jpg" alt="" width="100%">
+{% if page.slug %}
+  <img src="/img/talleres/featured-{{page.slug}}.jpg" alt="" width="100%">
+{% endif %}
+
 
 
 <h1 style="

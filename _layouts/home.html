@@ -91,7 +91,7 @@ layout: default
 					{% assign talleres-items = site.talleres | sort: 'title' %}
 					{% for item in talleres-items %}
 					  <li>
-					  	<a class="header" >
+					  	<a class="header" href="{{ site.baseurl }}{{ item.url }}">
 						  	<b>{{ item.title }}</b>
 						  	<small style="margin-left: 10px; color: #333;">
 						  		({{ item.dia}} 
