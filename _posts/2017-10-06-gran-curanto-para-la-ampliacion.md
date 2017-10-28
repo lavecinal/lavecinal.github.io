@@ -6,7 +6,7 @@ categoria: noticia
 fecha: 5 de noviembre
 hora: 13hs
 image_url: /img/curanto-slider.jpg
-meta: Recaudaremos fondos para la construcción de una ampliación en el centro comunitario. Domingo 29/10. A las 13 hs (aprox) “destapamos” y se sirven las porciones.
+meta: Recaudaremos fondos para la construcción de una ampliación en el centro comunitario. Domingo 5/11. A las 13 hs (aprox) “destapamos” y se sirven las porciones.
 ---
 <p>Recaudaremos fondos para la construcción de una ampliación en el centro comunitario</p>
 
