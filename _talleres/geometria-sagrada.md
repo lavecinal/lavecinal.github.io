@@ -1,9 +1,7 @@
 ---
 layout: post-talleres
-slug: geometria-sagrada
-img: geometria-sagrada
 title: Geometría Sagrada
-permalink: /talleres/geometria-sagrada/
+image: /img/talleres/featured-geometria-sagrada.jpg
 hora: 14 a 16hs
 dia:   [viernes]
 ---

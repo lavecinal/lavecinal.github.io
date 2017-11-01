@@ -2,8 +2,7 @@
 layout: post-talleres
 title: Reiki
 permalink: /talleres/reiki/
-slug: reiki
-img: reiki
+image: /img/talleres/featured-reiki.jpg
 dia:   [miercoles]
 hora: 10 a 12hs
 ---

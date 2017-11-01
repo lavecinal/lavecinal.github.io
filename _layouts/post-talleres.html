@@ -5,17 +5,11 @@ layout: page
 	
 <article style="background: #fff; padding: 2em 3em;">
 
-{% if page.slug %}
-  <img src="/img/talleres/featured-{{page.slug}}.jpg" alt="" width="100%">
+{% if page.image %}
+  <img src="{{page.image}}" alt="" width="100%">
 {% endif %}
 
-
-
-<h1 style="
-    text-align: center;
-    font-size: 35px;
-    border-bottom: 1px solid #ddd;
-">
+<h1 style="text-align: center;font-size: 35px;border-bottom: 1px solid #ddd;">
 	{{page.title}} <br>
 </h1>
 {% if page.anexo %}

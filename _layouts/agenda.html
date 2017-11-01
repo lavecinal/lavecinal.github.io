@@ -2,39 +2,21 @@
 layout: page
 ---
 <div class="post">
-	
-<article style="background: #fff; padding: 2em 3em;">
-	
-<h1 style="
-    text-align: center;
-    font-size: 35px;
-    text-transform: lowercase;
-    border-bottom: 1px solid #ddd;
-">
-	{{page.title}} <br>
-</h1>
-<h2 style="text-align: center;">{{page.fecha}}</h2>
-<h2 style="text-align: center;">{{page.hora}}</h2>
+	<article style="background: #fff; padding: 2em 3em;">
+	<h1 style="text-align: center; font-size: 35px;text-transform: lowercase; border-bottom: 1px solid #ddd;">
+		{{page.title}} <br>
+	</h1>
+	<h2 style="text-align: center;">{{page.fecha}}</h2>
+	<h2 style="text-align: center;">{{page.hora}}</h2>
 
-{{content}}
-
-
-<section>
-	
-	<h3>Agenda</h3>
-	<ul>
-		
-	{% for agenda in site.agenda %}
-	  <li><a class="header" href="{{ site.baseurl }}{{ agenda.url }}">{{ agenda.title }}</a></li>
-	{% endfor %}
-	</ul>
-
-	
-
-</section>
-
-</article>
-
-
-
+	{{content}}
+		<section>
+			<h3>Agenda</h3>
+			<ul>
+			{% for agenda in site.agenda %}
+			  <li><a class="header" href="{{ site.baseurl }}{{ agenda.url }}">{{ agenda.title }}</a></li>
+			{% endfor %}
+			</ul>
+		</section>
+	</article>
 </div>

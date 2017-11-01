@@ -1,12 +1,11 @@
 ---
 layout: post-talleres
-slug: yoga-ayurveda
-title: Yoga (Ayurveda)
 permalink: /talleres/yoga-ayurveda/
+title: Yoga (Ayurveda)
 dia:   [lunes]
 hora: 16 a 17:30hs
-img: yoga-ayurveda
-contacto: https://www.facebook.com/AngelesSalinas23/?hc_ref=ARR3rDw364Sv9N37Qtfxs7VBjBHJ_ZyoOo5CoufCYxzfHMToZi6Kt-j9fznLVNTj4RY&fref=nf
+image: /img/talleres/featured-yoga-ayurveda.jpg
+
 ---
 
 
