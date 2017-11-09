@@ -1,5 +1,6 @@
 ---
 layout: agenda
+published: false
 title: Curanto para la ampliación
 fecha: 5 de Noviembre
 hora: 13hs
