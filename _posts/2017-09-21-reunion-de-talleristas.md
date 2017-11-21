@@ -3,16 +3,11 @@ title: Reunión de talleristas
 layout: post-novedad
 featured: false
 categoria: noticia
-fecha: 19 de septiembre
-hora: 18.30hs
+fecha: 21 de Noviembre
+hora: 19hs
 image_url: https://lavecinal.github.io/img/vecinal-espacio.jpg
-meta: Para acompañar el funcionamiento de los distintos Talleres y revisar lo que sea necesario.
+meta: La idea es la de juntarnos a las 19hs para analizar la propuesta de organizar una muestra
 ---
 
-Martes 19 de Septiembre  a las 18.30 hs. en la VECI.
+La idea es la de juntarnos a las 19hs para analizar la propuesta de organizar una muestra
 
--- Para acompañar el funcionamiento de los distintos Talleres y revisar lo que sea necesario.
-
--- Es muy importante la participación de todes.
-
-Los esperamos con unos mates !!!.

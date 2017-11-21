@@ -1,0 +1,51 @@
+---
+layout: page
+---
+<div class="post featured">
+	
+<article>
+
+<div class="featured-image">
+	<!--<img src="{{page.image_url}}" style="width: 100%;">-->
+</div>
+<div class="article">
+	
+<h1 style="
+    text-align: left;
+    font-size: 35px;
+    border-bottom: 1px solid #ddd;
+">
+	{{page.title}} <br>
+</h1>
+
+
+
+{{content}}
+</div>
+
+<div class="pagination">  
+  {% if page.previous.url %}  
+    <a class="prev" href="{{page.previous.url}}">
+    	<i class="fa fa-chevron-left" aria-hidden="true"></i>
+    	{{page.previous.title}}
+    </a>  
+  {% endif %}  
+  {% if page.next.url %}  
+    <a class="next" href="{{page.next.url}}" style="text-align: right">
+    	{{page.next.title}}
+    	<i class="fa fa-chevron-right" aria-hidden="true"></i>
+    </a>  
+  {% endif %}  
+</div>  
+
+<div class="comentarios">
+<h2 style="text-align: center">Comentarios</h2>
+<div class="fb-comments" data-href="lavecinal.github.io{{ page.url }}" data-num-posts="4" data-width="100%"></div>
+</div>
+
+</article>
+
+
+
+
+</div>

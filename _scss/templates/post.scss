@@ -40,6 +40,8 @@ $mobile: new-breakpoint(max-width 500px 4);
 		p {
 			font-size: 20px;
 		}
+
+
 	}
 
 	.pagination {
@@ -74,5 +76,17 @@ $mobile: new-breakpoint(max-width 500px 4);
 
 	.comentarios {
 		display: none;
+	}
+
+	&.featured {
+		.article {
+			max-width: 800px; 
+		}
+
+		h1 {
+			text-align: center !important;
+			font-size: 40px !important;
+			font-weight: 100;
+		}
 	}
 }
