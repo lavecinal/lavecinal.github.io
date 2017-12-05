@@ -66,7 +66,7 @@ layout: page
 		<h3>últimas novedades</h3>
 		<ul>
 			
-		 {% for post in site.posts %}
+		 {% for post in site.posts limit:9 %}
 	 	  <li><a href="{{site.baseurl}}{{post.url}}" class="header">
 	 	  	{{post.title}}
 	 	  </a></li>
