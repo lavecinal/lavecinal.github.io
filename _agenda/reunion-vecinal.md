@@ -2,6 +2,6 @@
 layout: agenda
 title: Reunion Vecinal
 fecha: Martes
-hora: 19hs
+hora: 20hs
 orden: 1
 ---

@@ -1,7 +1,7 @@
 ---
 title: Peña folklorica Al Encuentro
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 fecha: 25 de Noviembre
 hora: 22hs
