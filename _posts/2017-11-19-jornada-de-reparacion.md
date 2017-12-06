@@ -3,7 +3,7 @@ title: Jornada de reparación
 layout: post-novedad
 categoria: noticia
 featured: false
-image_url: https://scontent.faep1-1.fna.fbcdn.net/v/t1.0-9/23621985_1937151159881791_2985211468506848338_n.jpg?oh=fd51ae4f12404095b3bc7ac371d31829&oe=5AC7C1A8
+image_url: /img/jornada-de-reparacion.jpg
 meta: Compartimos un domingo de reparaciones de libros de la biblioteca, ropa, muebles. Aprovechamos para arreglar algunas cosas de la veci y aprendimos un poco del oficio de otros vecinos en el hacer!
 ---
 

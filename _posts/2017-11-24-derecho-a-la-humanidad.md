@@ -3,7 +3,7 @@ title: Derecho a la humanidad - Raíz de nuestro derechos
 layout: post-novedad
 categoria: noticia
 featured: false
-image_url: https://scontent.faep1-1.fna.fbcdn.net/v/t1.0-9/23517970_1937173739879533_7947142550355690290_n.jpg?oh=443bd1ef8f33073087f763e35d4484db&oe=5A9AFB16
+image_url: /img/derecho-a-la-humanidad.jpg
 meta: Con el formato de clases públicas originadas en la preocupación por la hostilidad social hacia el pueblo mapuche.
 ---
 
