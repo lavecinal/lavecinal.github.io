@@ -222,7 +222,7 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 		}
 
 		aside {
-			width: 350px;
+			width: 400px;
 			padding: 0 2em;
 
 			@include media($ipad-v) {

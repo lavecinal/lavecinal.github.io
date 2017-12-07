@@ -1,9 +1,10 @@
 $mobile: new-breakpoint(max-width 500px 4);
+$ipad-v: new-breakpoint(max-width 768px 4);
 
 .post {
 	display: flex;
 
-	@include media($mobile) {
+	@include media($ipad-v) {
 		flex-direction: column;
 	}
 
@@ -12,19 +13,20 @@ $mobile: new-breakpoint(max-width 500px 4);
 		background: #fff;
 		padding: 2em 3em;
 
-		@include media($mobile) {
+		@include media($ipad-v) {
 			width: 100%;
 			padding: 1.8em 0.8em;
 		}
 	}
 
 	aside {
-		width: 400px;
+		width: 350px;
 		padding: 2em 1em;
 
-		@include media($mobile) {
+		@include media($ipad-v) {
 			width: 100%;
 		}
+
 	}
 
 	.featured-image {
