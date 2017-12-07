@@ -90,3 +90,37 @@ $mobile: new-breakpoint(max-width 500px 4);
 		}
 	}
 }
+
+.gallery {
+	display: flex;
+	flex-wrap: wrap;
+
+	.item-gallery {
+		width: 48%;
+		margin: 1%;
+	
+		@include media($mobile) {
+			width: 100%;
+			margin: 1% 0;
+		}
+
+		img {
+			width: 100%;
+		}
+		
+	}		 
+
+	&.col-3 {
+		.item-gallery {
+			width: 31%;
+			margin: 1%;
+
+			@include media($mobile) {
+				width: 100%;
+				margin: 1% 0;
+			}
+		}
+
+	}
+
+}

@@ -9,7 +9,7 @@ layout: home
 
 <div class="ui items">
   {% assign features = site.posts | where:"featured", false %}
-  {% for post in features limit:4%}
+  {% for post in features limit:3%}
     {% if post.categoria == 'noticia' %}
       <div class="item">
       <div class="ui image medium">
