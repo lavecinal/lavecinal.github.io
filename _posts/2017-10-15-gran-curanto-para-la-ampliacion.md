@@ -1,7 +1,7 @@
 ---
 title: Gran Curanto para la ampliación de la vecinal
 layout: post-featured-novedad
-featured: true
+featured: false
 categoria: noticia
 fecha: 5 de noviembre
 hora: 13hs

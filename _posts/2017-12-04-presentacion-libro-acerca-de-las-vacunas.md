@@ -2,7 +2,7 @@
 title: Presentacion del libro "Acerca de las vacunas"
 layout: post-novedad
 categoria: noticia
-featured: true
+featured: false
 image_url: /img/acerca-de-las-vacunas.jpg
 meta: Este jueves 7 compartimos junto Adriana Marcus quien nos presento su nuevo libro acerca de las vacunas
 ---
