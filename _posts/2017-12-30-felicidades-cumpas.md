@@ -1,7 +1,7 @@
 ---
 title: La casa común, la casa de todos
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 fecha: 31 de diciembre
 hora: 13hs

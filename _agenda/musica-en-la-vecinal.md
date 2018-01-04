@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Peña al Encuentro en la vecinal
-fecha: 25 de Noviembre
-hora: 22hs
-published: false
-orden: 2
-link: /novedades/pena-folklorica-al-encuentro
+title: Peña al Encuentro al aire libre
+fecha: Viernes de Enero
+hora: 21hs
+published: true
+orden: 1
+link: /novedades/pena-al-encuentro-al-aire-libre
 ---

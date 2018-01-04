@@ -14,9 +14,9 @@ layout: page
 	<!--<img src="{{page.image_url}}" style="width: 100%;">-->
 </div>
 <div class="article">
-	
+<h3 style="text-align: center; padding: 15px; ">Publicado el {{ page.date | date: "%-d/%-m/%Y" }}</h3>
 <h1 style="
-    text-align: left;
+    text-align: center;
     font-size: 35px;
     border-bottom: 1px solid #ddd;
 ">
@@ -26,6 +26,7 @@ layout: page
 
 
 {{content}}
+
 </div>
 
 <div class="pagination">  
