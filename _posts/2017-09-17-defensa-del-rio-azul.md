@@ -3,7 +3,7 @@ title: Audiencia por el Río Azul suspendida
 layout: post-novedad
 categoria: noticia
 featured: false
-image_url: https://scontent.fsst1-1.fna.fbcdn.net/v/t1.0-0/s480x480/16708477_10210569948140738_9119692308823874340_n.jpg?oh=a087c041e864791c7eb25172d965c6f4&oe=5A518F83
+image_url: /img/audiencia-rio-azul.jpg
 meta: Ponemos en conocimiento de vecinos y vecinas de la comarca que la audiencia prevista para el 19 de septiembre fue suspendida. 
 ---
 

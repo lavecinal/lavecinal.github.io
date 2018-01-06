@@ -5,7 +5,7 @@ categoria: noticia
 fecha: 10 de septiembre
 hora: 13hs
 featured: false
-image_url: https://scontent.faep1-1.fna.fbcdn.net/v/t1.0-9/21742974_1909996609263913_523078116704603658_n.jpg?oh=7a1a693d3932dbd917754f446e4c14ca&oe=5ACA021D
+image_url: /img/intercambio-de-semillas.jpg
 meta: Esta primavera nos sorprendio reclamando por la vida. Por eso intercambiamos semillas y compartimos la comida.
 ---
 

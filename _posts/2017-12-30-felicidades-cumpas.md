@@ -5,10 +5,9 @@ featured: false
 categoria: noticia
 fecha: 31 de diciembre
 hora: 13hs
-image_url: https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/26165325_1959720007624906_6547239577679067788_n.jpg?oh=eb608854135cfcba19cc8ae86a117c31&oe=5AF314C4
+image_url: /img/casa-de-todes.jpg
 meta: Para TODES les que participaron, que quisieron, que no se animaron. La puerta permanece abierta.
 ---
-
 
 <p>
 	Para TODES les que participaron, que quisieron, que no se animaron. La puerta va a permanecer abierta durante todo el verano.

@@ -3,7 +3,7 @@ title: Cumpleaños de la biblio
 layout: post-novedad
 categoria: noticia
 featured: false
-image_url: https://scontent.faep1-1.fna.fbcdn.net/v/t1.0-9/25151930_302432440268625_2174431353050716867_n.png?oh=9e1a2014e4a7d3b090b04f702d826b1f&oe=5ABC47B5
+image_url: /img/cumple-biblio.png
 meta: Hoy hace 3 años se creo el espacio de la Biblioteca Paraje Entre Ríos que funciona gracias al trabajo y el aporte de las y los vecinos del paraje
 ---
 
