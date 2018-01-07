@@ -9,8 +9,7 @@ meta: Exploraremos con conciencia las maravillas que nos ofrece la internet de h
 ---
 
 <p>
-	Exploraremos con conciencia las maravillas que nos ofrece la internet de hoy en día. Tratando de aplicar
-	todas esas herramientas y tecnologias libres que se encuentran accesibles con el fin de potenciar nuestros proyectos.
+	Compartiremos con conciencia las maravillas que nos ofrece la internet de hoy en día. Tratando de aplicar todas esas herramientas y tecnologias libres que se encuentran accesibles con el fin de potenciar nuestros proyectos.
 </p>
 
 <a href="https://www.facebook.com/santuandg/" target="_blank">
