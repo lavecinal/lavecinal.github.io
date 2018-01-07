@@ -4,8 +4,8 @@ permalink: /talleres/yoga-ayurveda/
 title: Yoga (Ayurveda)
 dia:   [lunes]
 hora: 16 a 17:30hs
-image: /img/talleres/featured-yoga-ayurveda.jpg
-
+image_url: /img/talleres/featured-yoga-ayurveda.jpg
+meta: Veni a experimentar una clase de Yoga Contemporáneo y Ayúrveda.
 ---
 
 

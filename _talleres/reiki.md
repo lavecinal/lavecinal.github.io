@@ -2,9 +2,10 @@
 layout: post-talleres
 title: Reiki
 permalink: /talleres/reiki/
-image: /img/talleres/featured-reiki.jpg
+image_url: /img/talleres/featured-reiki.jpg
 dia:   [miercoles]
 hora: 10 a 12hs
+meta: Las sesiones de los Miércoles en La Vecinal variarán en duración según lo que cada uno necesite y la cantidad de personas que asistan.
 ---
 
 <p>

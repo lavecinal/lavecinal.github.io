@@ -2,9 +2,10 @@
 layout: post-talleres
 title: Diseño y software libres
 permalink: /talleres/diseno-y-software-libre/
-image: /img/talleres/featured-diseno-y-software-libre.jpg
+image_url: /img/talleres/featured-diseno-y-software-libre.jpg
 dia:   [ martes]
 hora: 10 a 12hs
+meta: Exploraremos con conciencia las maravillas que nos ofrece la internet de hoy en día.
 ---
 
 <p>
