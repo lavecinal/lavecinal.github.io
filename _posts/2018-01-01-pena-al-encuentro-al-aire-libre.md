@@ -1,7 +1,7 @@
 ---
 title: Peña al Encuentro al aire libre
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/pena-al-encuentro-aire-libre.jpg
 meta: Todos los Viernes de Enero los esperamos a las 21hs con unas hermosas Peñas a cielo abierto. Están todes más que invitados a compartir danza, música y sobre todo alegría! 
