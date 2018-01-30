@@ -66,6 +66,7 @@ $mobile: new-breakpoint(max-width 600px 4);
     padding: 1em;
     text-decoration: none;
     text-transform: uppercase;
+    text-align: right;
 
     &:focus {
       background-color: $sliding-panel-background-focus;
