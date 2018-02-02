@@ -22,9 +22,14 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 		height: 400px;
 		background: #f1f1f1;
 		border-bottom: 2px solid #ddd;
-		background-image: url(/img/vecinal-espacio.jpg);
-		background-size: cover;
-		background-position: center center;
+		background-image: url(/img/back-domo-geodesico.jpg);
+		background-size: 120%;
+		background-position: 0 -250px;
+
+		@include media($ipad-v) {
+				background-size: cover;
+				background-position: center center;
+			}
 
 		&::before {
 			background-color: #25a55f;
