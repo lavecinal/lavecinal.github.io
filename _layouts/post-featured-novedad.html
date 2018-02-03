@@ -5,27 +5,26 @@ layout: page
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.js"></script>
 
+<div class="print">
+  <h2>
+    {{page.title}} 
+  </h2>
+</div>
 
 
 <div class="post featured">
 	
 <article>
 
-<div class="featured-image">
-	<!--<img src="{{page.image_url}}" style="width: 100%;">-->
+<div class="featured-image" style="background: #333;">
+	<img src="{{page.featured_img}}" style="width: 100%;opacity: .5;">
+  <h1 style="">
+    <b style="font-size: 15px;">publicado el {{ page.date | date: "%-d/%-m/%Y" }}</b><br>
+    {{page.title}} 
+   
+  </h1>
 </div>
 <div class="article">
-	
-<h1 style="
-    text-align: left;
-    font-size: 35px;
-    border-bottom: 1px solid #ddd;
-">
-	{{page.title}} <br>
-</h1>
-
-
-
 {{content}}
 </div>
 

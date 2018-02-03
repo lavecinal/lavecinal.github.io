@@ -30,9 +30,19 @@ $ipad-v: new-breakpoint(max-width 768px 4);
 	}
 
 	.featured-image {
-		max-height: 300px;
+		max-height: 450px;
 		overflow: hidden;
-		border-radius: 10px;
+		border-radius: 0;
+		margin-bottom: 25px;
+
+		@include media($ipad-v) {
+		    height: 420px;
+
+		    img {
+		    	height: 100%;
+		    	width: auto !important;
+		    }
+		}
 	}
 
 	.article {
@@ -82,14 +92,32 @@ $ipad-v: new-breakpoint(max-width 768px 4);
 	}
 
 	&.featured {
+		article {
+			padding: 0;
+		}
+
 		.article {
-			max-width: 800px; 
+			max-width: 660px;
+			padding: 0 1em;
 		}
 
 		h1 {
 			text-align: center !important;
-			font-size: 40px !important;
+			font-size: 50px !important;
 			font-weight: 100;
+			position: absolute;
+			z-index: 2;
+			top: 130px;
+			left: 30vw;
+			right: 30vw;
+			color: #fff;
+
+			@include media($ipad-v) {
+				max-height: 90vh;
+				left: 20px;
+				right: 20px;
+				margin: 0;
+			}
 		}
 	}
 }

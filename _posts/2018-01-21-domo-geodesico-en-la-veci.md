@@ -1,19 +1,137 @@
 ---
-title: Domo Geodesico para la plaza de los chicos
-layout: post-novedad
+title: Domo Geodésico para la plaza de los chicos
+layout: post-featured-novedad
 featured: true
 categoria: noticia
 image_url: /img/back-domo-geodesico.jpg
+featured_img: /img/back-domo-geodesico.jpg
 meta: El pasado 31 de enero estuvimos haciendo una pequeña gran jornada de construccion de un domo geodesico para la plaza de los niños.
 ---
 
-<p>
-	 El pasado 31 de enero estuvimos haciendo una pequeña gran jornada de construccion de un domo geodesico para la plaza de los niños.
+Los domos geodésicos más comunes se construyen a partir del solido platónico conocico como <b>Icosahedro</b>, de veinte caras triangulares. Este solido, es el sistema estructural más eficiente del universo en cuanto a la relacion superficie/volumen.
+
+<p style="text-align: center;">
+	<img src="/img/2018-01-31-domo-geodesico/icosahedro.svg" width="250px" style="margin: 10px 0" alt="">
 </p>
 
-<p>Proximamente subiremos algunas fotitos y mas info</p>
+Para lograr una forma más esferizada se quiebran los triangulos que forman el icosahedro y luego se llevan esos quiebres a una equidistancia del centro del domo (como si lo inflaramos).
 
-<img src="/img/back-domo-geodesico.jpg" width="100%" alt="">
+Ahora todos los <b>vértices</b> están a la misma distancia de dicho centro.
 
+De esta manera se obtiene una estructura que tiende a la esfera, con el mayor volumen por material de construccion y sin columnas internas. Cuantos más quiebres le hagamos a la cara original del icosahedro, mayor será la <b>frecuencia</b> del domo y más cortos los segmentos a usar. Pará cada <b>frecuencia</b>, hay una cantidad y variedad de <b>segmentos</b>. Para obtener los valores de medida para cada caso usamos una tabla de <b>factores</b>, que relaciona el diámetro del domo con la medida de los distintos segmentos.
+
+
+
+<div class="gallery col-3">
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-12.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-12.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-12.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-13.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-13.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-13.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-14.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-14.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-14.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-02.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-02.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-02.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-03.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-03.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-03.jpg"/>
+	</a>
+
+
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-04.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-04.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-04.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-05.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-05.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-05.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-06.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-06.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-06.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-07.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-07.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-07.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-08.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-08.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-08.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-09.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-09.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-09.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-10.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-10.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-10.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-11.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-11.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-11.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-01.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-01.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-01.jpg"/>
+	</a>
+
+
+
+	
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-15.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-15.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-15.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-16.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-16.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-16.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-17.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-17.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-17.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-18.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-18.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-18.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-19.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-19.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-19.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-20.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-20.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-20.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-21.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-21.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-21.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-22.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-22.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-22.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-23.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-23.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-23.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-24.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-24.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-24.jpg"/>
+	</a>
+
+	<a href="/img/2018-01-31-domo-geodesico/domo-geodesico-25.jpg" data-fancybox="images" data-srcset="/img/2018-01-31-domo-geodesico/domo-geodesico-25.jpg" class="item-gallery">
+		<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-25.jpg"/>
+	</a>
+
+</div>
+
+Fuente: <a href="http://desertdomes.com/" target="_blank">DesertDomes</a>
 
 

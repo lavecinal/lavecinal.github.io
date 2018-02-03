@@ -46,9 +46,9 @@ layout: default
 		{% assign features = site.posts | where:"featured", true %}
 		{% for post in features limit:4%}
 		<div class="item">
-			<div class="image">
+			<a class="image" href="{{site.baseurl}}{{post.url}}">
 				<img class="ui fluid image" src="{{post.image_url}}">
-			</div>
+			</a>
 			<div class="content">
 				<a class="header" href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
 				<p class="description">{{post.meta}}</p>

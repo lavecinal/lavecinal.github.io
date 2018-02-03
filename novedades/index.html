@@ -9,9 +9,9 @@ layout: page
     <div class="ui items">
     {% for post in paginator.posts %}
     <div class="item">
-      <div class="ui image medium" style="max-height: 175px; overflow: hidden;">
+      <a href="{{site.baseurl}}{{post.url}}" class="ui image medium" style="max-height: 175px; overflow: hidden;">
         <img src="{{post.image_url}}">
-      </div>
+      </a>
       <div class="content">
         <a href="{{site.baseurl}}{{post.url}}" class="header">
           {{post.title}}

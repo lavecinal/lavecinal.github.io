@@ -1,0 +1,36 @@
+.print {
+	display: none;
+}
+
+@media print {
+   .offcanvas,
+   .top-bar,
+   .pagination,
+   .prev, .next,
+   .featured-image,
+   .gallery,
+   footer {
+   	display: none;
+   }
+
+   .post .pagination {
+   	display: none;
+   }
+
+	.print {
+		display: block;
+		
+		h2 {
+			text-align: center;
+			width: 100%;
+			margin-top: 0;
+		}
+	}
+
+	
+
+    @page {
+    	size: A4;
+		margin: 2cm 1cm 2cm 1cm;
+ 	}
+}
