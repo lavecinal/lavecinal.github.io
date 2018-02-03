@@ -11,7 +11,7 @@ meta: El pasado 31 de enero estuvimos haciendo una pequeña gran jornada de cons
 Los domos geodésicos más comunes se construyen a partir del solido platónico conocico como <b>Icosahedro</b>, de veinte caras triangulares. Este solido, es el sistema estructural más eficiente del universo en cuanto a la relacion superficie/volumen.
 
 <p style="text-align: center;">
-	<img src="/img/2018-01-31-domo-geodesico/icosahedro.svg" width="250px" style="margin: 10px 0" alt="">
+	<img src="/img/2018-01-31-domo-geodesico/icosahedron.gif" width="250px" style="margin: 10px 0" alt="">
 </p>
 
 Para lograr una forma más esferizada se quiebran los triangulos que forman el icosahedro y luego se llevan esos quiebres a una equidistancia del centro del domo (como si lo inflaramos).
