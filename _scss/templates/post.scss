@@ -97,8 +97,13 @@ $ipad-v: new-breakpoint(max-width 768px 4);
 		}
 
 		.article {
-			max-width: 660px;
+			max-width: 1000px;
 			padding: 0 1em;
+
+			p, h2, h3, h4 {
+				max-width: 600px;
+			    margin: 15px auto;
+			}
 		}
 
 		h1 {
