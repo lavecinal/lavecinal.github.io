@@ -1,7 +1,7 @@
 ---
 title: Primer festival feminista de la comarca
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/primer-festival-feminista.jpg
 meta: Este sábado 3 de febrero a las 21hs en la Vecinal del Paraje. Rumbo al 33° Encuentro Nacional de Mujeres que se va a hacer en Trelew
