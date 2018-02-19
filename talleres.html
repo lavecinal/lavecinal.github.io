@@ -35,7 +35,7 @@ $(function(){
 </script>
 
 <div class="talleres">
-	<div class="controls">
+	<div class="controls" style="display: none;">
 	  <b>filtrar por dia</b>
 	  <button type="button" class="ui button compact green" data-filter=".item-lunes">
 	  	<span> lunes</span>
@@ -62,8 +62,24 @@ $(function(){
 	  	<span> mostrar todos ({{ site.talleres | size }})</span>
 	  </button>
 	</div>
-	<div class="right-content">
+	
+	<div class="talleres-2018" >
+		<img src="/img/2018-convocatoria-talleres.jpg" alt="" width="100%">
+
+		<p>
+			Descargate la planilla de inscripcion y envianos tu propuesta para dar un taller a nuestro <a href="https://www.facebook.com/vecinaldelparaje/" target="_blank">facebook</a>, via mail a vecinaldelparaje@gmail.com o acercarlo a la vecinal los días lunes a las 20hs.
+		</p>
+
+		<a href="/novedades/convocatorias-a-talleres-2018" class="ui button orange">
+			¿Como anotarse?
+		</a>
+	</div>
+
+	<div class="right-content" style="margin: 0 auto;max-width: 1000px;">
 		
+		
+
+
 		<h1 style="text-align: left; border-bottom: 1px solid #ddd; margin: 1%;">Talleres
 		</h1>
 		<span class="talleres-soon">última actualización el 21/11 <i class="fa fa-pencil-square" aria-hidden="true"></i></span>
@@ -83,8 +99,8 @@ $(function(){
     opacity: 0.2;
     top: 20px;
 "></i>
-			Este listado muestra todos los talleres que se dieron durante el 2017. Algunos talleres no se van a estar dando durante el verano. <br>
-			<b>Proximamente vamos a actualizar el listado y compartiremos el cronograma del verano.</b>
+			Este listado muestra todos los talleres que se dieron durante el 2017. Algunos talleres no se van a estar dando durante el verano.
+			<b>Próximamente vamos a actualizar el listado</b>
 		</div>
 		<div id="Container" class="container">
 			
