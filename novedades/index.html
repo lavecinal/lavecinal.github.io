@@ -51,6 +51,23 @@ layout: page
   </article>
 
   <aside>
+      <div class="widget agenda">
+    <h3>agenda</h3>
+    {% assign items = site.agenda | sort: 'orden' %}
+    {% for item in items limit:6 %}
+          <div class="content">
+              <div class="description">
+                {% if item.link %}
+            <a href="{{ site.baseurl }}{{item.link}}">{{item.title}} </a>
+                {% else %}
+            <a style="color: #333;">{{item.title}} </a>
+                {% endif %}
+                <b>{{item.fecha}} a las {{item.hora}}</b>
+              </div> 
+          <hr>
+          </div>
+    {% endfor %}
+  </div>
   	<div class="widget">
   		<h3>últimas novedades</h3>
   		<ul>
