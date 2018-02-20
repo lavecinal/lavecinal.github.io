@@ -1,7 +1,7 @@
 ---
 layout: agenda
 title: Reunion Vecinal
-fecha: Lunes
+fecha: Martes
 hora: 20hs
 orden: 1
 link: /participa/

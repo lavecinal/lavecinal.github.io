@@ -15,7 +15,7 @@ permalink: "/novedades/:slug"
 sass:
   sass_dir: _scss
 
-host: 192.168.0.105
+host: 192.168.0.103
 
 collections:
   talleres:
