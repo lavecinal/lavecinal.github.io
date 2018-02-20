@@ -19,4 +19,24 @@ layout: page
 			</ul>
 		</section>
 	</article>
+	<div class="widget talleres-widget">
+		<h3>talleres</h3>
+		<ul>
+		{% assign talleres-items = site.talleres | sort: 'title' %}
+		{% for item in talleres-items %}
+		  <li>
+		  	<a class="header" href="{{ site.baseurl }}{{ item.url }}">
+			  	<b>{{ item.title }}</b>
+			  	<small style="margin-left: 10px; color: #333;">
+			  		({{ item.dia}} 
+					  	{% if item.dia-2 %}
+					  	  y {{ item.dia-2 }}
+					  	{% endif %})
+			  	</small>
+
+		  	</a>
+		  </li>
+		{% endfor %}
+		</ul>
+	</div>
 </div>

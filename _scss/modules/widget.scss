@@ -28,6 +28,12 @@
 		}
 	}
 
+	&.wg-facebook {
+		@include media($mobile) {
+			display: none;
+		}
+	}
+
 	
 
 	&.agenda {
