@@ -1,7 +1,7 @@
 ---
 title: Cuentos y cantos para la familia
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/historias-bajo-la-lluvia.jpg
 meta: Qundi Manyaná nace como un encuentro de palabras inventadas donde surgen mundos, cae la lluvia, se destapan las botellas y la fiesta del encuentro cabe debajo de un paraguas.
