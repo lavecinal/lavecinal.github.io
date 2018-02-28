@@ -1,8 +1,8 @@
 ---
 layout: agenda
-title: Festival ILE
-fecha: 10 de marzo
-hora: 
+title: Rita
+fecha: 7 de marzo
+hora: 19hs
 published: false
 orden: 3
 link: 

@@ -5,5 +5,5 @@ fecha: 2 de Marzo
 hora: 21hs 
 published: true
 orden: 3
-link: 
+link: /novedades/cine-en-la-veci-el-nombre-de-las-flores
 ---
