@@ -9,7 +9,7 @@ meta: Continuamos el ciclo de cine en la veci dedicado al 24 de marzo. Esta vier
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1GgizgqJVs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Continuamos el ciclo de cine en la veci dedicado al 24 de marzo. Esta viernes presentaremos "La culpa la tiene FIdel"
+Continuamos el ciclo de cine en la veci dedicado al 24 de marzo. Este viernes 9 de marzo presentaremos "La culpa la tiene FIdel"
 
 <b>Sinopsis</b>
 
