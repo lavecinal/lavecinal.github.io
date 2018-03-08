@@ -2,8 +2,8 @@
 layout: agenda
 title: Festival ILE
 fecha: 10 de marzo
-hora: 
-published: false
+hora: 21hs
+published: true
 orden: 3
-link: 
+link: /novedades/festival-ile
 ---

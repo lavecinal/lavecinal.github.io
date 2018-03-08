@@ -1,8 +1,8 @@
 ---
 layout: agenda
-title: Reunion Vecinal
+title: Próxima Reunión Vecinal
 fecha: Martes
-hora: 20hs
+hora: 19hs
 orden: 1
 link: /participa/
 ---
