@@ -15,4 +15,4 @@ Festival por el derecho a la Interrupción Legal del Embarazo.
 
 En tu casa, con unx amigx, con rosa, en el hospital, con pastillas o no. Tu cuerpo, tu decisión, que no decidan por vos.
 
-Buffet - Artistas locales - Microfono abierto - bailesito y musica para compartirnos
+Buffet - Artistas locales - Micrófono abierto - bailesito y musica para compartirnos

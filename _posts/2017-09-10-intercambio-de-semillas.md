@@ -6,7 +6,7 @@ fecha: 10 de septiembre
 hora: 13hs
 featured: false
 image_url: /img/intercambio-de-semillas.jpg
-meta: Esta primavera nos sorprendio reclamando por la vida. Por eso intercambiamos semillas y compartimos la comida.
+meta: Esta primavera nos sorprendió reclamando por la vida. Por eso intercambiamos semillas y compartimos la comida.
 ---
 
 Esta primavera nos sorprende reclamando por la vida. Por eso, el domingo pasado, intercambiamos semillas y compartimos la comida.

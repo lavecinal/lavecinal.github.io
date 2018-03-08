@@ -5,16 +5,16 @@ featured: false
 categoria: noticia
 image_url: /img/back-domo-geodesico.jpg
 featured_img: /img/back-domo-geodesico.jpg
-meta: El pasado 31 de enero estuvimos haciendo una pequeña gran jornada de construccion de un domo geodesico para la plaza de los niños.
+meta: El pasado 31 de enero estuvimos haciendo una pequeña gran jornada de construcción de un domo geodésico para la plaza de los niños.
 ---
 
-Los domos geodésicos más comunes se construyen a partir del solido platónico conocico como <b>Icosahedro</b>, de veinte caras triangulares. Este solido, es el sistema estructural más eficiente del universo en cuanto a la relacion superficie/volumen.
+Los domos geodésicos más comunes se construyen a partir del solido platónico conocido como <b>Icosahedro</b>, de veinte caras triangulares. Este solido, es el sistema estructural más eficiente del universo en cuanto a la relación superficie/volumen.
 
 <p style="text-align: center;">
 	<img src="/img/2018-01-31-domo-geodesico/icosahedron.gif" width="250px" style="margin: 10px 0" alt="">
 </p>
 
-Para lograr una forma más esferizada se quiebran los triangulos que forman el icosahedro y luego se llevan esos quiebres a una equidistancia del centro del domo (como si lo inflaramos).
+Para lograr una forma más esferizada se quiebran los triángulos que forman el icosahedro y luego se llevan esos quiebres a una equidistancia del centro del domo (como si lo infláramos).
 
 <p style="text-align: center;">
 	<img src="/img/2018-01-31-domo-geodesico/frecuencia-3.svg" width="250px" style="margin: 0" alt="">
@@ -23,12 +23,12 @@ Para lograr una forma más esferizada se quiebran los triangulos que forman el i
 
 <p style="text-align: center;">
 	<img src="/img/2018-01-31-domo-geodesico/proyeccion.jpg" width="384px" style="margin: 0" alt="">
-	<figcaption style="text-align: center;">Proyeccion de los nuevos triangulos en un circunsferencia a partir de su centro</figcaption>
+	<figcaption style="text-align: center;">Proyección de los nuevos triángulos en un circunferencia a partir de su centro</figcaption>
 </p>
 
 Ahora todos los <b>vértices</b> están a la misma distancia de dicho centro.
 
-De esta manera se obtiene una estructura que tiende a la esfera, con el mayor volumen por material de construccion y sin columnas internas. Cuantos más quiebres le hagamos a la cara original del icosahedro, mayor será la <b>frecuencia</b> del domo y más cortos los segmentos a usar.
+De esta manera se obtiene una estructura que tiende a la esfera, con el mayor volumen por material de construcción y sin columnas internas. Cuantos más quiebres le hagamos a la cara original del icosahedro, mayor será la <b>frecuencia</b> del domo y más cortos los segmentos a usar.
 
 Pará cada <b>frecuencia</b>, hay una cantidad y variedad de <b>segmentos</b>. Para obtener los valores de medida para cada caso usamos una tabla de <b>factores</b>, que relaciona el diámetro del domo con la medida de los distintos segmentos.
 
@@ -36,7 +36,7 @@ Podes calcular las medidas de tu domo desde el <a target="_blank" href="http://d
 
 
 
-<h2 style="text-align: center;">Aqui les dejamos algunas fotos de la jornada que compartimos construyendo nuestro domo geodésico</h2>
+<h2 style="text-align: center;">Aquí les dejamos algunas fotos de la jornada que compartimos construyendo nuestro domo geodésico</h2>
 
 <div style="position: relative;">
 	<div class="gallery col-3">

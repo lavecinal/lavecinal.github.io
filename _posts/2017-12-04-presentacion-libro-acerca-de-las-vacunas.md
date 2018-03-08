@@ -28,7 +28,7 @@ Este jueves 7 se presento el libro "Acerca de las Vacunas" junto a Adriana Marcu
 </div>
 
 <p>
-	Les dejamos esta entrevista a Adriana con motivo de la presentación de su nuevo libro "Acerca de las vacunas" cortesia de <a href="https://radiofogon.blogspot.com.ar/2017/12/entrevista-adriana-marcus-con-motivo-de.html?spref=fb">Radio Fogón 97.3</a>
+	Les dejamos esta entrevista a Adriana con motivo de la presentación de su nuevo libro "Acerca de las vacunas" cortesía de <a href="https://radiofogon.blogspot.com.ar/2017/12/entrevista-adriana-marcus-con-motivo-de.html?spref=fb">Radio Fogón 97.3</a>
 </p>
 
 <iframe src="https://archive.org/embed/AdrianaMarcus" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -7,13 +7,13 @@ fecha: 5 de noviembre
 hora: 13hs
 image_url: /img/curanto-slider.jpg
 featured_img: /img/2017-11-05-curanto/curanto-13.jpg
-meta: Seguimos recaudando fondos para la construcción de una ampliación en el centro comunitario y lo hicimos compartiendo baile, musica y feria.
+meta: Seguimos recaudando fondos para la construcción de una ampliación en el centro comunitario y lo hicimos compartiendo baile, música y feria.
 ---
 
 
 
 
-<p>Seguimos recaudando fondos para la construcción de una ampliación en el centro comunitario y lo hicimos compartiendo un domingo (de lluvioso a despejado) con mucho baile, musica y feria</p>
+<p>Seguimos recaudando fondos para la construcción de una ampliación en el centro comunitario y lo hicimos compartiendo un domingo (de lluvioso a despejado) con mucho baile, música y feria</p>
 
 <p>
 	Gracias a todes los que participaron de las diferentes maneras. Aquí les dejamos algunas de las postales que nos dejo esta fiesta entre los vecinos.

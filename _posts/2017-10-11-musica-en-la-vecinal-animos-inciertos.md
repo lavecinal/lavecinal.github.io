@@ -6,10 +6,10 @@ categoria: noticia
 fecha: 14 de Octubre
 hora: 21hs
 image_url: /img/musica-animos-inciertos.jpg
-meta: Este sabado 14 de Octubre hay musica de Ánimos Inciertos, un viaje poético, gráfico y musical por los vericuetos del alma
+meta: Este sábado 14 de Octubre hay música de Ánimos Inciertos, un viaje poético, gráfico y musical por los vericuetos del alma
 ---
 
-El sabado 14 de Octubre hubo música de <b>Ánimos Inciertos</b>. Un viaje poético, gráfico y musical por los vericuetos del alma.
+El sábado 14 de Octubre hubo música de <b>Ánimos Inciertos</b>. Un viaje poético, gráfico y musical por los vericuetos del alma.
 
 
 

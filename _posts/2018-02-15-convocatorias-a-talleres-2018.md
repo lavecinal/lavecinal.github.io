@@ -12,9 +12,9 @@ meta: Lanzamos la convocatoria a todos los que quieran presentar un proyecto par
 
 Lanzamos la convocatoria a todos los que quieran presentar un proyecto para dar un taller en el espacio de la vecinal del paraje.
 
-Para mejorar la organización les pedimos que nos envien sus propuestas descargando la siguiente planilla.
+Para mejorar la organización les pedimos que nos envíen sus propuestas descargando la siguiente planilla.
 
-Proximamente vamos a estar publicando el listado de los nuevos talleres que se van a estar dando durante el 2018
+Próximamente vamos a estar publicando el listado de los nuevos talleres que se van a estar dando durante el 2018
 
 
 

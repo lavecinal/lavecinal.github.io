@@ -10,14 +10,14 @@ meta: Este sábado 3 de febrero a las 21hs en la Vecinal del Paraje. Rumbo al 33
 
 
 Rumbo al 33° Encuentro Nacional de Mujeres que se va a hacer en Trelew, los invitamos a participar del primer Festival Feminista. El sábado 3 de febrero a las 21hs en la Vecinal del Paraje.
-Se convocaron a artesanas, hub bufet, música y micrófono abiertx, fútbol de mujeres y muchas cosas más!!
+Se convocaron a artesanas, hubo bufet, música y micrófono abiertx, fútbol de mujeres y muchas cosas más!!
 
 
 
 <p style="padding: .5em; color: #888">
 	<i>
 Alejandra del grupo de mujeres que convocan al 1° Festival Feminista de la comarca, nos cuenta de qué se trata esta iniciativa, quienes participan de la misma, quienes están invitados y qué nos encontraremos al llegar.
-<b>Convocatoria al Primer Festival Feminista de la Comarca en <a href="https://radiofogon.blogspot.com.ar/2018/02/convocatoria-al-primer-festival.html?spref=fb">radio Fogon</a></b>
+<b>Convocatoria al Primer Festival Feminista de la Comarca en <a href="https://radiofogon.blogspot.com.ar/2018/02/convocatoria-al-primer-festival.html?spref=fb">radio Fogón</a></b>
 </i>
 </p>
 
