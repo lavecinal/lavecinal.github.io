@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Cine en la vecinal - La culpa la tiene fidel
-fecha: 9 de Marzo
+title: <i>Cine en la vecinal</i> <br>La Memoria, otra historia del Paraíso
+fecha: 16 de Marzo
 hora: 21hs 
-published: false
-orden: 3
-link: /novedades/cine-en-la-veci-la-culpa-es-de-fidel
+published: true
+orden: 2
+link: /novedades/cine-en-la-veci-la-memoria-otra-historia-del-paraiso
 ---
