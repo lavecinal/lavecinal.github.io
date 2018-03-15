@@ -4,14 +4,14 @@ layout: post-novedad
 featured: true
 categoria: noticia
 image_url: /img/cine-la-memoria.jpg
-meta: El viernes 16 de marzo proyectamos La Memoria, otra historia del Paraíso. Contaremos con la participación de Gustavo Marangoni, realizador del documental
+meta: El viernes 16 de marzo proyectamos La Memoria, otra historia del Paraíso.
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MomJX7D4YQE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Continuando con el ciclo que en marzo se está dando en la vecinal del paraje con el tema del 24 de marzo.
 
-Este viernes 16 de marzo proyectamos La Memoria, otra historia del Paraíso. Contaremos con la participación de Gustavo Marangoni, realizador del documental
+Este viernes 16 de marzo proyectamos La Memoria, otra historia del Paraíso. 
 
 
 
