@@ -4,7 +4,7 @@ layout: post-novedad
 featured: false
 categoria: noticia
 image_url: /img/cine-la-memoria.jpg
-meta: El viernes 16 de marzo proyectamos La Memoria, otra historia del Paraíso.
+meta: El viernes 16 de marzo proyectamos La Memoria, otra historia del Paraíso. Un documental realizado por Gustavo Marangoni sobre la desaparición de Julio Schwarts en El Bolsón
 ---
 
 <img src="/img/cine-la-memoria.jpg" alt="" width="100%;">
