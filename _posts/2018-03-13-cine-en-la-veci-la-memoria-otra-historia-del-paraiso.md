@@ -1,7 +1,7 @@
 ---
 title: <i>Cine</i> - La Memoria, otra historia del Paraíso
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/cine-la-memoria.jpg
 meta: El viernes 16 de marzo proyectamos La Memoria, otra historia del Paraíso.
