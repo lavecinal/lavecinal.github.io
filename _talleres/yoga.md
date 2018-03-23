@@ -2,6 +2,7 @@
 layout: post-talleres
 title: Yoga
 permalink: /talleres/yoga/
-dia:   [sabado]
-hora: 15 a 16:30hs
+dia:   [sabados]
+dia-semana: 62
+hora: 16 a 17hs
 ---

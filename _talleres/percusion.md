@@ -3,5 +3,6 @@ layout: post-talleres
 title: Percusión
 permalink: /talleres/percusion/
 dia:   [jueves]
-hora: 21 a 24hs
+dia-semana: 41
+hora: 15 a 17hs
 ---

@@ -3,112 +3,18 @@ layout: page
 permalink: /talleres/
 ---
 
+<div class="talleres" style="padding-top: 50px;">
+<h1 style="text-align: center;">Talleres 2018</h1>
 
-<script type="text/javascript">
-$(function(){
-  $('#Container').on('mixLoad', function() {
-    console.log('[event-handler] MixItUp Loaded');
-  });
-  
-  $('#Container').on('mixStart', function() {
-    console.log('[event-handler] Animation Started')
-  });
-  
-  $('#Container').on('mixEnd', function() {
-    console.log('[event-handler] Animation Ended')
-  });
-  
-  $('#Container').mixItUp({
-    callbacks: {
-      onMixLoad: function() {
-        console.log('[callback] MixItUp Loaded');
-      },
-      onMixStart: function() {
-        console.log('[callback] Animation Started');
-      },
-      onMixEnd: function() {
-        console.log('[callback] Animation Ended');
-      }
-    }
-  });
-});
-</script>
-
-<div class="talleres">
-	<div class="controls" style="display: none;">
-	  <b>filtrar por dia</b>
-	  <button type="button" class="ui button compact green" data-filter=".item-lunes">
-	  	<span> lunes</span>
-	  </button>
-	  <button type="button" class="ui button compact green" data-filter=".item-martes">
-	  	<span> martes</span>
-	  </button>
-	    <button type="button" class="ui button compact green" data-filter=".item-miercoles">
-	  	<span> miércoles</span>
-	  </button>
-	    <button type="button" class="ui button compact green" data-filter=".item-jueves">
-	  	<span> jueves</span>
-	  </button>
-	    <button type="button" class="ui button compact green" data-filter=".item-viernes">
-	  	<span> viernes</span>
-	  </button>
-	    <button type="button" class="ui button compact green" data-filter=".item-sabado">
-	  	<span> sábado</span>
-	  </button>
-	    <button type="button" class="ui button compact green" data-filter=".item-domingo">
-	  	<span> domingo</span>
-	  </button>
-	  	  <button type="button" class="ui button compact orange " data-filter="all">
-	  	<span> mostrar todos ({{ site.talleres | size }})</span>
-	  </button>
-	</div>
-	
-	<div class="talleres-2018" >
-		<img src="/img/2018-convocatoria-talleres.jpg" alt="" width="100%">
-
-		<p>
-			Próximamente vamos a estar publicando el listado de los nuevos talleres que se van a estar dando durante el 2018
-		</p>
-	</div>
-
-	<div class="right-content" style="margin: 0 auto;max-width: 1000px;">
-		
-		
-
-
-		<h1 style="text-align: left; border-bottom: 1px solid #ddd; margin: 1%;">Talleres
-		</h1>
-		<span class="talleres-soon">última actualización el 21/11 <i class="fa fa-pencil-square" aria-hidden="true"></i></span>
-		<div class="message" style="
-    padding: 15px 15px 15px 75px;
-    background: #B83B5E;
-    margin: 11px;
-    border-radius: 10px;
-    color: #fff;
-    font-size: 18px;
-    position: relative;
-">
-			<i class="fa fa-bell" aria-hidden="true" style="
-    position: absolute;
-    left: 24px;
-    font-size: 30px;
-    opacity: 0.2;
-    top: 20px;
-"></i>
-			Este listado muestra todos los talleres que se dieron durante el 2017. Algunos talleres no se van a estar dando durante el verano.
-			<b>Próximamente vamos a actualizar el listado</b>
-		</div>
-		<div id="Container" class="container">
-			
-		    <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
-			{% for talleres in site.talleres %}
-			<div class="mix item-{{ talleres.dia}} item-{{ talleres.dia-2}}" >
-		  		<h3><a href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a></h3>
-		  		<b style="text-align: center;">{{ talleres.dia }} - {{ talleres.hora }} <br>
-		  		{{ talleres.dia-2 }} {{ talleres.hora-2 }}</b> <br>
-		  		<small>{{talleres.anexo}}</small>
-			</div>
-			{% endfor %}
-		</div>
-	</div>
+<ul class="container">
+    {% assign sorted = (site.talleres | sort: 'dia-semana') %}
+    {% for talleres in sorted %}
+    <li class="mix">
+    	<h3>
+    		<a href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a>
+		</h3>
+    	<b>{{ talleres.dia }} de {{ talleres.hora }}</b>
+	</li>
+    {% endfor %}
+</ul>
 </div>

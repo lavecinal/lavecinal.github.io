@@ -2,8 +2,9 @@
 layout: post-talleres
 title: Geometría Sagrada
 image_url: /img/talleres/featured-geometria-sagrada.jpg
-hora: 14 a 16hs
+hora: 18 a 20hs
 dia:   [viernes]
+dia-semana: 53
 meta: Exploraremos las grandes verdades geométricas del Universo, a través del arte, con el fin de elevar la conciencia, de nosotros mismos y del cosmos
 ---
 

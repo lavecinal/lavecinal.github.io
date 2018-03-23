@@ -114,10 +114,15 @@ $mobile: new-breakpoint(max-width 500px 4);
     	background: #fff;
 
         h3 {
-            font-size: 30px;
-            margin: 15px 0;
+            font-size: 25px;
+            margin: 0 0 15px 0;
             font-weight: 100;
             border-bottom: 1px solid #ddd;
+            padding: 0 15px;
+            min-height: 90px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
 
         a {

@@ -3,6 +3,6 @@ layout: post-talleres
 title: Folclore (danza)
 permalink: /talleres/folclore-danza/
 dia:   [miercoles]
-published: false
-hora: 19 a 20:30hs
+dia-semana: 35
+hora: 19 a 21hs
 ---
