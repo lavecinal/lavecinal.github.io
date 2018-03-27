@@ -1,7 +1,7 @@
 ---
-title: Domo Geodésico para la plaza de los chicos
+title: Domo Geodésico para la plaza de los niñes
 layout: post-featured-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/back-domo-geodesico.jpg
 featured_img: /img/back-domo-geodesico.jpg

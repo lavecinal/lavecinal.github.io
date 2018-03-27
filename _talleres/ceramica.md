@@ -7,7 +7,7 @@ dia-semana: 13
 rondas: true
 oficios: true
 hora: 16:30 a 19:30hs
-meta: veremos diferentes técnicas de elaboración de objetos, a través de las cuales, cada uno, podrá desarrollar las piezas que desee según su interés.
+meta: Veremos diferentes técnicas de elaboración de objetos, a través de las cuales, cada uno, podrá desarrollar las piezas que desee según su interés.
 ---
 
 Taller de Cerámica, donde veremos diferentes técnicas de elaboración de objetos, a través de las cuales, cada uno,  podrá desarrollar las piezas que desee según su interés.

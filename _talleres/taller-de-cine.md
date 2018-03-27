@@ -9,6 +9,9 @@ hora: 19:30 a 21:30hs
 meta: Partiendo de una idea, desarrollar un guión y plasmarlo en un audiovisual que pueda ser visto por otros.
 ---
 
+Tallerista Gustavo. para consultas e inscripciones <br>
+<i>guscar98 [arroba] yahoo.com.ar</i>
+
 Esta dirigido a toda persona de 16/17 años en adelante, que les interese adentrarse en el mundo de la narración de historias (ficción ó documental) a través del audiovisual.
 
 El taller de cine, propone brindar a los concurrentes, las herramientas básicas, para la narración audiovisual.

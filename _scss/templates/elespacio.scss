@@ -1,7 +1,14 @@
+$mobile: new-breakpoint(max-width 600px 4);
+
+
 .espacio {
 	background: #fff; padding: 2em 3em;
 	max-width: 900px;
 	margin: 0 auto;
+
+    @include media($mobile) {
+		padding: 1em;
+	}
 
 	article {
 		max-width: 700px;
@@ -9,10 +16,15 @@
 	}
 
 	p {
-		font-size: 22px;
-		line-height: 30px;
+		font-size: 25px;
+		line-height: 32px;
 		font-weight: 300;
 	    text-align: justify;
+
+	    @include media($mobile) {
+    		font-size: 18px;
+    		line-height: 24px;
+    	}
 	}
 
 	h1 {

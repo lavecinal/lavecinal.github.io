@@ -8,13 +8,15 @@ $mobile: new-breakpoint(max-width 600px 4);
 	top: 0;
 	left: 0;
 	right: 0;
-	height: 80px;
+	height: 60px;
 	box-shadow: 0 8px 17px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.2);
 	z-index: 299;
 
 	.logo {
 		position: absolute;
-		top: -5px;
+	    top: 0;
+	    overflow: hidden;
+	    height: 65px;
 	}
 
 	nav {
@@ -27,22 +29,25 @@ $mobile: new-breakpoint(max-width 600px 4);
 			}
 
 		a {
-			margin: 0 15px;
+			margin: 5px 15px 0;
 			text-decoration: none;
 			font-family: 'Alegreya Sans SC', sans-serif;
-			border-bottom: 2px solid transparent;
 			color: #157A40;
-			padding: 10px 0;
+			padding: 10px 0 10px 0;
 			font-size: 21px;
 			font-weight: 600;
-		    border-bottom: 2px solid #fff;
+		    border-bottom: 9px solid #fff;
+		    -webkit-transition: all .4s cubic-bezier(0.7,0,.3,1);
+		    -moz-transition: all .4s cubic-bezier(0.7,0,.3,1);
+		    transition: all .4s cubic-bezier(0.7,0,.3,1);
+		    display: inline-block;
 
 			&:hover {
-				border-bottom: 2px solid #157A40;
+				border-bottom: 9px solid #157A40;
 			}
 
 			&.active {
-				border-bottom: 2px solid #157A40;
+				border-bottom: 9px solid #157A40;
 			}
 		}
 	}
