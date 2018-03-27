@@ -3,9 +3,9 @@ layout: post-talleres
 title: Ronda de bebes
 permalink: /talleres/ronda-de-bebes/
 dia:   [ domingo]
-meta: Primer domingo de cada mes
+meta: Una ronda al mes, hora a confirmar
 dia-semana: 31
-hora: tarde
+hora: 
 rondas: true
 disable: true
 ---

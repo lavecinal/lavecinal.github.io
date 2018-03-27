@@ -4,7 +4,6 @@ title: Cerámica
 permalink: /talleres/ceramica/
 dia:   [ lunes]
 dia-semana: 13
-rondas: true
 oficios: true
 hora: 16:30 a 19:30hs
 meta: Veremos diferentes técnicas de elaboración de objetos, a través de las cuales, cada uno, podrá desarrollar las piezas que desee según su interés.

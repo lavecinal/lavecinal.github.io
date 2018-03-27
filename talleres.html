@@ -3,6 +3,9 @@ layout: page
 permalink: /talleres/
 ---
 
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.js"></script>
+
 <script type="text/javascript">
 $(function(){
   $('#Container').on('mixLoad', function() {
@@ -37,12 +40,18 @@ $(function(){
 <div class="talleres" >
 
 <div class="talleres-2018">
-	<img src="/img/talleres-2018.svg" alt="" width="600px" class="talleres-titulo">
+	<a href="#controls">
+  <img src="/img/talleres-2018.svg" alt="" width="600px" class="talleres-titulo">
+  </a>
 	<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-19.jpg" alt="" class="talleres-back">
 </div>
 
-<div class="controls">
-
+<div  class="controls">
+      <span id="controls" style="
+    position: absolute;
+    left: 0;
+    top: -50px;
+"></span>
       <button type="button" class="ui button compact green" data-filter=".item-lunes">
         <span> lunes</span>
       </button>
@@ -65,7 +74,7 @@ $(function(){
         <span> domingo</span>
       </button>
           <button type="button" class="ui button compact orange " data-filter="all">
-        <span> todos ({{ site.talleres | size }})</span>
+        <span> todes ({{ site.talleres | size }})</span>
       </button>
         <button type="button" class="ui button compact teal" data-filter=".item-chicos-true">
         <span> para niñes</span>
@@ -84,23 +93,24 @@ $(function(){
             
             <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
     {% assign sorted = (site.talleres | sort: 'dia-semana') %}
-    <li class="mix" style="
-    
-    background: rgb(33, 186, 69);
-    color: rgb(255, 255, 255);
-    align-items: center !important;
-    justify-content: center !important;
-    padding-top: 50px;
-    max-height: 150px;
+    <li class="mix" style="background: rgb(242, 113, 28);color: rgb(255, 255, 255);;max-height: 150px;align-items: center !important;justify-content: center !important;border-top: 5px solid #904c1f;">
+        <a data-fancybox="images" data-srcset="/img/grilla-talleres.jpg" class="item-gallery" style="
 
-">
-        <a style="
-   
-   color: #fff;
-   font-weight: 600;
-   font-size: 22px;
+        color: #fff;
+        font-weight: 600;
+        font-size: 22px;
+        height: 100%;
+        display: block;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 
-" href="https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/29572937_351349308710271_4612951436131538842_n.jpg?_nc_eui2=v1%3AAeFRr8le5qM4WwjMrLhBgGwzl5ORZJV3KFQuQLAgf-QFdF2KpJIf1fStIdg-C3iWc4Pnv2YPlMhODAdvdS6y29KJw9m2D4r-dsMS6ze_dNhMxg&oh=0ab148c68b5498e04f5c657364befc38&oe=5B707B78" target="_blank">
+
+" href="/img/grilla-talleres.jpg" target="_blank">
+
+
+
 
     <i class="fa fa-cloud-download" style="
     
@@ -112,7 +122,7 @@ $(function(){
     top: 3px;
 
 "></i>
-    Descargar grilla</a>
+    Ver grilla completa</a>
     </li>
     {% for talleres in sorted %}
 
@@ -125,13 +135,13 @@ $(function(){
              {% endif %}
 		</h3>
     
-    	<b>{{ talleres.dia }} de {{ talleres.hora }}</b>
+    	<b>{{ talleres.dia }} {% if talleres.hora %} ({{ talleres.hora }}) {% endif %}</b>
         {% if talleres.meta %}
     <p style="margin: 5px 0; font-size: 18px; padding: 10px;">{{talleres.meta}}</p>
     {% endif %}
         {% if talleres.disable %}
             <p style="margin-top: 25px;"> <i style="font-size: 25px; color: #ddd" class="fa fa-exclamation"></i><br>
-            <i>contenido en construcción</i></p>
+            <b style="color: #ddd">en construcción</b></p>
          {% else %}
               <a style="padding-top: 10px; display: block; font-weight: 600;" href="{{ site.baseurl }}{{ talleres.url }}">ver más informacion</a>
          {% endif %}
@@ -140,3 +150,43 @@ $(function(){
     
 </ul>
 </div>
+
+
+<script>
+  // Select all links with hashes
+$('a[href*="#"]')
+  // Remove links that don't actually link to anything
+  .not('[href="#"]')
+  .not('[href="#0"]')
+  .click(function(event) {
+    // On-page links
+    if (
+      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
+      && 
+      location.hostname == this.hostname
+    ) {
+      // Figure out element to scroll to
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+      // Does a scroll target exist?
+      if (target.length) {
+        // Only prevent default if animation is actually gonna happen
+        event.preventDefault();
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000, function() {
+          // Callback after animation
+          // Must change focus!
+          var $target = $(target);
+          $target.focus();
+          if ($target.is(":focus")) { // Checking if the target was focused
+            return false;
+          } else {
+            $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+            $target.focus(); // Set focus again
+          };
+        });
+      }
+    }
+  });
+</script>
