@@ -5,4 +5,6 @@ permalink: /talleres/origami-para-grandes/
 dia:   [lunes]
 dia-semana: 14
 hora: 17 a 18:30hs
+disable: true
+rondas: true
 ---

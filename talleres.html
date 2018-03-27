@@ -3,18 +3,132 @@ layout: page
 permalink: /talleres/
 ---
 
-<div class="talleres" style="padding-top: 50px;">
-<h1 style="text-align: center;">Talleres 2018</h1>
+<script type="text/javascript">
+$(function(){
+  $('#Container').on('mixLoad', function() {
+    console.log('[event-handler] MixItUp Loaded');
+  });
+  
+  $('#Container').on('mixStart', function() {
+    console.log('[event-handler] Animation Started')
+  });
+  
+  $('#Container').on('mixEnd', function() {
+    console.log('[event-handler] Animation Ended')
+  });
+  
+  $('#Container').mixItUp({
+    callbacks: {
+      onMixLoad: function() {
+        console.log('[callback] MixItUp Loaded');
+      },
+      onMixStart: function() {
+        console.log('[callback] Animation Started');
+      },
+      onMixEnd: function() {
+        console.log('[callback] Animation Ended');
+      }
+    }
+  });
+});
+</script>
 
-<ul class="container">
+
+<div class="talleres" >
+
+<div class="talleres-2018">
+	<img src="/img/talleres-2018.svg" alt="" width="600px" class="talleres-titulo">
+	<img src="/img/2018-01-31-domo-geodesico/domo-geodesico-19.jpg" alt="" class="talleres-back">
+</div>
+
+<div class="controls">
+
+      <button type="button" class="ui button compact green" data-filter=".item-lunes">
+        <span> lunes</span>
+      </button>
+      <button type="button" class="ui button compact green" data-filter=".item-martes">
+        <span> martes</span>
+      </button>
+        <button type="button" class="ui button compact green" data-filter=".item-miercoles">
+        <span> miercoles</span>
+      </button>
+        <button type="button" class="ui button compact green" data-filter=".item-jueves">
+        <span> jueves</span>
+      </button>
+        <button type="button" class="ui button compact green" data-filter=".item-viernes">
+        <span> viernes</span>
+      </button>
+        <button type="button" class="ui button compact green" data-filter=".item-sabado">
+        <span> sabado</span>
+      </button>
+        <button type="button" class="ui button compact green" data-filter=".item-domingo">
+        <span> domingo</span>
+      </button>
+          <button type="button" class="ui button compact orange " data-filter="all">
+        <span> todos ({{ site.talleres | size }})</span>
+      </button>
+        <button type="button" class="ui button compact teal" data-filter=".item-chicos-true">
+        <span> para niñes</span>
+      </button>
+        <button type="button" class="ui button compact teal" data-filter=".item-oficios-true">
+        <span> oficios</span>
+      </button>
+        <button type="button" class="ui button compact teal" data-filter=".item-rondas-true">
+        <span> rondas</span>
+      </button>
+
+    </div>
+
+
+<div id="Container" class="container">
+            
+            <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
     {% assign sorted = (site.talleres | sort: 'dia-semana') %}
+    <li class="mix" style="
+    background: rgb(33, 186, 69);color: rgb(255, 255, 255);align-items: center !important;justify-content: center !important;padding-top: 50px;
+">
+        <a style="
+   
+   color: #fff;
+   font-weight: 600;
+   font-size: 22px;
+
+" href="https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/29572937_351349308710271_4612951436131538842_n.jpg?_nc_eui2=v1%3AAeFRr8le5qM4WwjMrLhBgGwzl5ORZJV3KFQuQLAgf-QFdF2KpJIf1fStIdg-C3iWc4Pnv2YPlMhODAdvdS6y29KJw9m2D4r-dsMS6ze_dNhMxg&oh=0ab148c68b5498e04f5c657364befc38&oe=5B707B78" target="_blank">
+
+    <i class="fa fa-cloud-download" style="
+    
+    /* display: block; */
+    font-size: 29px;
+    opacity: .3;
+    margin-right: 10px;
+    position: relative;
+    top: 3px;
+
+"></i>
+    Descargar grilla</a>
+    </li>
     {% for talleres in sorted %}
-    <li class="mix">
+
+    <li class="mix item-{{ talleres.dia}} item-chicos-{{talleres.chicxs}} item-oficios-{{talleres.oficios}} item-rondas-{{talleres.rondas}}">
     	<h3>
-    		<a href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a>
+            {% if talleres.disable %}
+                {{ talleres.title }}
+             {% else %}
+    		      <a href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a>
+             {% endif %}
 		</h3>
+    
     	<b>{{ talleres.dia }} de {{ talleres.hora }}</b>
+        {% if talleres.meta %}
+    <p style="margin: 5px 0; font-size: 18px; padding: 10px;">{{talleres.meta}}</p>
+    {% endif %}
+        {% if talleres.disable %}
+            
+         {% else %}
+              <a style="padding-top: 10px; display: block; font-weight: 600;" href="{{ site.baseurl }}{{ talleres.url }}">ver más informacion</a>
+         {% endif %}
 	</li>
     {% endfor %}
+    
 </ul>
 </div>

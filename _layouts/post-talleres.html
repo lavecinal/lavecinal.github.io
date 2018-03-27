@@ -40,9 +40,19 @@ layout: page
    <div class="widget">
 		<h3>lista de talleres</h3>
 		<ul>
-			
-		{% for talleres in site.talleres %}
-		  <li><a class="header" href="{{ site.baseurl }}{{ talleres.url }}">{{ talleres.title }}</a></li>
+		{% assign sorted = (site.talleres | sort: 'dia-semana') %}
+		{% for talleres in sorted %}
+
+		  <li>
+		          {% if talleres.disable %}
+		              - <i>{{ talleres.title }}</i>
+		           {% else %}
+		  		     <a class="header" href="{{ site.baseurl }}{{ talleres.url }}">
+		  		     -	{{ talleres.title }}
+		  		     </a>
+		           {% endif %}
+		     </li>
+
 		{% endfor %}
 		</ul>
 	</div>

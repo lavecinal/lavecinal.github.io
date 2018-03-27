@@ -25,10 +25,20 @@ layout: home
           
         </div>
         <div class="meta" style="position: relative;">
-          <a href="{{site.baseurl}}{{post.url}}" class="ui button small inverted green compact">
-            Leer mas
-            <i class='fa fa-chevron-circle-right fa-fw'></i>
-          </a>
+          
+           {% if post.external-link %}
+                
+                <a href="{{site.baseurl}}{{ post.external-link }}" class="ui button small inverted green compact">
+                Leer mas
+                <i class='fa fa-chevron-circle-right fa-fw'></i>
+              </a>
+             {% else %}
+              
+              <a href="{{site.baseurl}}{{post.url}}" class="ui button small inverted green compact">
+                Leer mas
+                <i class='fa fa-chevron-circle-right fa-fw'></i>
+              </a>
+             {% endif %}
           <time style="position: absolute; top: 5px; right: 40px; font-weight: 600; letter-spacing: 1px;">{{ post.date | date: "%-d/%-m/%Y" }}</time>
         </div>
       </div>

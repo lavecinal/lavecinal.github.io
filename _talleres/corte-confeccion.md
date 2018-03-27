@@ -5,7 +5,10 @@ image_url: /img/talleres/featured-corte-y-confeccion.jpg
 permalink: /talleres/corte-y-confeccion/
 dia:   [ viernes ]
 dia-semana: 52
+oficios: true
+rondas: true
 hora: 15 a 18hs
+meta: Este curso está destinado al público en general que desee confeccionar prendas propias o para la familia
 ---
 
 Este curso está destinado al público en general que desee confeccionar prendas propias o para la familia.

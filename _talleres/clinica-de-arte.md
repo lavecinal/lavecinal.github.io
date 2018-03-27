@@ -5,6 +5,8 @@ permalink: /talleres/clinica-de-arte/
 dia:   [ viernes ]
 dia-semana: 54
 hora: 20:30hs
+rondas: true
+meta: Primer viernes de cada mes
 ---
 
 <h2>Primer viernes de cada mes</h2>

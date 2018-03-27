@@ -3,12 +3,16 @@ layout: post-talleres
 title: Elaboración de productos de higiene
 permalink: /talleres/elaboracion-de-productos-de-higiene/
 image_url: 
-dia:   [ lunes]
+dia: [ lunes]
 dia-semana: 11
-hora: 11 a 12hs
+oficios: true
+hora: 11 a 12:30hs
+meta:  No se necesitan conocimientos previos, solo el interés de incorporar a su vida cotidiana productos naturales, libres de tóxicos.
 ---
 
 <img src="https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/29542527_350028465509022_6608244832050052994_n.jpg?oh=30c56e4497add964402250d22b4500fc&oe=5B3689B8" alt="" width="100%">
+
+Abierto al público en general, mayores de 16 años.  No se necesitan conocimientos previos, solo el interés de incorporar a su vida cotidiana productos naturales, libres de tóxicos.
 
 CLASE 1: INTRODUCCION,  COSMETICA NATURAL Y CASERA VS. COSMETICA INDUSTRIAL,  ELABORACION DE PASTA DENTAL y ENJUAGUE BUCAL
 

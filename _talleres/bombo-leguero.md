@@ -4,6 +4,7 @@ title: Bombo Leguero
 permalink: /talleres/bombo-leguero/
 dia:   [ miercoles ]
 dia-semana: 34
+rondas: true
 hora: 17 a 19hs
 ---
 

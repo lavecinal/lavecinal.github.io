@@ -3,8 +3,11 @@ layout: post-talleres
 title: Autopublicacion
 permalink: /talleres/autopublicacion/
 dia:   [ jueves ]
+oficios: true
+rondas: true
 dia-semana: 42
 hora: 17:30 a 19:30hs
+meta: Un recorrido por la escritura, diseño, maqueta, encuadernacion e impresion.
 ---
 
 Cómo publicar un libro, revista o lo que tengas ganas? Se viene el taller de autopublicacion en la Vecinal Paraje Entre Rios . Un recorrido por la escritura, diseño, maqueta, encuadernacion e impresion.

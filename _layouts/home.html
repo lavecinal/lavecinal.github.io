@@ -46,22 +46,43 @@ layout: default
 		{% assign features = site.posts | where:"featured", true %}
 		{% for post in features limit:4%}
 		<div class="item">
-			<a class="image" href="{{site.baseurl}}{{post.url}}">
+		{% if post.external-link %}
+
+          <a class="image" href="{{site.baseurl}}{{ post.external-link }}">
 				<img class="ui fluid image" src="{{post.image_url}}">
 			</a>
+         {% else %}
+          
+          <a class="image" href="{{site.baseurl}}{{post.url}}">
+				<img class="ui fluid image" src="{{post.image_url}}">
+			</a>
+         {% endif %}
+			
 			<div class="content">
 				<a class="header" href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
 				<p class="description">{{post.meta}}</p>
 				<div class="action">
-					<a href="{{site.baseurl}}{{post.url}}" class="ui button orange compact">
+					  {% if post.external-link %}
+
+          <a href="{{site.baseurl}}{{ post.external-link }}" class="ui button green compact">
 						Leer mas
 						<i class='fa fa-chevron-circle-right fa-fw'></i>
 					</a>
+         {% else %}
+          
+          <a href="{{site.baseurl}}{{post.url}}" class="ui button orange compact">
+						Leer mas
+						<i class='fa fa-chevron-circle-right fa-fw'></i>
+					</a>
+         {% endif %}
+
 				</div>
 			</div>
 		</div>
 		{% endfor %}
 		</div>
+
+
 
 		<section>
 			<article>
