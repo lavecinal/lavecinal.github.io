@@ -5,7 +5,6 @@ permalink: /talleres/ronda-de-plantas/
 dia:   [ miercoles]
 dia-semana: 31
 hora: 10 a 12hs
-oficios: true
 rondas: true
 disable: true
 ---

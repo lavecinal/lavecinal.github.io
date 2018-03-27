@@ -2,7 +2,7 @@
 layout: post-talleres
 title: Dibujo
 permalink: /talleres/dibujo/
-dia:   [ sabados ]
+dia:   [ sabado ]
 dia-semana: 61
 chicxs: true
 rondas: true

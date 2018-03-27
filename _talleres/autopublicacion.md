@@ -1,6 +1,6 @@
 ---
 layout: post-talleres
-title: Autopublicacion
+title: Autopublicación
 permalink: /talleres/autopublicacion/
 dia:   [ jueves ]
 oficios: true

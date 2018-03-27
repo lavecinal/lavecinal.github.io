@@ -123,7 +123,8 @@ $(function(){
     <p style="margin: 5px 0; font-size: 18px; padding: 10px;">{{talleres.meta}}</p>
     {% endif %}
         {% if talleres.disable %}
-            
+            <p style="margin-top: 25px;"> <i style="font-size: 25px; color: #ddd" class="fa fa-exclamation"></i><br>
+            <i>contenido en construcción</i></p>
          {% else %}
               <a style="padding-top: 10px; display: block; font-weight: 600;" href="{{ site.baseurl }}{{ talleres.url }}">ver más informacion</a>
          {% endif %}
