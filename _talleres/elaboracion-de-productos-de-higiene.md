@@ -4,7 +4,7 @@ title: Elaboración de productos de higiene
 permalink: /talleres/elaboracion-de-productos-de-higiene/
 image_url: 
 dia: [ lunes]
-dia-semana: 11
+dia-semana: 10
 oficios: true
 hora: 11 a 12:30hs
 meta:  No se necesitan conocimientos previos, solo el interés de incorporar a su vida cotidiana productos naturales, libres de tóxicos.

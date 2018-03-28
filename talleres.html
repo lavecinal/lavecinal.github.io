@@ -73,9 +73,6 @@ $(function(){
         <button type="button" class="ui button compact green" data-filter=".item-domingo">
         <span> domingo</span>
       </button>
-          <button type="button" class="ui button compact orange " data-filter="all">
-        <span> todes ({{ site.talleres | size }})</span>
-      </button>
         <button type="button" class="ui button compact teal" data-filter=".item-chicos-true">
         <span> para niñes</span>
       </button>
@@ -84,6 +81,9 @@ $(function(){
       </button>
         <button type="button" class="ui button compact teal" data-filter=".item-rondas-true">
         <span> rondas</span>
+      </button>
+          <button type="button" class="ui button compact orange " data-filter="all">
+        <span> todes ({{ site.talleres | size }})</span>
       </button>
 
     </div>
@@ -94,7 +94,7 @@ $(function(){
             <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
     {% assign sorted = (site.talleres | sort: 'dia-semana') %}
     <li class="mix" style="background: rgb(242, 113, 28);color: rgb(255, 255, 255);;max-height: 150px;align-items: center !important;justify-content: center !important;border-top: 5px solid #904c1f;">
-        <a data-fancybox="images" data-srcset="/img/grilla-talleres.jpg" class="item-gallery" style="
+        <a data-fancybox="images" data-srcset="/img/grilla-talleres-2018.jpg" class="item-gallery" style="
 
         color: #fff;
         font-weight: 600;
@@ -107,7 +107,7 @@ $(function(){
         align-items: center;
 
 
-" href="/img/grilla-talleres.jpg" target="_blank">
+" href="/img/grilla-talleres-2018.jpg" target="_blank">
 
 
 
