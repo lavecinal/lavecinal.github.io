@@ -1,6 +1,6 @@
 ---
 layout: post-talleres
-title: Origami para todas las edades
+title: Origami
 permalink: /talleres/origami-para-todes/
 dia:   [lunes]
 dia-semana: 14
