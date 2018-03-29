@@ -1,7 +1,7 @@
 ---
 layout: post-talleres
-title: Origami para la tercera edad
-permalink: /talleres/origami-para-grandes/
+title: Origami para todas las edades
+permalink: /talleres/origami-para-todes/
 dia:   [lunes]
 dia-semana: 14
 hora: 17 a 18:30hs
