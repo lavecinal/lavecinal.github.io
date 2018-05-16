@@ -5,7 +5,7 @@ permalink: /talleres/ingles-para-chicxs/
 dia:   [ sabado ]
 dia-semana: 61
 chicxs: true
-hora: 11 a 12:30hs y de 13 a 15hs
+hora: 11 a 12hs y de 12 a 13hs
 meta: taller de juegos en ingles dedicado a todos los niñes de la comarca
 ---
 

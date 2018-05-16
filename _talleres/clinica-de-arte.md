@@ -4,7 +4,7 @@ title: Clínica de arte
 permalink: /talleres/clinica-de-arte/
 dia:   [ viernes ]
 dia-semana: 54
-hora: 20:30hs
+hora: 21hs
 rondas: true
 meta: Primer viernes de cada mes
 ---

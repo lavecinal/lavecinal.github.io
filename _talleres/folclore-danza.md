@@ -1,7 +1,7 @@
 ---
 layout: post-talleres
-title: Folclore (danza)
-permalink: /talleres/folclore-danza/
+title: Folclore (danza) y Tango
+permalink: /talleres/folclore-danza-y-tango/
 dia:   [miercoles]
 dia-semana: 35
 rondas: true

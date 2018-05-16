@@ -1,7 +1,7 @@
 ---
 layout: post-talleres
-title: Origami
-permalink: /talleres/origami-para-todes/
+title: Origami Adultos
+permalink: /talleres/origami-adultos/
 dia:   [lunes]
 dia-semana: 14
 hora: 17 a 18:30hs

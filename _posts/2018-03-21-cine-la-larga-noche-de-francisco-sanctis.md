@@ -7,8 +7,6 @@ image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXwKp-Y435mmfJ
 meta: El pasado viernes 23 a las 21hs cerraremos el ciclo sobre <i>Memoria, Verdad y Justicia</i> con <b>La larga noche de Francisco Sanctis</b>
 ---
 
-
-
 El pasado viernes 23 a las 21hs cerraremos el ciclo sobre "Memoria, Verdad y Justicia" con la larga noche de Francisco Sanctis. 
 Como siempre servicio de bufet, con pizzas ricas para compartir antes y después de la peli!!
 

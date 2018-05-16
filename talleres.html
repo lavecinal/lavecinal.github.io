@@ -93,7 +93,7 @@ $(function(){
             <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
     {% assign sorted = (site.talleres | sort: 'dia-semana') %}
     <li class="mix" style="background: rgb(242, 113, 28);color: rgb(255, 255, 255);;max-height: 150px;align-items: center !important;justify-content: center !important;border-top: 5px solid #904c1f;">
-        <a data-fancybox="images" data-srcset="/img/cronograma-talleres-2018.jpg" class="item-gallery" style="
+        <a data-fancybox="images" data-srcset="https://scontent.faep9-1.fna.fbcdn.net/v/t1.0-9/32627011_2034574686806104_4086329720474435584_n.jpg?_nc_cat=0&oh=76c1aef65d5f6c467eeff43e5916a2b3&oe=5B8C3B65" class="item-gallery" style="
 
         color: #fff;
         font-weight: 600;
@@ -135,6 +135,7 @@ $(function(){
 		</h3>
     
     	<b>{{ talleres.dia }} {% if talleres.hora %} ({{ talleres.hora }}) {% endif %}</b>
+        <br> <i>{{ talleres.contacto }}</i>
         {% if talleres.meta %}
     <p style="margin: 5px 0; font-size: 18px; padding: 10px;">{{talleres.meta}}</p>
     {% endif %}

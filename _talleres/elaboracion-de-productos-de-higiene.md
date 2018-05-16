@@ -8,6 +8,7 @@ dia-semana: 10
 oficios: true
 hora: 11 a 12:30hs
 meta:  No se necesitan conocimientos previos, solo el interés de incorporar a su vida cotidiana productos naturales, libres de tóxicos.
+published: false
 ---
 
 <img src="https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/29542527_350028465509022_6608244832050052994_n.jpg?oh=30c56e4497add964402250d22b4500fc&oe=5B3689B8" alt="" width="100%">

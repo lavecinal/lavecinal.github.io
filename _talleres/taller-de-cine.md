@@ -4,6 +4,7 @@ title: Taller de cine
 permalink: /talleres/taller-de-cine/
 dia:   [ lunes ]
 oficios: true
+published: false
 dia-semana: 15
 hora: 19:30 a 21:30hs
 meta: Partiendo de una idea, desarrollar un guión y plasmarlo en un audiovisual que pueda ser visto por otros.

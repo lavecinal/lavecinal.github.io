@@ -1,10 +1,10 @@
 ---
 layout: post-talleres
-title: Elongación
-permalink: /talleres/elongacion/
+title: Frances
+permalink: /talleres/frances/
 dia:   [ jueves]
 dia-semana: 40
 rondas: true
 disable: true
-hora: 10 a 11:30hs
+hora: 13 a 14:30hs
 ---
