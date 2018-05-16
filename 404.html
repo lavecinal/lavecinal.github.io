@@ -5,14 +5,54 @@ layout: default
 permalink: /404.html
 ---
 
-<article class="espacio" style="margin: 15px;">
+<article class="espacio" style="margin: 15px;position: fixed;left: 0;right: 0;max-width: 100%;z-index: 1;background: #f9f9f9;top: 0;bottom: 0;text-align: center;">
 	<h1>
 		# 404
-
-		
 	</h1>
-	<h2>Página no localizada :(</h2>
-	<h2>
+	
+	<div class="maldonado" style="
+    display: block;
+    text-align: center;
+    padding: 1em 0;
+">
+  <span class="fa-stack fa-lg" aria-hidden="true">
+      <i class="fa fa-flag fa-stack-2x" style="
+      color: #25a55f;
+  "></i>
+      <i class="fa fa-heart fa-stack-1x" style="
+      color: #fff;
+      position: relative;
+      top: -5px;
+      font-size: 12px;
+      left: 0px;
+  "></i>
+    </span>
+    <span id="demo" style="color: #fff;width: auto;text-indent: -7px;overflow: hidden;margin: 0px 0 0 15px;font-size: 20px;display: inline-block;position: relative;top: 5px;"></span>
+</div>
+
+  <script>
+  // Set the date we're counting down to
+  var countDownDate = new Date("Aug 1, 2017 22:00:00").getTime();
+
+  // Update the count down every 1 second
+  var x = setInterval(function() {
+
+    // Get todays date and time
+    var now = new Date().getTime();
+
+    // Find the distance between now an the count down date
+    var distance = countDownDate - now;
+
+    // Time calculations for days, hours, minutes and seconds
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+
+    // Display the result in the element with id="demo"
+    document.getElementById("demo").innerHTML = days + " días sin Santiago Maldonado";
+
+    
+  }, 1000);
+  </script>
+
 	<a style="border-bottom: 2px solid #fff; padding-bottom: 4px;" href="/">volver a comenzar</a>
 	</h2>
 
