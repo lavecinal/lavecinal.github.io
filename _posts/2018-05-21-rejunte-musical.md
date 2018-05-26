@@ -1,7 +1,7 @@
 ---
 title: Rejunte Musical
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticias
 image_url: /img/rejunte-musical.jpg
 featured_img: /img/rejunte-musical.jpg
