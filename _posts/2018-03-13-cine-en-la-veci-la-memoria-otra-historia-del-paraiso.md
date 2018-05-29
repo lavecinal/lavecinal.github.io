@@ -1,5 +1,5 @@
 ---
-title: <i>Cine</i> - La Memoria, otra historia del Paraíso
+title: Cine - La Memoria, otra historia del Paraíso
 layout: post-novedad
 featured: false
 categoria: noticia

@@ -1,10 +1,10 @@
 ---
-title: <i>Cine</i> - La larga noche de Francisco Sanctis
+title: Cine - La larga noche de Francisco Sanctis
 layout: post-novedad
 featured: false
 categoria: noticia
 image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXwKp-Y435mmfJf2oCTxrPlA99NjKB-RyDlYo-xLlj1O1uTQr
-meta: El pasado viernes 23 a las 21hs cerraremos el ciclo sobre <i>Memoria, Verdad y Justicia</i> con <b>La larga noche de Francisco Sanctis</b>
+meta: El pasado viernes 23 a las 21hs cerraremos el ciclo sobre Memoria, Verdad y Justicia con La larga noche de Francisco Sanctis
 ---
 
 El pasado viernes 23 a las 21hs cerraremos el ciclo sobre "Memoria, Verdad y Justicia" con la larga noche de Francisco Sanctis. 

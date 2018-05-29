@@ -2,11 +2,10 @@
 title: Rejunte Musical
 layout: post-novedad
 featured: false
-categoria: noticias
+categoria: noticia
 image_url: /img/rejunte-musical.jpg
 featured_img: /img/rejunte-musical.jpg
 meta: Este viernes 25 de MAYO - FERIADO - a las 19hs empezamos con la ampliación de la vecinal y nos juntamos para compartir ronda de música, comida rica y alegría!
-
 ---
 
 VIERNES 25 de MAYO - FERIADO 
