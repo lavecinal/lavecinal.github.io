@@ -5,12 +5,15 @@ featured: true
 categoria: noticia
 fecha: 2 de Junio
 hora: 22hs
-image_url: /img/ciru-de-por-y-para-la-musica.jpg
-meta: Junio se viene lleno de eventos!!! Este sábado nos volvemos a encontrar en la vecinal con música y buena onda!
+image_url: /img/ciru-de-por-y-para-la-musica-actualizado.jpg
+meta: Junio se viene lleno de eventos!!! Este domingo nos volvemos a encontrar en la vecinal con música y buena onda!
 ---
 
-<div style="text-align: center;">
-	
-<div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=2042291846034388&amp;set=a.1617298781867032.1073741849.100007607774862&amp;type=3&amp;theater" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/photo.php?fbid=2042291846034388&amp;set=a.1617298781867032.1073741849.100007607774862&amp;type=3" class="fb-xfbml-parse-ignore"><p>Junio se viene lleno de eventos!!!
-Este sábado nos volvemos a encontrar en la vecinal con música y buena onda!</p>Publicado por <a href="https://www.facebook.com/people/Vecinal-Paraje-Entre-Rios/100007607774862">Vecinal Paraje Entre Rios</a> en&nbsp;<a href="https://www.facebook.com/photo.php?fbid=2042291846034388&amp;set=a.1617298781867032.1073741849.100007607774862&amp;type=3">martes, 29 de mayo de 2018</a></blockquote></div>
-</div>
+"De, por y para la música" sería dos días en la vida de Luiz, un músico "independiente", que vive con un ratón gigante llamado Ricardo. Con él dialoga sobre las dificultades de llevar a cabo su profesión. Batalla contra las barreras impuestas, sus propias contradicciones y sus "ganas de salvarse" con alguna buena idea. La reflexión que comienza autoreferencial se transforma en una visión más amplia, sobre la música en sí... "De, por y para la música" es re apto para todo público...
+
+<img src="https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/33894901_1282747158525598_5720978562341666816_n.jpg?_nc_cat=0&_nc_eui2=AeEhCqz2pfRpZYztEes3DRyGwrm68mtgxggXRjlxks33v-7E9LvwSkFcxyCs5ZJbJrgy6vFrmFljEg_fCVFrw-PCkqix2B1T7MTG8lWO-dJuOA&oh=fb6195f22235e7d6a0281f7f4c57989d&oe=5B7DA6B8" alt="" width="100%">
+
+AFICHE ACTUALIZADO: Los espacios culturales y trabajadores del arte apoyamos el evento solidario que se hará este sábado en Zonda, que sufrió un robo y está necesitando una mano... así que vamos todxs para allá... y el espectáculo mío se REPROGRAMA PARA EL DOMINGO a las 20hs
+
+<img src="/img/zonda-solidario.jpg" alt="" width="100%">
+

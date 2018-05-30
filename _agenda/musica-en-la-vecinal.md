@@ -1,7 +1,7 @@
 ---
 layout: agenda
 title: Ciru - De, por y para la música
-fecha: Sabado 2 de Junio
+fecha: Domingo 3 de Junio
 hora: 21hs
 published: true
 orden: 2
