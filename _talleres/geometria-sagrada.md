@@ -18,7 +18,9 @@ meta: Exploraremos las grandes verdades geométricas del Universo, a través del
 <p>Vení a sorprenderte.</p>
 
 
-
+<p style="text-align: center;">
+	<a class="ui button green small" href="/novedades/domo-geodesico-en-la-veci" style="text-transform: uppercase;">Domo Geodésico para la plaza de los chicos</a>
+</p>
 
 <div style="position: relative;">
 	<div class="gallery col-6">
@@ -52,4 +54,4 @@ meta: Exploraremos las grandes verdades geométricas del Universo, a través del
 	</div>
 </div>
 
-<a class="ui button green small" href="/novedades/domo-geodesico-en-la-veci" style="text-transform: uppercase;">Domo Geodésico para la plaza de los chicos</a>
+
