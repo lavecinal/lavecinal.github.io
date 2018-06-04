@@ -1,7 +1,7 @@
 ---
 title: Espectáculo de música y teatro performático
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 fecha: 2 de Junio
 hora: 22hs
