@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Ciru - De, por y para la música
-fecha: Domingo 3 de Junio
+title: u'wa la gozadera
+fecha: Sabado 9 de Junio
 hora: 21hs
-published: false
-orden: 2
-link: /novedades/ciru-de-por-y-para-la-musica
+published: true
+orden: 3
+link: /novedades/musica-en-la-veci-cumbia-psicodelica
 ---
