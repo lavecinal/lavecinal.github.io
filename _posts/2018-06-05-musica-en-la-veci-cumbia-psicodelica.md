@@ -14,3 +14,8 @@ meta: Sábado 9 de Junio a las 21hs llega la CUMBIA psicodélica a la veci de la
 </p>
 
 <img src="https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/34320725_1691523030944176_6089502652012429312_o.jpg?_nc_cat=0&oh=541c7ba765d8c912185065065218d4f0&oe=5B821C43" alt="" width="100%">
+
+<video controls>
+  <source src="/img/uwa-la-gozadera.mp4"
+          type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
+</video>
