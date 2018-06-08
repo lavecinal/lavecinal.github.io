@@ -7,6 +7,21 @@ $mobile: new-breakpoint(max-width 500px 4);
     .container {
         min-height: 90vh;
     }
+
+    .talleres-notification {
+        text-align: center;
+        padding: 25px 15px;
+        font-size: 30px;
+        background: #21ba45;
+        color: #fff;
+        font-weight: 600;
+        a {
+            color: #fff;
+            border-bottom: 3px dotted #fff;
+            text-decoration: none;
+            padding-bottom: 5px;
+        }
+    }
     
 
     .talleres-soon {
