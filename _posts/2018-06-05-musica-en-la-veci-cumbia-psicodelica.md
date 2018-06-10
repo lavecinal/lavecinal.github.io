@@ -1,7 +1,7 @@
 ---
 title: Gran fiesta con U'WA LA GOZADERA!
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 fecha: 9 de Junio
 hora: 21hs
