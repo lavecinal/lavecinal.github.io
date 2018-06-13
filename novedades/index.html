@@ -18,14 +18,14 @@ layout: page
         </a>
         <div class="description" style="font-size: 18px; line-height: 23px; position: relative">
           <p> {{post.meta}}</p>
-          <time style="position: absolute; top: -35px; right: 0; font-weight: 600; letter-spacing: 1px;">{{ post.date | date: "%-d/%-m/%Y" }}</time>
+          
         </div>
-        <div class="meta">
+        <div class="meta" style="position: relative; margin-top: 20px;">
           <a href="{{site.baseurl}}{{post.url}}" class="ui button small inverted orange compact">
             Leer mas
             <i class='fa fa-chevron-circle-right fa-fw'></i>
           </a>
-         
+         <time style="position: absolute; top: 10px; right: 0; font-weight: 600; ">publicado el {{ post.date | date: "%-d/%-m/%Y" }}</time>
         </div>
       </div>
     </div>
