@@ -1,7 +1,7 @@
 ---
 title: Musica de Nico Trigo e invitades
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 fecha: 16 de Junio
 hora: 21hs
