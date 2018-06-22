@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Musica de Nico Trigo e invitades
-fecha: Sabado 16 de Junio
+title: Música Celta
+fecha: Sabado 23 de Junio
 hora: 21hs
-published: false
+published: true
 orden: 3
-link: /novedades/musica-en-la-veci-nico-trigo-e-invitades
+link: /novedades/musica-celta
 ---
