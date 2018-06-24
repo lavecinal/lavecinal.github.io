@@ -1,7 +1,7 @@
 ---
 title: Musica Celta
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 fecha: 23 de Junio
 hora: 21hs
