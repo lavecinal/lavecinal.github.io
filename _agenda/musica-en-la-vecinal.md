@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Música Celta
-fecha: Sabado 23 de Junio
+title: Mujeres que cantan
+fecha: Sabado 30 de Junio
 hora: 21hs
-published: false
+published: true
 orden: 3
-link: /novedades/musica-celta
+link: /novedades/mujeres-que-cantan
 ---
