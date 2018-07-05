@@ -1,5 +1,5 @@
 ---
-title: Peña al Encuentro al aire libre
+title: 🎵 Peña al Encuentro al aire libre
 layout: post-novedad
 featured: false
 categoria: noticia

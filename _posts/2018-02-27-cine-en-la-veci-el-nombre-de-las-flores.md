@@ -1,5 +1,5 @@
 ---
-title: <i>Cine</i> - El nombre de las flores
+title: 🎬 El nombre de las flores
 layout: post-novedad
 featured: false
 categoria: noticia

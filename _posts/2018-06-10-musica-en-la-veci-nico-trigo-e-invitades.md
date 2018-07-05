@@ -1,5 +1,5 @@
 ---
-title: Musica de Nico Trigo e invitades
+title: 🎵 Musica de Nico Trigo e invitades
 layout: post-novedad
 featured: false
 categoria: noticia

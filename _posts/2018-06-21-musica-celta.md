@@ -1,5 +1,5 @@
 ---
-title: Musica Celta
+title: 🎵 Musica Celta
 layout: post-novedad
 featured: false
 categoria: noticia

@@ -1,5 +1,5 @@
 ---
-title: 1 encuentro abierto construyendo salud familiar comunitaria
+title: 🌼 1 encuentro abierto construyendo salud familiar comunitaria
 layout: post-novedad
 featured: false
 categoria: noticia

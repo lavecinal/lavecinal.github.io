@@ -1,5 +1,5 @@
 ---
-title: <i>Cine</i> - La culpa la tiene fidel
+title: 🎬 La culpa la tiene fidel
 layout: post-novedad
 featured: false
 categoria: noticia

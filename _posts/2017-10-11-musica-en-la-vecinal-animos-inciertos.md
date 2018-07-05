@@ -1,5 +1,5 @@
 ---
-title: Sábado de música con Ánimos inciertos
+title: 🎵 Sábado de música con Ánimos inciertos 🎭
 layout: post-novedad
 featured: false
 categoria: noticia
