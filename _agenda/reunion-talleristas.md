@@ -1,9 +1,9 @@
 ---
 layout: agenda
 title: Reunión talleristas
-fecha: Martes 12 de Junio
-published: false
+fecha: Martes 7 de agosto
+published: true
 hora: 19hs
 orden: 3
-link: /novedades/reunion-talleristas
+link: /novedades/reunion-de-talletistas
 ---
