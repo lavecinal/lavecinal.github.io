@@ -5,7 +5,7 @@ featured: false
 categoria: noticia
 fecha: 9 de Junio
 hora: 21hs
-image_url: https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/34320725_1691523030944176_6089502652012429312_o.jpg?_nc_cat=0&oh=541c7ba765d8c912185065065218d4f0&oe=5B821C43
+image_url: https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/34460730_2046096675653905_1137219009683390464_n.jpg?_nc_cat=0&oh=efa09aebceb80845ee2b72e2d7b91b1b&oe=5C325AA4
 meta: Sábado 9 de Junio a las 21hs llega la CUMBIA psicodélica a la veci de la U'WA LA GOZADERA
 ---
 
@@ -13,7 +13,7 @@ meta: Sábado 9 de Junio a las 21hs llega la CUMBIA psicodélica a la veci de la
 	Sábado 9 de Junio a las 21hs llega la CUMBIA psicodélica a la veci de la U'WA LA GOZADERA
 </p>
 
-<img src="https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/34320725_1691523030944176_6089502652012429312_o.jpg?_nc_cat=0&oh=541c7ba765d8c912185065065218d4f0&oe=5B821C43" alt="" width="100%">
+<img src="https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/34460730_2046096675653905_1137219009683390464_n.jpg?_nc_cat=0&oh=efa09aebceb80845ee2b72e2d7b91b1b&oe=5C325AA4" alt="" width="100%">
 
 <video controls style="width: 100%;">
   <source src="/img/uwa-la-gozadera.mp4"

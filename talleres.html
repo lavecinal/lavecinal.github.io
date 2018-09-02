@@ -39,16 +39,24 @@ $(function(){
 
 <div class="talleres" >
 
-<div class="talleres-2018">
-	<a href="#controls">
-  <img src="/img/talleres-2018.svg" alt="" width="600px" class="talleres-titulo">
-  </a>
+
+
+
+ <div class="talleres-notification" >
+ <p>Talleres de Septiembre</p>
+
+ <div style="position: relative;">
+   <div class="gallery ">
+
+   <a style="max-width: 900px; margin: 0 auto;" href="/img/talleres/talleres-primavera.jpg" data-fancybox="images" data-srcset="/img/talleres/talleres-primavera.jpg" class="item-gallery">
+     <img src="/img/talleres/talleres-primavera.jpg" />
+   </a>
+
+ </div>
+ </div>
 
 </div>
- <div class="talleres-notification" style="display: none">
-  👋 dia numero de mes <a href="/novedades/reunion-talleristas">próxima reunión</a> de talleristas 👋
-</div>
-<div  class="controls">
+<div  class="controls" style="display: none">
 
       <span id="controls" style="
     position: absolute;
@@ -92,12 +100,12 @@ $(function(){
     </div>
 
 
-<div id="Container" class="container">
+<div id="Container" class="container" style="display: none;">
             
             <div class="fail-message"><span>Estos filtros no dieron resultado.</span></div>
     {% assign sorted = (site.talleres | sort: 'dia-semana') %}
     <li class="mix" style="background: rgb(242, 113, 28);color: rgb(255, 255, 255);;max-height: 296px;align-items: center !important;justify-content: center !important;border-top: 5px solid #904c1f;">
-        <a data-fancybox="images" data-srcset="https://scontent.faep9-1.fna.fbcdn.net/v/t1.0-9/32627011_2034574686806104_4086329720474435584_n.jpg?_nc_cat=0&oh=76c1aef65d5f6c467eeff43e5916a2b3&oe=5B8C3B65" class="item-gallery" style="
+        <a data-srcset="http://192.168.1.20:4000/img/talleres/talleres-primavera.jpg" class="item-gallery" style="
 
         color: #fff;
         font-weight: 600;

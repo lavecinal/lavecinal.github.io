@@ -15,7 +15,7 @@ permalink: "/novedades/:slug"
 sass:
   sass_dir: _scss
 
-host: 192.168.1.13
+host: 192.168.1.21
 
 collections:
   talleres:
@@ -23,7 +23,7 @@ collections:
   agenda:
     output: true
 
-paginate: 5
+paginate: 7
 paginate_path: "/novedades/:num/"
 
 livereload: true     # You no longer need to include --livereload

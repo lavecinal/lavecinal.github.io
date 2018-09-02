@@ -3,13 +3,17 @@ layout: page
 
 ---
 
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.js"></script>
+
 <div class="novedades">
   <article>
     <h1 style="border-bottom: 1px solid #ddd">Novedades</h1>
     <div class="ui items">
     {% for post in paginator.posts %}
     <div class="item">
-      <a href="{{site.baseurl}}{{post.url}}" class="ui image medium" style="max-height: 175px; overflow: hidden;">
+      <a href="{{post.image_url}}" data-fancybox="images" data-srcset="{{post.image_url}}" class="ui image medium item-gallery" style="max-height: 175px; overflow: hidden;">
+
         <img src="{{post.image_url}}">
       </a>
       <div class="content">
@@ -69,8 +73,17 @@ layout: page
     {% endfor %}
   </div>
    <div class="widget" >
-      <h3>contactate</h3>
-<div class="fb-page" data-href="https://www.facebook.com/vecinaldelparaje/" data-tabs="timeline" data-width="500" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/vecinaldelparaje/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/vecinaldelparaje/">Vecinal Paraje Entre Rios</a></blockquote></div>
+
+                 <h3>INSTAGRAM</h3>
+           <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Bm9v-_gFBPP/?utm_source=ig_embed" data-instgrm-version="9" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/Bm9v-_gFBPP/?utm_source=ig_embed" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una publicación compartida por Vecinal del Paraje (@vecinal.del.paraje)</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-08-27T02:02:11+00:00">26 de Ago de 2018 a las 7:02 PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+
+
+        
+
+            
+
+            
+    </div>
     </div>
   	
   </aside>

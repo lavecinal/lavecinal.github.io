@@ -1,7 +1,7 @@
 ---
 title: 🎬 Kubo y las dos cuerdas magicas
 layout: post-novedad
-featured: true
+featured: false
 published: true
 categoria: noticia
 image_url: https://scontent.faep8-2.fna.fbcdn.net/v/t1.0-9/36633866_2071902216406684_61882275347824640_n.jpg?_nc_cat=0&oh=96975bee319cb5d22d9982daa4b9a56d&oe=5BEC6E49
