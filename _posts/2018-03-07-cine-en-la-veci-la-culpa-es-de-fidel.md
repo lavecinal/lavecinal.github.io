@@ -3,7 +3,7 @@ title: 🎬 La culpa la tiene fidel
 layout: post-novedad
 featured: false
 categoria: noticia
-image_url: https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/28660345_343102029534999_3663656968058306560_n.jpg?oh=1a08e245920120497e6c0dc47803bd7b&oe=5B48AB6E
+image_url: https://cdn.shopify.com/s/files/1/0547/1973/products/LaCulpaLaTieneFidel.jpg?v=1441113644
 meta: Continuamos el ciclo de cine en la veci dedicado al 24 de marzo. Este viernes 9 de marzo preentamos <b>La culpa la tiene fidel</b>
 ---
 

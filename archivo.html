@@ -1,0 +1,87 @@
+---
+layout: page
+permalink: /archivo/
+---
+
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.js"></script>
+
+<div class="novedades">
+	
+
+
+<article>
+	<h1 style="text-align: center;">Archivos de Novedades</h1>
+	<div class="ui link cards" style="justify-content: center;"> 
+	  {% for post in site.posts %}
+      {% unless post.next %}
+        <h3 style="display: block; width: 100%; font-size: 20px; text-align: center;" id="{{ post.date | date: '%Y-%m' }}">
+          {% assign m = post.date | date: "%-m" %}
+          {% case m %}
+           {% when '1' %}Enero
+           {% when '2' %}Febrero
+           {% when '3' %}Marzo
+           {% when '4' %}Abril
+           {% when '5' %}Mayo
+           {% when '6' %}Junio
+           {% when '7' %}Julio
+           {% when '8' %}Agosto
+           {% when '9' %}Septiembre
+           {% when '10' %}Octubre
+           {% when '11' %}Noviembre
+           {% when '12' %}Diciembre
+          {% endcase %}
+          {{ post.date | date: "%Y" }}
+        </h3>
+      {% else %}
+        {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
+        {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
+        {% if year != nyear %}
+          <h3 style="display: block; width: 100%; font-size: 20px; text-align: center; border-top: 1px solid #888; padding-top: 30px;" id="{{ post.date | date: '%Y-%m' }}">
+          {% assign m = post.date | date: "%-m" %}
+          {% case m %}
+           {% when '1' %}Enero
+           {% when '2' %}Febrero
+           {% when '3' %}Marzo
+           {% when '4' %}Abril
+           {% when '5' %}Mayo
+           {% when '6' %}Junio
+           {% when '7' %}Julio
+           {% when '8' %}Agosto
+           {% when '9' %}Septiembre
+           {% when '10' %}Octubre
+           {% when '11' %}Noviembre
+           {% when '12' %}Diciembre
+          {% endcase %}
+          {{ post.date | date: "%Y" }}</h3>
+        {% endif %}
+      {% endunless %}
+
+     <div class="ui card">
+        <a href="{{post.image_url}}" data-fancybox="images" data-srcset="{{post.image_url}}" class="ui image medium item-gallery" style="max-height: 175px; overflow: hidden;">
+            <img src="{{post.image_url}}">
+          </a>
+          <div class="content">
+            <a href="{{site.baseurl}}{{post.url}}" class="header" style="text-decoration: none;">
+              {{post.title}}
+            </a>
+            <div class="description" style="font-size: 18px; line-height: 23px; position: relative">
+              <p> {{post.meta}}</p>
+              
+            </div>
+            <div class="meta" style="position: relative; margin-top: 20px;">
+              <a href="{{site.baseurl}}{{post.url}}" class="ui button small inverted orange compact">
+                Leer mas
+                <i class='fa fa-chevron-circle-right fa-fw'></i>
+              </a>
+            </div>
+          </div>   
+      </div>
+    {% endfor %}
+	</div>
+</article>
+
+</div>
+
+

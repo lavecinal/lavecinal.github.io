@@ -71,6 +71,7 @@ $ipad-v: new-breakpoint(max-width 768px 4);
 			font-size: 20px;
 			position: relative;
 			padding: 0 25px;
+			flex: 1;
 
 			.fa {
 				position: absolute;
