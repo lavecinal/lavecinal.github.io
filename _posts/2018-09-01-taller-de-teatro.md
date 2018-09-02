@@ -1,5 +1,5 @@
 ---
-title: 🎭 Taller de Teatro
+title: Taller de Teatro 🎭
 layout: post-novedad
 featured: true
 categoria: noticia

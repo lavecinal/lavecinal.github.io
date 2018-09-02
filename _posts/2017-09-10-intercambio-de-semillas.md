@@ -1,5 +1,5 @@
 ---
-title: Intercambio de semillas
+title: Intercambio de semillas 🌱
 layout: post-novedad
 categoria: noticia
 fecha: 10 de septiembre

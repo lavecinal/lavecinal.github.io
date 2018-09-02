@@ -1,5 +1,5 @@
 ---
-title: Jornada de reparación
+title: Jornada de reparación 📚
 layout: post-novedad
 categoria: noticia
 featured: false

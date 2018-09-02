@@ -1,5 +1,5 @@
 ---
-title: 🎭 Cuentos y cantos para la familia
+title: Cuentos y cantos para la familia 🎭
 layout: post-novedad
 featured: false
 categoria: noticia

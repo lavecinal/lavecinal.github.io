@@ -1,5 +1,5 @@
 ---
-title: 🏺 Talleres de Cerámica
+title: Talleres de Cerámica 🏺
 layout: post-novedad
 featured: true
 categoria: noticia

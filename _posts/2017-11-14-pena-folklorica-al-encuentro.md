@@ -1,5 +1,5 @@
 ---
-title: Peña folklorica Al Encuentro
+title: Peña folklorica Al Encuentro 🎵
 layout: post-novedad
 featured: false
 categoria: noticia

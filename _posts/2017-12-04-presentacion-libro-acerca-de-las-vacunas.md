@@ -1,5 +1,5 @@
 ---
-title: Presentacion del libro "Acerca de las vacunas"
+title: Presentacion del libro Acerca de las vacunas 📗
 layout: post-novedad
 categoria: noticia
 featured: false

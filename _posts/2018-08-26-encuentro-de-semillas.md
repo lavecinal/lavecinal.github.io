@@ -1,5 +1,5 @@
 ---
-title: 🌱 Encuentro de semillas
+title: Encuentro de semillas 🌱
 layout: post-novedad
 featured: false
 categoria: noticia

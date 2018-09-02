@@ -1,5 +1,5 @@
 ---
-title: 🎬 La Memoria, otra historia del Paraíso
+title: La Memoria, otra historia del Paraíso 🎬
 layout: post-novedad
 featured: false
 categoria: noticia

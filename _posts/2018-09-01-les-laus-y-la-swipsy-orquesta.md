@@ -1,5 +1,5 @@
 ---
-title: 🎵 Musica de Les Laus y La Swipsy Orquesta
+title: Música de Les Laus y La Swipsy Orquesta 🎵
 layout: post-novedad
 featured: false
 categoria: noticia

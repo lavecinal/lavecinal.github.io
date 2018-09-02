@@ -1,5 +1,5 @@
 ---
-title: 💠 Domo Geodésico para la plaza de los niñes 
+title: Domo Geodésico para la plaza de los niñes 💠
 layout: post-featured-novedad
 featured: false
 categoria: noticia

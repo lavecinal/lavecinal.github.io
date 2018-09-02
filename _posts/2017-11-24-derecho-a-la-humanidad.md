@@ -1,6 +1,6 @@
 ---
-title: Derecho a la humanidad - Raíz de nuestro derechos
-layout: post-novedad
+title: Derecho a la humanidad - Raíz de nuestro derechos 💡
+layout: post-novedad 
 categoria: noticia
 featured: false
 image_url: /img/derecho-a-la-humanidad.jpg

@@ -1,5 +1,5 @@
 ---
-title: 🎬 La larga noche de Francisco Sanctis
+title: La larga noche de Francisco Sanctis 🎬
 layout: post-novedad
 featured: false
 categoria: noticia

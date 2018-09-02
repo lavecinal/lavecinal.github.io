@@ -1,5 +1,5 @@
 ---
-title: 🎬 Los edukadores
+title: Los edukadores 🎬
 layout: post-novedad
 featured: false
 published: true

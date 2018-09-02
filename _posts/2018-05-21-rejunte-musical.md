@@ -1,5 +1,5 @@
 ---
-title: 🎵 Rejunte Musical
+title: Rejunte Musical 🎵
 layout: post-novedad
 featured: false
 categoria: noticia

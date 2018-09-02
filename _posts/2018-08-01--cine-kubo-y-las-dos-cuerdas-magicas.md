@@ -1,5 +1,5 @@
 ---
-title: 🎬 Kubo y las dos cuerdas magicas
+title: Kubo y las dos cuerdas magicas 🎬
 layout: post-novedad
 featured: false
 published: true

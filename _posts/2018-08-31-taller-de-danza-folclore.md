@@ -1,5 +1,5 @@
 ---
-title: 🕺🏾 Taller de Danza - Folclore - 💃🏽
+title: Taller de Danza - Folclore - 💃🏽
 layout: post-novedad
 featured: true
 categoria: noticia

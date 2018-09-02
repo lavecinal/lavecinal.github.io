@@ -1,5 +1,5 @@
 ---
-title: 🎵 Gran fiesta con U'WA LA GOZADERA!
+title: Gran fiesta con U'WA LA GOZADERA! 🎵
 layout: post-novedad
 featured: false
 categoria: noticia

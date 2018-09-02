@@ -1,5 +1,5 @@
 ---
-title: Nacimiento de la Vecinal del Paraje Entre Ríos
+title: Nacimiento de la Vecinal del Paraje Entre Ríos 🌱
 layout: post-novedad
 featured: false
 categoria: noticia

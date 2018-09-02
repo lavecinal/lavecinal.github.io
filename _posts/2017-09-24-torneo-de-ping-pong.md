@@ -1,5 +1,5 @@
 ---
-title: 🏓 Torneo de Ping Pong 🏓
+title: Torneo de Ping Pong 🏓
 layout: post-novedad
 featured: false
 categoria: noticia

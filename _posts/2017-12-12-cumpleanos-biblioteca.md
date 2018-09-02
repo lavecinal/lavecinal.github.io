@@ -1,5 +1,5 @@
 ---
-title: Cumpleaños de la biblio
+title: Cumpleaños de la biblio 🎂
 layout: post-novedad
 categoria: noticia
 featured: false

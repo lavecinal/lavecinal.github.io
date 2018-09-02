@@ -1,5 +1,5 @@
 ---
-title: 🎭 Espectáculo de música y teatro performático
+title: Espectáculo de música y teatro performático 🎭
 layout: post-novedad
 featured: false
 categoria: noticia
