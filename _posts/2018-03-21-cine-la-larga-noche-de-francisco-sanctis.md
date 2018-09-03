@@ -3,7 +3,7 @@ title: La larga noche de Francisco Sanctis 🎬
 layout: post-novedad
 featured: false
 categoria: noticia
-image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXwKp-Y435mmfJf2oCTxrPlA99NjKB-RyDlYo-xLlj1O1uTQr
+image_url: https://pics.filmaffinity.com/la_larga_noche_de_francisco_sanctis-401362427-large.jpg
 meta: El pasado viernes 23 a las 21hs cerraremos el ciclo sobre Memoria, Verdad y Justicia con La larga noche de Francisco Sanctis
 ---
 

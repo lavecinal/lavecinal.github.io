@@ -13,7 +13,7 @@ permalink: /archivo/
 
 <article>
 	<h1 style="text-align: center;">Archivos de Novedades</h1>
-	<div class="ui link cards" style="justify-content: center;"> 
+	<div class="ui cards" style="justify-content: center;"> 
 	  {% for post in site.posts %}
       {% unless post.next %}
         <h3 style="display: block; width: 100%; font-size: 20px; text-align: center;" id="{{ post.date | date: '%Y-%m' }}">
@@ -58,19 +58,30 @@ permalink: /archivo/
         {% endif %}
       {% endunless %}
 
-     <div class="ui card">
-        <a href="{{post.image_url}}" data-fancybox="images" data-srcset="{{post.image_url}}" class="ui image medium item-gallery" style="max-height: 175px; overflow: hidden;">
+     <div class="ui card" style="width: 400px;">
+        <a href="{{post.image_url}}" data-fancybox="images" data-srcset="{{post.image_url}}" class="ui image medium item-gallery" style="max-height: 175px; overflow: hidden; width: 400px;">
             <img src="{{post.image_url}}">
+            <span class="expand-image" style="
+    position: absolute;
+    top: 13px;
+    right: 18px;
+    z-index: 999;
+    color: #fff;
+    font-size: 20px;
+    opacity: .7;
+">
+              <i class="fa fa-expand"></i>
+            </span>
           </a>
           <div class="content">
             <a href="{{site.baseurl}}{{post.url}}" class="header" style="text-decoration: none;">
               {{post.title}}
             </a>
-            <div class="description" style="font-size: 18px; line-height: 23px; position: relative">
+            <div class="description" style="font-size: 18px; line-height: 23px; position: relative; display: none">
               <p> {{post.meta}}</p>
               
             </div>
-            <div class="meta" style="position: relative; margin-top: 20px;">
+            <div class="meta" style="position: relative; margin-top: 20px; display: none;">
               <a href="{{site.baseurl}}{{post.url}}" class="ui button small inverted orange compact">
                 Leer mas
                 <i class='fa fa-chevron-circle-right fa-fw'></i>
