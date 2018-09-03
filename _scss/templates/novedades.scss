@@ -47,7 +47,12 @@ $mobile: new-breakpoint(max-width 500px 4);
 				flex: 1;
 				width: 100%;
 			}
+
+			iframe {
+				transform: scale(0.8) translateX(-50px) translateY(-60px)
+			}
 		}
+
 	}
 	
 	.items {
