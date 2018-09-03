@@ -191,7 +191,7 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 		padding: 0;
 		display: flex;
 
-		@include media($ipad-v) {
+		@include media($ipad-h) {
 			flex-direction: column-reverse;
 			
 		}
@@ -206,8 +206,13 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 			background: #fff;
 			padding: 2em 1em;
 
+			@include media($ipad-h) {
+				    margin: 2em;
+			}
+
 			@include media($mobile) {
 				width: 100%;
+				margin: 1em 0;
 			}
 		}
 
@@ -231,12 +236,19 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 			width: 400px;
 			padding: 0 2em;
 
-			@include media($ipad-v) {
+			@include media($ipad-h) {
 			 	width: 100%;
 			}
 
 			 @include media($mobile) {
-			 	width: 100%;
+		 	    width: 100%;
+    			padding: 0 5px;
+			 }
+
+			 .instagram {
+			 	@include media($ipad-h) {
+			 	 	display: none;
+			 	}
 			 }
 		}
 
