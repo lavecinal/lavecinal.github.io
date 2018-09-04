@@ -118,6 +118,7 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 
 			@include media($mobile) {
 				height: 620px;
+				padding: 1em;
 			}
 		}
 
