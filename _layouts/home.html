@@ -49,8 +49,18 @@ layout: default
 		<div class="item">
 		
           
-          <a class="image" href="{{site.baseurl}}{{post.url}}">
+          <a class="image item-gallery" href="{{post.image_url}}" data-srcset="{{post.image_url}}" data-fancybox="images">
 				<img class="ui fluid image" src="{{post.image_url}}">
+				    <span class="expand-image" style="position: absolute;
+				    top: 13px;
+				    right: 18px;
+				    z-index: 999;
+				    color: #fff;
+				    font-size: 20px;
+				    opacity: .7;
+				">
+				              <i class="fa fa-expand"></i>
+				            </span>
 			</a>
         
 			

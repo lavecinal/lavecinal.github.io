@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Mujeres que cantan
-fecha: Sabado 30 de Junio
-hora: 21hs
-published: false
+title: Viaje poético gráfico musical por los vericuetos del alma
+fecha: Sabado 8 de Septiembre
+hora: 21:30hs
+published: true
 orden: 3
-link: /novedades/mujeres-que-cantan
+link: /novedades/viaje-poético-gráfico-musical-por-los-vericuetos-del-alma
 ---

@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.js"></script>
 
 <h1>
   Novedades
@@ -12,13 +14,24 @@ layout: home
   {% for post in features limit:4%}
     {% if post.categoria == 'noticia' %}
       <div class="item">
-      <a href="{{site.baseurl}}{{post.url}}" class="ui image medium" style="max-height: 175px; overflow: hidden;">
+      <a href="{{post.image_url}}" class="ui image medium item-gallery" data-fancybox="images" style="max-height: 175px; overflow: hidden;" data-srcset="{{post.image_url}}" >
         <img src="{{post.image_url}}">
+            <span class="expand-image" style="position: absolute;
+            top: 13px;
+            right: 18px;
+            z-index: 999;
+            color: #fff;
+            font-size: 20px;
+            opacity: .7;
+        ">
+                      <i class="fa fa-expand"></i>
+                    </span>
       </a>
       <div class="content" style="display: flex; flex-direction: column;">
         <a href="{{site.baseurl}}{{post.url}}" class="header">
           {{post.title}}
         </a>
+
        
         <div class="description" style="font-size: 18px; line-height: 23px; flex: 1; ">
           <p> {{post.meta}}</p>
