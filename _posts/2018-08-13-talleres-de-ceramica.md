@@ -1,7 +1,7 @@
 ---
 title: Talleres de Cerámica 🏺
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/39057084_10155852699661483_5419189120465371136_n.jpg?_nc_cat=0&oh=599f899b24af6b7fbd0c1461849bea62&oe=5C3AD2AD
 meta: Seguimos los lunes de cerámica de 15 a 18:30hs
