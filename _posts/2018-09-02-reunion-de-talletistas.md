@@ -1,5 +1,5 @@
 ---
-title: Reunion de talleristas
+title: Reunión de talleristas
 layout: post-novedad
 featured: true
 categoria: noticia
