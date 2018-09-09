@@ -8,7 +8,12 @@ layout: page
 
 <div class="novedades">
   <article>
-    <h1 style="border-bottom: 1px solid #ddd">Novedades</h1>
+    <h1 style="border-bottom: 1px solid #ddd; position: relative;">
+      Novedades
+      <span style="position: absolute; right: 0">
+         <b>{{paginator.page}} / {{paginator.total_pages}}</b>
+      </span>
+    </h1>
     <div class="ui items">
     {% for post in paginator.posts %}
     <div class="item">
@@ -39,16 +44,16 @@ layout: page
     <div class="paginator">
     {% if paginator.next_page or paginator.previous_page %}
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}">
+        <a href="{{ paginator.previous_page_path }}" class="ui button compact green">
          <i class="fa fa-long-arrow-left" aria-hidden="true"></i> página anterior</a>
       {% else %}
-        <b> <i class="fa fa-long-arrow-left" aria-hidden="true"></i>página anterior</b>
+        <b class="ui button compact"> <i class="fa fa-long-arrow-left" aria-hidden="true"></i>página anterior</b>
       {% endif %}
-      <b>{{paginator.page}} / {{paginator.total_pages}}</b>
+      <b class="pages-number">{{paginator.page}} / {{paginator.total_pages}}</b>
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}">página siguiente <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+        <a href="{{ paginator.next_page_path }}" class="ui button compact green">página siguiente <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
       {% else %}
-        <b>página siguiente <i class="fa fa-long-arrow-right" aria-hidden="true"></i></b>
+        <b class="ui button compact">página siguiente <i class="fa fa-long-arrow-right" aria-hidden="true"></i></b>
       {% endif %}
     {% endif %}
     </div>

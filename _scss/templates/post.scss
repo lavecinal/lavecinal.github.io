@@ -48,7 +48,11 @@ $ipad-v: new-breakpoint(max-width 768px 4);
 	.article {
 		max-width: 600px;
 		margin: 0 auto;
-		padding: 0 1em;
+		padding: 2em 1em;
+
+		@include media($mobile) {
+		 padding: 0 15px;
+		}
 
 		p {
 			font-size: 20px;

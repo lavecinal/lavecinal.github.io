@@ -1,3 +1,5 @@
+
+
 .paginator {
 	//border-top: 1px solid #ddd;
 	display: inline-flex;
@@ -6,7 +8,33 @@
 	align-items: center;
 	padding: 1em 0;
 
-	.fa {
-		padding: 0 1em;
+	@include media($mobile) {
+		flex-direction: column;
+	}
+
+
+	.button {
+		@include media($mobile) {
+			width: 100%;
+			margin-bottom: 15px;
+		}
+	}
+
+	.fa-long-arrow-left {
+		padding: 0 10px 0 0;
+	}
+
+	.fa-long-arrow-right {
+		padding: 0 0 0 10px;
+	}
+
+	.pages-number {
+		font-size: 30px;
+		color: #333;
+
+
+		@include media($mobile) {
+			order: 1;
+		}
 	}
 }
