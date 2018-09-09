@@ -1,15 +1,15 @@
 ---
 title: Viaje poético gráfico musical por los vericuetos del alma 🎵
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/por-los-vericuetos-del-alma.jpg
 featured_img: /img/por-los-vericuetos-del-alma.jpg
-meta: Este sábado 8 de septiembre a las 21.30hs en nuestra casa común del paraje entre rios
+meta: El sábado 8 de septiembre a las 21.30hs en nuestra casa común del paraje entre rios
 ---
 
 <p style="text-align: center;">
-	<b>Este sábado 8 de septiembre a las 21.30hs</b> <br>
+	<b>El sábado 8 de septiembre a las 21.30hs</b> <br>
 	 en nuestra casa común del paraje entre rios
 </p>
 
