@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Viaje poético gráfico musical por los vericuetos del alma
-fecha: Sabado 8 de Septiembre
-hora: 21:30hs
-published: false
+title: Taller de danza folklorica
+fecha: Sabado 13 de Septiembre
+hora: 19hs
+published: true
 orden: 3
-link: /novedades/viaje-poetico-grafico-musical-por-los-vericuetos-del-alma
+link: /novedades/taller-de-danza-folklorica
 ---
