@@ -1,7 +1,7 @@
 ---
 layout: agenda
 title: Taller de danza folklorica
-fecha: Sabado 13 de Septiembre
+fecha: Jueves 13 de Septiembre
 hora: 19hs
 published: true
 orden: 3
