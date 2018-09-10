@@ -28,6 +28,8 @@ layout: page
 {{content}}
 </div>
 
+
+
 <div class="pagination">  
   {% if page.previous.url %}  
     <a class="prev" href="{{page.previous.url}}">
@@ -42,6 +44,8 @@ layout: page
     </a>  
   {% endif %}  
 </div>  
+
+{% include share-bar.html %}
 
 <div class="comentarios">
 <h2 style="text-align: center">Comentarios</h2>
