@@ -59,32 +59,26 @@ permalink: /archivo/
       {% endunless %}
 
      <div class="ui card" style="width: 400px;">
-        <a href="{{post.image_url}}" data-fancybox="images" data-srcset="{{post.image_url}}" class="ui image medium item-gallery" style="max-height: 175px; overflow: hidden; width: 400px;">
+           <a href="{{site.baseurl}}{{post.url}}"  class="ui image medium item-gallery" style="max-height: 175px; overflow: hidden; width: 400px;">
             <img src="{{post.image_url}}">
-            <span class="expand-image" style="
-    position: absolute;
-    top: 13px;
-    right: 18px;
-    z-index: 999;
-    color: #fff;
-    font-size: 20px;
-    opacity: .7;
-">
-              <i class="fa fa-expand"></i>
-            </span>
+
           </a>
           <div class="content">
             <a href="{{site.baseurl}}{{post.url}}" class="header" style="text-decoration: none;">
               {{post.title}}
             </a>
-            <div class="description" style="font-size: 18px; line-height: 23px; position: relative; display: none">
+            <div class="description" style="font-size: 18px; line-height: 23px; position: relative; ">
               <p> {{post.meta}}</p>
               
             </div>
             <div class="meta" style="position: relative; margin-top: 20px; ">
-              <a href="{{site.baseurl}}{{post.url}}" class="ui button small inverted green compact">
-                Ver más
+              <a href="{{site.baseurl}}{{post.url}}" class="ui button small  green compact">
+                Ver nota
                 <i class='fa fa-chevron-circle-right fa-fw'></i>
+              </a>
+              <a href="{{post.image_url}}" data-fancybox="images" data-srcset="{{post.image_url}}" class="ui button small inverted orange compact">
+                Abrir en galería
+                <i class="fa fa-expand fa-fw"></i>
               </a>
             </div>
           </div>   

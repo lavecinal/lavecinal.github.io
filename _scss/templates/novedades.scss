@@ -2,13 +2,42 @@ $desktop: new-breakpoint(max-width 1000px 4);
 $mobile: new-breakpoint(max-width 500px 4);
 
 .item-gallery {
+	
+	img {
+
 	transform: scale(1);
 	-webkit-transition: all .4s cubic-bezier(0.7,0,.3,1);
 	-moz-transition: all .4s cubic-bezier(0.7,0,.3,1);
 	transition: all .4s cubic-bezier(0.7,0,.3,1);
+	transform-origin: 50% 50%;
+
+		&:hover {
+			transform: scale(1.05);
+			opacity: .8;		
+		}
+	}
+
+
+	
+}
+
+.expand-image {
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 10;
+	color: #fff;
+	font-size: 15px;
+	opacity: .7;
+	background: #999;
+	padding: 10px 12px;
+	-webkit-transition: all .4s cubic-bezier(0.7,0,.3,1);
+	-moz-transition: all .4s cubic-bezier(0.7,0,.3,1);
+	transition: all .4s cubic-bezier(0.7,0,.3,1);
+	border-radius: 0 0 0 5px;
 
 	&:hover {
-		transform: scale(1.02);				
+		opacity: 1;
 	}
 }
 

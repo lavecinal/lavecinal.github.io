@@ -49,18 +49,8 @@ layout: default
 		<div class="item">
 		
           
-          <a class="image item-gallery" href="{{post.image_url}}" data-srcset="{{post.image_url}}" data-fancybox="images">
+          <a class="image item-gallery" href="{{site.baseurl}}{{post.url}}" >
 				<img class="ui fluid image" src="{{post.image_url}}">
-				    <span class="expand-image" style="position: absolute;
-				    top: 13px;
-				    right: 18px;
-				    z-index: 999;
-				    color: #fff;
-				    font-size: 20px;
-				    opacity: .7;
-				">
-				              <i class="fa fa-expand"></i>
-				            </span>
 			</a>
         
 			
@@ -70,7 +60,7 @@ layout: default
 				<div class="action">
 					  
           <a href="{{site.baseurl}}{{post.url}}" class="ui button orange compact">
-						Leer mas
+						Leer más
 						<i class='fa fa-chevron-circle-right fa-fw'></i>
 					</a>
         
