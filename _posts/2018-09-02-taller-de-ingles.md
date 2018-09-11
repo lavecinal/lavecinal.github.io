@@ -1,5 +1,5 @@
 ---
-title: Taller de Inglés 🎈
+title: Taller de Inglés con juegos 🎈
 layout: post-novedad
 featured: false
 categoria: noticia

@@ -1,5 +1,5 @@
 ---
-title: Encuentro de Danza Folklorica
+title: Encuentro de Danza Folklorica 🎵
 layout: post-novedad
 featured: true
 categoria: noticia

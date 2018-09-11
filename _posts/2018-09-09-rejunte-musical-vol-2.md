@@ -1,5 +1,5 @@
 ---
-title: Rejunte Musical para la ampliación Vol. 2
+title: Rejunte Musical para la ampliación Vol. 2 🎵
 layout: post-novedad
 featured: true
 categoria: noticia
