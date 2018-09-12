@@ -1,7 +1,7 @@
 ---
 title: Encuentro de Danza Folklorica 🎵
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/taller-de-danza-folklorica.jpg
 meta: Este jueves 13 de septiembre desde las 19hs vamos a compartir un espacio de chacarera para todes.
