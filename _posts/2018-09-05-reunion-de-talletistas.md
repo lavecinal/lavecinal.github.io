@@ -1,7 +1,7 @@
 ---
 title: Reunión de talleristas 💬
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/2018-09-11-reunion-de-talleres.jpg
 meta: Nos juntamos este Martes 11 de septiembre con tods ls talleristas para intercambiar, organizar y proponer
