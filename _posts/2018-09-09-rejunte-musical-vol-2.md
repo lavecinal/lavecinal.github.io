@@ -4,10 +4,10 @@ layout: post-novedad
 featured: true
 categoria: noticia
 image_url: /img/rejunte-musical-vol2.jpg
-meta: El 15 de septiembre a partir de las 20hs contaremos con la presencia de musics invitads y un buffet muy popular.
+meta: El 15 de septiembre a partir de las 19hs contaremos con la presencia de musics invitads y un buffet muy popular.
 ---
 
-El 15 de septiembre a partir de las 20hs contaremos con la presencia de musics y un buffet muy popular.
+El 15 de septiembre a partir de las 19hs contaremos con la presencia de musics y un buffet muy popular.
 
 <div style="position: relative;">
 	<div class="gallery col-3">
