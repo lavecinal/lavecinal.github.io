@@ -26,20 +26,22 @@ layout: default
 
 <div class="home">
 	<div class="top-bar">
-		<a class="logo" href="{{ site.baseurl }}/">
-			<img src="{{ site.baseurl }}/img/logo-vecinal-entre-rios.svg" width="260px">
-		</a>
-		<nav>
-			<a href="{{ site.baseurl }}/talleres/" {% if page.url == '/talleres/' %}class="active" {% endif %}>talleres </a>
-			<a href="{{ site.baseurl }}/novedades/" {% if page.url == '/novedades/' %}class="active" {% endif %}>novedades</a>
-			<a href="{{ site.baseurl }}/archivo/" {% if page.url == '/archivo/' %}class="active" {% endif %}>archivo</a>
-			<a href="{{ site.baseurl }}/elparaje/" {% if page.url == '/elparaje/' %}class="active" {% endif %}>el paraje</a>
-			<a href="{{ site.baseurl }}/participa/" {% if page.url == '/participa/' %}class="active" {% endif %}>participa</a>
-			
-		</nav>
-		<button type="button" class="toogle-btn js-menu-trigger sliding-panel-button">
-		  <i class="fa fa-bars" aria-hidden="true"></i>
-		</button>
+		<div class="top-bar-wrapper">
+			<a class="logo" href="{{ site.baseurl }}/">
+				<img src="{{ site.baseurl }}/img/logo-vecinal-entre-rios.svg" width="260px">
+			</a>
+			<nav>
+				<a href="{{ site.baseurl }}/talleres/" {% if page.url == '/talleres/' %}class="active" {% endif %}>talleres </a>
+				<a href="{{ site.baseurl }}/novedades/" {% if page.url == '/novedades/' %}class="active" {% endif %}>novedades</a>
+				<a href="{{ site.baseurl }}/archivo/" {% if page.url == '/archivo/' %}class="active" {% endif %}>archivo</a>
+				<a href="{{ site.baseurl }}/elparaje/" {% if page.url == '/elparaje/' %}class="active" {% endif %}>el paraje</a>
+				<a href="{{ site.baseurl }}/participa/" {% if page.url == '/participa/' %}class="active" {% endif %}>participa</a>
+				
+			</nav>
+			<button type="button" class="toogle-btn js-menu-trigger sliding-panel-button">
+			  <i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+		</div>
 	</div>
 
 	<div class="main-container">
