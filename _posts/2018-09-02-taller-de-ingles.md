@@ -1,7 +1,7 @@
 ---
 title: Taller de Inglés con juegos 🎈
 layout: post-novedad
-featured: false
+featured: true
 categoria: noticia
 image_url: /img/talleres/divertinglish.jpg
 meta: Continuan los sabados de inglés para niñes de 5 a 12 años con la profe Natalia Cipolla de 12 a 13hs
