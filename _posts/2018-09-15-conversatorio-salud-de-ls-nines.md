@@ -1,5 +1,5 @@
 ---
-title: Conve
+title: Conversatorio sobre el cuidado y acompañamiento de la salud de nuestrxs niñxs
 layout: post-novedad
 featured: true
 categoria: noticia
