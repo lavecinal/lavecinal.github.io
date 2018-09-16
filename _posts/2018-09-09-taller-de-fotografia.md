@@ -1,7 +1,7 @@
 ---
 title: Taller de Fotografía 📷
 layout: post-novedad
-featured: false
+featured: true
 categoria: noticia
 image_url: /img/talleres/taller-de-fotografia.jpg
 meta: Desde el miércoles de 13.30 a 15.30hs arranca el taller de fotografía en la vecinal del paraje
