@@ -1,7 +1,7 @@
 ---
 title: Rejunte Musical para la ampliación Vol. 2 🎵
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/rejunte-musical-vol2.jpg
 meta: El 15 de septiembre a partir de las 19hs contaremos con la presencia de musics invitads y un buffet muy popular.
