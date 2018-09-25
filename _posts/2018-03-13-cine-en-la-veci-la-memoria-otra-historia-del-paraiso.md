@@ -3,11 +3,21 @@ title: La Memoria, otra historia del Paraíso 🎬
 layout: post-novedad
 featured: false
 categoria: noticia
-image_url: https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/18528045_1853968054866742_8486693560144837340_n.jpg?_nc_cat=0&oh=c740c7c8a2dc83b190e424db24cec470&oe=5C388D3C
+image_url: /img/2017-la-memoria-otra-historia-del-paraiso.jpg
 meta: El viernes 16 de marzo proyectamos La Memoria, otra historia del Paraíso. Un documental realizado por Gustavo Marangoni sobre la desaparición de Julio Schwarts en El Bolsón
 ---
 
-<img src="https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/18528045_1853968054866742_8486693560144837340_n.jpg?_nc_cat=0&oh=c740c7c8a2dc83b190e424db24cec470&oe=5C388D3C" alt="" width="100%;">
+
+
+<div style="position: relative;">
+	<div class="gallery col-3">
+
+	<a style="width: 100%;" href="/img/2017-la-memoria-otra-historia-del-paraiso.jpg" data-fancybox="images" data-srcset="/img/2017-la-memoria-otra-historia-del-paraiso.jpg" class="item-gallery">
+		<img src="/img/2017-la-memoria-otra-historia-del-paraiso.jpg" />
+	</a>
+
+</div>
+</div>
 
 Continuando con el ciclo que en marzo se está dando en la vecinal del paraje con el tema del 24 de marzo.
 "MEMORIA, VERDAD Y JUSTICIA".

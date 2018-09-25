@@ -3,7 +3,7 @@ title: Música de Les Laus y La Swipsy Orquesta 🎵
 layout: post-novedad
 featured: false
 categoria: noticia
-image_url: https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/40432267_2134633643466874_6151075784204222464_n.jpg?_nc_cat=0&oh=9c9962723f34ca7a927a5345e6a09bae&oe=5C39DDB4
+image_url: /img/2018-09-les-laus.jpg
 meta: El sábado 1 de septiembre 🌹 a las 21,30 hs. Un quinteto para traer a nuestro presente la música creada y popularizada por el guitarrista gitano Django Reinhardt en la década del 30 en Francia,
 ---
 
@@ -57,8 +57,8 @@ En esta ocasión Les Laus y La Swipsy Orquesta presentará su repertorio de swin
 <div style="position: relative;">
 	<div class="gallery col-3">
 
-	<a style="width: 100%;" href="https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/40432267_2134633643466874_6151075784204222464_n.jpg?_nc_cat=0&oh=9c9962723f34ca7a927a5345e6a09bae&oe=5C39DDB4" data-fancybox="images" data-srcset="https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/40432267_2134633643466874_6151075784204222464_n.jpg?_nc_cat=0&oh=9c9962723f34ca7a927a5345e6a09bae&oe=5C39DDB4" class="item-gallery">
-		<img src="https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-9/40432267_2134633643466874_6151075784204222464_n.jpg?_nc_cat=0&oh=9c9962723f34ca7a927a5345e6a09bae&oe=5C39DDB4" />
+	<a style="width: 100%;" href="/img/2018-09-les-laus.jpg" data-fancybox="images" data-srcset="/img/2018-09-les-laus.jpg" class="item-gallery">
+		<img src="/img/2018-09-les-laus.jpg" />
 	</a>
 
 	</div>
@@ -69,8 +69,8 @@ En esta ocasión Les Laus y La Swipsy Orquesta presentará su repertorio de swin
 <div style="position: relative;">
 	<div class="gallery col-3">
 
-	<a style="width: 100%;" href="https://instagram.faep9-2.fna.fbcdn.net/vp/1ba15912e1ffeed3ad54476f83bcbce2/5C267C67/t51.2885-15/sh0.08/e35/s640x640/39486062_1803510203103782_8630781281468153856_n.jpg" data-fancybox="images" data-srcset="https://instagram.faep9-2.fna.fbcdn.net/vp/1ba15912e1ffeed3ad54476f83bcbce2/5C267C67/t51.2885-15/sh0.08/e35/s640x640/39486062_1803510203103782_8630781281468153856_n.jpg" class="item-gallery">
-		<img src="https://instagram.faep9-2.fna.fbcdn.net/vp/1ba15912e1ffeed3ad54476f83bcbce2/5C267C67/t51.2885-15/sh0.08/e35/s640x640/39486062_1803510203103782_8630781281468153856_n.jpg" />
+	<a style="width: 100%;" href="/img/2018-09-01-les-laus/les-laus-integrantes.jpg" data-fancybox="images" data-srcset="/img/2018-09-01-les-laus/les-laus-integrantes.jpg" class="item-gallery">
+		<img src="/img/2018-09-01-les-laus/les-laus-integrantes.jpg" />
 	</a>
 
 </div>

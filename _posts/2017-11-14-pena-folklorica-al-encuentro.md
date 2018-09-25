@@ -11,5 +11,13 @@ meta: Este sábado 25 de noviembre se viene una fecha muy especial con peña al 
 
 Este sábado 25 de noviembre se viene una fecha muy especial con peña al Encuentro! Los esperamos con muchas ganas de compartir!
 
-<img src="https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/23755764_293640557814480_144066415304747058_n.jpg?oh=9f95f58231b78d8b2c0eb7d8568c9d6e&oe=5A89FCF2" alt="" width="100%">
 
+<div style="position: relative;">
+	<div class="gallery col-3">
+
+	<a style="width: 100%;" href="/img/pena-al-encuentro-zonda.jpg" data-fancybox="images" data-srcset="/img/pena-al-encuentro-zonda.jpg" class="item-gallery">
+		<img src="/img/pena-al-encuentro-zonda.jpg" />
+	</a>
+
+</div>
+</div>

@@ -81,11 +81,6 @@ Alejandra del grupo de mujeres que convocan al 1° Festival Feminista de la coma
 </div>
 
 
-<img src="https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/27332249_325885514589984_969806845548056301_n.png?oh=2773519658435617ec093a702a0562fc&oe=5ADE4E05" width="100%" alt="">
-
-
-
-
 
 
 

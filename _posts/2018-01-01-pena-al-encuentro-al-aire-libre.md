@@ -15,5 +15,10 @@ meta: Todos los Viernes de Enero los esperamos a las 21hs con unas hermosas Peñ
 	🌕🎶🎸
 </p>
 
-<img src="https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/26168314_1961442174119356_3584686537105343842_n.jpg?oh=ca908070ea5581f1608ce5cfe87514e2&oe=5AF7BA8D" width="100%" alt="">
-
+<div style="position: relative;">
+	<div class="gallery col-3">
+		<a style="width: 100%;" href="/img/pena-al-encuentro-aire-libre.jpg" data-fancybox="images" data-srcset="/img/pena-al-encuentro-aire-libre.jpg" class="item-gallery">
+			<img src="/img/pena-al-encuentro-aire-libre.jpg" />
+		</a>
+	</div>
+</div>
