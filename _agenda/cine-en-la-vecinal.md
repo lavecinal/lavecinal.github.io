@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Cine - Kubo y las dos cuerdas magicas
-fecha: Dom. 5 de Agosto
+title: Documental sobre las vacunas
+fecha: Dom 30 de Septiembre
 hora: 19hs
-published: false
+published: true
 orden: 3
-link: /novedades/cine-kubo-y-las-dos-cuerdas-magicas
+link: /novedades/documental-sobre-las-vacunas
 ---
