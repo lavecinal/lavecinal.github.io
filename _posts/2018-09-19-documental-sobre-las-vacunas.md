@@ -1,7 +1,7 @@
 ---
 title: Documental sobre las vacunas
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/documental-sobre-las-vacunas.jpg
 meta: Este domingo 30 les invitamos a compartir CINE+CENA en la vecinal del paraje. Convocamos desde la ronda MAHPÁS para ver y charlar sobre este tema tan delicado.
