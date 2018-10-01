@@ -1,7 +1,7 @@
 ---
 title: Recital en la vecinal con Analia Abat e invitades 🎵
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/festival-despedida-de-analia-abat.jpg
 meta: El próximo 29 de septiembre a las 21.30hs
