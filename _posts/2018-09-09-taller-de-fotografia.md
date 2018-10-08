@@ -4,11 +4,11 @@ layout: post-novedad
 featured: false
 categoria: noticia
 image_url: /img/talleres/taller-de-fotografia.jpg
-meta: Desde el miércoles de 13.30 a 15.30hs arranca el taller de fotografía en la vecinal del paraje
+meta: Desde el miércoles de 20 a 22hs arranca el taller de fotografía en la vecinal del paraje
 --- 
 
 
-<h3>Desde el miércoles de 13.30 a 15.30hs arranca el taller de fotografía en la vecinal del paraje</h3>
+<h3>Desde el miércoles de 20 a 22hs arranca el taller de fotografía en la vecinal del paraje</h3>
 
 <div style="position: relative;">
 	<div class="gallery col-3">
