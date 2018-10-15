@@ -1,7 +1,7 @@
 ---
 title: Conversatorio sobre el acompañamiento de la salud de nuestrxs niñxs 💬
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/conversatorio-salud-nines.jpg
 meta: Gracias a tods los que se acercaron el martes a compartir en un espacio de crianza.
