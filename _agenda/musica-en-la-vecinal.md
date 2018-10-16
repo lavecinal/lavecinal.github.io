@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Recital despedida de Analia Abat e invitades 
-fecha: Sabado 29 de Septiembre
+title: Taller de Canto y bombo con invitades
+fecha: Sabado 20 de Octubre
 hora: 21.30hs
-published: false
+published: true
 orden: 2
-link: /novedades/recital-despedida-de-analia-abat
+link: /novedades/taller-de-canto-bombo-con-invitades
 ---
