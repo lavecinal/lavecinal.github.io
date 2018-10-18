@@ -1,5 +1,5 @@
 ---
-title: Musica en la veci - Adrián Vivas e invitades
+title: Noche de Musica con Adrián Vivas, Nahuel Romani e invitades
 layout: post-novedad
 featured: true
 categoria: noticia
