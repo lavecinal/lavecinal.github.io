@@ -1,6 +1,6 @@
 ---
 layout: agenda
-title: Taller de Canto y bombo con invitades
+title: Musica en la veci - Adrián Vivas e invitades
 fecha: Sabado 20 de Octubre
 hora: 21.30hs
 published: true
