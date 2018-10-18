@@ -1,6 +1,6 @@
 ---
 layout: agenda
-title: Musica en la veci - Adrián Vivas e invitades
+title: Noche de musica con invitades
 fecha: Sabado 20 de Octubre
 hora: 21.30hs
 published: true
