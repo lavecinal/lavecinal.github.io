@@ -1,7 +1,7 @@
 ---
 title: Clinica colectiva con Juliana Benedicti
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/clinicas/clinica-juliana-benedicti.jpg
 meta: Lxs esperamos a las 20:30hs puntual en la Vecinal y como siempre traer algo rico para compartir.
