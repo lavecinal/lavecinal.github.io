@@ -1,7 +1,7 @@
 ---
 title: Noche de Musica con Adrián Vivas, Nahuel Romani e invitades
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/2017-10-taller-de-canto-bombo.jpg
 meta: Les esperamos este sabado 20 para compartir un espacio de musica para seguir ampliandonos
