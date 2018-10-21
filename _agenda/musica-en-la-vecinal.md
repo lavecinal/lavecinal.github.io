@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Noche de musica con invitades
-fecha: Sabado 20 de Octubre
-hora: 21.30hs
+title: Anahi Pereyra y orquesta de canciones a pedal
+fecha: Sabado 27 de Octubre
+hora: 22hs
 published: true
 orden: 3
-link: /novedades/taller-de-canto-bombo-con-invitades
+link: /novedades/anahi-pereyra-y-orquesta-de-canciones-a-pedal
 ---
