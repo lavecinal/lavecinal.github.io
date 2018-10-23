@@ -5,14 +5,15 @@ featured: false
 categoria: noticia
 featured_img: /img/clinicas/clinica-juliana-benedicti.jpg
 image_url: /img/clinicas/clinica-juliana-benedicti.jpg
-meta: Lxs esperamos a las 20:30hs puntual en la Vecinal y como siempre traer algo rico para compartir.
+meta: El pasado Viernes 19 de Octubre Juliana nos compartiró sus saberes y experiencias artísticas en Video Mapping
 --- 
 
-Este Viernes 19 de Octubre nos encontramos en un nueva clínica colectiva, en esta ocasión nos visitará Juliana Benedicti quien compartirá sus saberes y experiencias artísticas en Video Mapping, sus usos, aspectos técnicos, artísticos y su producción. 
+El pasado Viernes 19 de Octubre nos encontramos en un nueva clínica colectiva, en esta ocasión nos visitó Juliana Benedicti quien compartiró sus saberes y experiencias artísticas en Video Mapping, sus usos, aspectos técnicos, artísticos y su producción. 
 
-Lxs esperamos a las 20:30hs puntual en la Vecinal del Paraje Ríos Vecinal Paraje Entre Rios, y como siempre, traer algo rico para compartir. 
 
-Están todxs invitadxs!! 
+<video controls style="width: 100%;">
+  <source src="/img/clinicas/mapping-en-la-veci.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
+</video>
 
 <div style="position: relative;">
 	<div class="gallery col-3">
