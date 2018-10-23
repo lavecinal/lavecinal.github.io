@@ -1,5 +1,5 @@
 ---
-title: Presentacion del libro de Gabriel González
+title: Presentación del libro de Gabriel González
 layout: post-novedad
 featured: true
 categoria: noticia
