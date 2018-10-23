@@ -11,9 +11,11 @@ meta: El pasado Viernes 19 de Octubre Juliana nos compartiró sus saberes y expe
 El pasado Viernes 19 de Octubre nos encontramos en un nueva clínica colectiva, en esta ocasión nos visitó Juliana Benedicti quien compartiró sus saberes y experiencias artísticas en Video Mapping, sus usos, aspectos técnicos, artísticos y su producción. 
 
 
-<video controls style="width: 100%;">
-  <source src="/img/clinicas/mapping-en-la-veci.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
+<p style="margin: 15px 0; text-align:center;">
+	<video controls="" style="width: 510px;margin: 0 auto;">
+  <source src="/img/clinicas/mapping-en-la-veci.mp4" type="video/mp4;codecs=&quot;avc1.42E01E, mp4a.40.2&quot;">
 </video>
+</p>
 
 <div style="position: relative;">
 	<div class="gallery col-3">
