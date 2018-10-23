@@ -1,6 +1,6 @@
 ---
 title: Clinica colectiva con Juliana Benedicti
-layout: post-novedad
+layout: post-featured-novedad
 featured: false
 categoria: noticia
 image_url: /img/clinicas/clinica-juliana-benedicti.jpg
