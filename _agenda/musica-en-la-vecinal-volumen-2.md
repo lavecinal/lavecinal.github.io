@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Rejunte Musical para la ampliación Vol. 2
-fecha: Sabado 15 de Septiembre
-hora: 19hs
-published: false
-orden: 4
-link: /novedades/rejunte-musical-vol-2
+title: Presentación del libro de Gabriel González 
+fecha: Jueves 25 de Octubre
+hora: 14.30hs
+published: true
+orden: 2
+link: /novedades/psicogenealogia-arbol-genealogico
 ---
