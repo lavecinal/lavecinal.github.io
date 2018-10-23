@@ -3,7 +3,7 @@ title: Presentacion del libro de Gabriel González
 layout: post-novedad
 featured: true
 categoria: noticia
-image_url: /img/anahi-pereyra-orquesta-de-cancionas-a-pedal.jpg
+image_url: /img/psicogenealogia-arbol-genealogico.jpg
 meta: Les esperamos este jueves en la veci! A las 16:30 presentando el libro Psicigenealogia.
 --- 
 
