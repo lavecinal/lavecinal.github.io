@@ -1,13 +1,13 @@
 ---
-title: Presentación del libro de Gabriel González
+title: Presentación del libro de Gabriela González
 layout: post-novedad
 featured: true
 categoria: noticia
 image_url: /img/psicogenealogia-arbol-genealogico.jpg
-meta: Les esperamos este jueves en la veci! A las 16:30 presentando el libro Psicigenealogia.
+meta: Les esperamos este jueves en la veci! A las 16:30 presentando su libro psicogenealogia.
 --- 
 
-Les esperamos este jueves en la veci! A las 16:30 presentando el libro Psicigenealogia.
+Les esperamos este jueves en la veci! A las 16:30 presentando su libro psicogenealogia.
 
 <div style="position: relative;">
 	<div class="gallery col-3">
