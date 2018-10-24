@@ -19,8 +19,9 @@ El pasado Viernes 19 de Octubre nos encontramos en un nueva clínica colectiva, 
     position: relative;
     margin-bottom: 35px;
 ">
-        <video controls="" style="position: absolute;top: 0;left: 0;height: 100%;width: 100%;margin: 0 auto;">
-  <source src="/img/clinicas/mapping-en-la-veci.mp4" type="video/mp4;codecs=&quot;avc1.42E01E, mp4a.40.2&quot;">
+<video controls="" style="position: absolute;top: 0;left: 0;height: 100%;width: 100%;margin: 0 auto;">
+	<source src="/img/clinicas/mapping-en-la-veci.mp4" type="video/mp4;codecs=&quot;avc1.42E01E, mp4a.40.2&quot;">
+	<img src="https://www.vecinaldelparaje.com.ar/img/clinicas/clinica-juliana-benedicti.jpg" title="Tu navegador no soporta la etiqueta de <video>">
 </video>
     </div>
   </div>
