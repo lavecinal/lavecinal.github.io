@@ -9,6 +9,10 @@ meta: El proximos sabado 27 de octubre nos juntamos a disfrutar de una velada en
 
 El proximos sabado 27 de octubre nos juntamos a disfrutar de una velada en la veci.
 
+Se presentará Anahí Pereyra haciendo música latinoamericana con su "Orquesta de Canciones a Pedal".
+
+Como siempre habrá servicio de BUFET atendido por vecinas y vecinos.
+
 <div style="position: relative;">
 	<div class="gallery col-3">
 
