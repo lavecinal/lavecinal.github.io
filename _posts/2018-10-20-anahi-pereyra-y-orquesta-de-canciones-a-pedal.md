@@ -1,17 +1,15 @@
 ---
-title: Anahi Pereyra y orquesta de canciones a pedal
+title: Anahi Pereyra y orquesta de canciones a pedal 🎵
 layout: post-novedad
 featured: true
 categoria: noticia
 image_url: /img/anahi-pereyra-orquesta-de-cancionas-a-pedal.jpg
-meta: El proximos sabado 27 de octubre nos juntamos a disfrutar de una velada en la veci.
+meta: Música del mundo con bases latinoamericanas el proximos sábado 27 de octubre.
 --- 
 
-El proximos sabado 27 de octubre nos juntamos a disfrutar de una velada en la veci.
-
-Se presentará Anahí Pereyra haciendo música latinoamericana con su "Orquesta de Canciones a Pedal".
-
-Como siempre habrá servicio de BUFET atendido por vecinas y vecinos.
+Este sábado 27/10 a las 22hs. Entrada a la gorra. Buffet delisioso. Momento hermoso para compartir..
+Anahi pereyra y la orquesta de canciones a pedal
+Musica del mundo con bases latinoamericanas
 
 <div style="position: relative;">
 	<div class="gallery col-3">
@@ -22,3 +20,19 @@ Como siempre habrá servicio de BUFET atendido por vecinas y vecinos.
 
 </div>
 </div>
+
+Anahi pereyra-- Voz, Percusion, Guitarra
+Leonardo garcia-- Bajo electrico
+Lucas sanchez-- Percusion Bateria
+
+El repertorio que compartimos esta creado desde el maravilloso lugar
+Que tiene la musica en nuestras vidas.
+La musica herramienta primordial de sosten, fortaleza, felicidad.
+Musica creada por nosotrxs mismxs y musicas interpretadas desde nuestro sentir.
+Musica con bases poeticas que refuerzan el sentido de melodias y armonias.
+Musica nacida desde una voz latinoamericana y viajada por otras partes
+Del mundo ,unidas por un eje en común. La canción
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5ckijQh_gc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Les esperamos
