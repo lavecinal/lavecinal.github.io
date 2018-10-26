@@ -21,9 +21,9 @@ Musica del mundo con bases latinoamericanas
 </div>
 </div>
 
-Anahi pereyra-- Voz, Percusion, Guitarra
-Leonardo garcia-- Bajo electrico
-Lucas sanchez-- Percusion Bateria
+Anahi pereyra-- Voz, Percusion, Guitarra <br>
+Leonardo garcia-- Bajo electrico <br>
+Lucas sanchez-- Percusion Bateria <br>
 
 El repertorio que compartimos esta creado desde el maravilloso lugar
 Que tiene la musica en nuestras vidas.
