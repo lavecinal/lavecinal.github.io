@@ -1,7 +1,7 @@
 ---
 title: Presentación del libro de Gabriela González
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/psicogenealogia-arbol-genealogico.jpg
 meta: Les esperamos este jueves en la veci! A las 16:30 presentando su libro psicogenealogia.
