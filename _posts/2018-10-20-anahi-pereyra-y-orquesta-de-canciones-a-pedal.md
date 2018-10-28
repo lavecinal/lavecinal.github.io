@@ -1,7 +1,7 @@
 ---
 title: Anahi Pereyra y orquesta de canciones a pedal 🎵
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/anahi-pereyra-orquesta-de-cancionas-a-pedal.jpg
 meta: Música del mundo con bases latinoamericanas el proximos sábado 27 de octubre.
