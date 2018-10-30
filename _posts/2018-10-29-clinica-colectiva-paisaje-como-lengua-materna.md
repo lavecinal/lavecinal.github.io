@@ -5,7 +5,7 @@ featured: true
 categoria: noticia
 featured_img: /img/clinicas/el-paisaje-como-lengua-materna.jpg
 image_url: /img/clinicas/el-paisaje-como-lengua-materna.jpg
-meta: En sintonía con los acontecimientos estéticos en los que venimos trabajo en los últimos años, lxs invitamos a  formar parte de un encuentro de exploración compartida.
+meta: Lxs invitamos a  formar parte de un encuentro de exploración compartida. Lxs esperamos el viernes 2 de noviembre a las 21 hs
 --- 
 
 Las clínicas cerramos el ciclo 2018 con una experiencia colectiva de intercambio en torno al eje curatorial “el paisaje como lengua materna”. En sintonía con los acontecimientos estéticos en los que venimos trabajo en los últimos años, lxs invitamos a  formar parte de un encuentro de exploración compartida con lxs siguientes realizadorxs:
