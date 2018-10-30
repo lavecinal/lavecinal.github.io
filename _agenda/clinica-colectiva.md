@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Clinica colectiva con Juliana Benedicti
-fecha: Viernes 19 de Octubre
-hora: 20.30hs
-published: false
+title: Clinica colectiva - El Paisaje como Lengua Materna
+fecha: Viernes 2 de Noviembre
+hora: 21hs
+published: true
 orden: 2
-link: /novedades/clinica-juliana-benedicti
+link: /novedades/clinica-colectiva-paisaje-como-lengua-materna
 ---
