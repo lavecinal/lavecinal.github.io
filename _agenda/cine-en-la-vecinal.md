@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Documental sobre las vacunas
-fecha: Dom 30 de Septiembre
-hora: 19hs
-published: false
+title: Cine en la veci - They Live de John Carpenters
+fecha: Domingo 4 de Noviembre
+hora: 20hs
+published: true
 orden: 3
-link: /novedades/documental-sobre-las-vacunas
+link: /novedades/cine-en-la-veci-they-live
 ---
