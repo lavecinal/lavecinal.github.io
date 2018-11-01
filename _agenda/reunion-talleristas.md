@@ -4,6 +4,6 @@ title: Reunión talleristas
 fecha: Martes 6 de Noviembre
 published: true
 hora: 19hs
-orden: 2
+orden: 4
 link: /novedades/reunion-de-talletistas
 ---
