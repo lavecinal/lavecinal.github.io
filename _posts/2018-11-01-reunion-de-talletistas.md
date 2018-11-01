@@ -4,7 +4,7 @@ layout: post-novedad
 featured: true
 categoria: noticia
 image_url: /img/2018-09-11-reunion-de-talleres.jpg
-meta: Nos juntamos el proximo Martes 1 de Noviembre con tods ls talleristas para intercambiar, organizar y proponer
+meta: Nos juntamos el proximo Martes 6 de Noviembre con tods ls talleristas para intercambiar, organizar y seguir proponiendo.
 ---
 
 
