@@ -1,7 +1,7 @@
 ---
 layout: agenda
 title: Reunión talleristas
-fecha: Martes 1 de Noviembre
+fecha: Martes 6 de Noviembre
 published: true
 hora: 19hs
 orden: 2
