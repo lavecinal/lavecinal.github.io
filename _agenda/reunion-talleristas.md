@@ -1,9 +1,9 @@
 ---
 layout: agenda
 title: Reunión talleristas
-fecha: Martes 11 de Septiembre
-published: false
-hora: 18hs
+fecha: Martes 1 de Noviembre
+published: true
+hora: 19hs
 orden: 2
 link: /novedades/reunion-de-talletistas
 ---
