@@ -1,7 +1,7 @@
 ---
 title: Clinica colectiva - El Paisaje como Lengua Materna
 layout: post-featured-novedad
-featured: true
+featured: false
 categoria: noticia
 featured_img: /img/clinicas/el-paisaje-como-lengua-materna.jpg
 image_url: /img/clinicas/el-paisaje-como-lengua-materna.jpg
