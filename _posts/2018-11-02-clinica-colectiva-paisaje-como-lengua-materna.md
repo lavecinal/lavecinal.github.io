@@ -5,7 +5,7 @@ featured: false
 categoria: noticia
 featured_img: /img/clinicas/el-paisaje-como-lengua-materna.jpg
 image_url: /img/clinicas/el-paisaje-como-lengua-materna.jpg
-meta: Lxs invitamos a  formar parte de un encuentro de exploración compartida. Lxs esperamos el viernes 2 de noviembre a las 21 hs
+meta: Lxs invitamos a formar parte de un encuentro de exploración compartida. Lxs esperamos el viernes 2 de noviembre a las 21 hs
 --- 
 
 
