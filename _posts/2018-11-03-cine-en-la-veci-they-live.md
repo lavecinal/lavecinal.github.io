@@ -1,7 +1,7 @@
 ---
 title: Cine en la veci - They Live de John Carpenters 🎬
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/2018-11-ciclo-cine-distopico-they-live.jpg
 meta: Entrada a colaboración. Lo recaudado será destinado para organizar la jornada antirepresiva del primero de diciembre.
