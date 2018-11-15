@@ -4,10 +4,10 @@ layout: post-novedad
 featured: true
 categoria: noticia
 image_url: /img/taller-de-candombe.jpg
-meta: Espacio para descubrir, conocer, aprender y tocar los tambores de candombe. Para principiantes de todas las edades. Coordinado por Gabi Bosco-
+meta: Espacio para descubrir, conocer, aprender y tocar los tambores de candombe. Para principiantes de todas las edades. Coordinado por Gabi Bosco.
 ---
 
-Espacio para descubrir, conocer, aprender y tocar los tambores de candombe. Para principiantes de todas las edades. Coordinado por Gabi Bosco-
+Espacio para descubrir, conocer, aprender y tocar los tambores de candombe. Para principiantes de todas las edades. Coordinado por Gabi Bosco.
 
 <div style="position: relative;">
 	<div class="gallery col-3">
