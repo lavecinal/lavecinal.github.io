@@ -1,5 +1,5 @@
 ---
-title: Espacio de reflexion 💬
+title: Espacio de reflexión 💬
 layout: post-novedad
 featured: true
 categoria: noticia
