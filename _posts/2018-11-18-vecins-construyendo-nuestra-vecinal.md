@@ -1,5 +1,5 @@
 ---
-title: Vecins construyendo nuestra vecinal 💪🏻
+title: Vecins construyendo nuestra vecinal
 layout: post-novedad
 featured: true
 categoria: noticia
