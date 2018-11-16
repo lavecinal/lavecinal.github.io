@@ -17,4 +17,4 @@ Vos podes aportar de la forma que puedas y dentro de tus posibilidades solamente
 
 Gracias 🌷️🌞🎶
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2cEWcfMXfdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2cEWcfMXfdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
