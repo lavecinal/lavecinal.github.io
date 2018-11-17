@@ -1,6 +1,6 @@
 ---
 title: Vecins construyendo nuestra vecinal
-layout: post-featured-novedad
+layout: post-featured
 featured: true
 categoria: noticia
 featured_img: /img/vecinos-constuyendo-featured.jpg
