@@ -7,6 +7,14 @@ image_url: /img/vecinos-constuyendo.jpg
 meta: Desde hace un tiempo que nos propusimos ampliar el espacio de tods los vecins.
 --- 
 
+<div style="position: relative;">
+	<div class="gallery col-3">
+		<a style="width: 100%;" href="/img/vecinos-constuyendo-featured.jpg" data-fancybox="images" data-srcset="/img/vecinos-constuyendo-featured.jpg" class="item-gallery">
+		<img src="/img/vecinos-constuyendo-featured.jpg" />
+	</a>
+</div>
+</div>
+
 Desde hace un tiempo que nos propusimos ampliar el espacio de tods los vecins. Se realizó un curanto hace un año mostrando que tods junts podemos hacer más que separados.
 
 Gracias a las peñas, los ciclos de cine, talleres de danza, eventos y al aporte de donaciones y por sobre todo al esfuerzo de los vecins del paraje entre rios y de la comarca, este sueño cada dia está más cerca. 
