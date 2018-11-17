@@ -9,8 +9,8 @@ meta: Desde hace un tiempo que nos propusimos ampliar el espacio de tods los vec
 
 <div style="position: relative;">
 	<div class="gallery col-3">
-		<a style="width: 100%;" href="/img/vecinos-constuyendo-featured.jpg" data-fancybox="images" data-srcset="/img/vecinos-constuyendo-featured.jpg" class="item-gallery">
-		<img src="/img/vecinos-constuyendo-featured.jpg" />
+		<a style="width: 100%;" href="/img/vecinos-constuyendo.jpg" data-fancybox="images" data-srcset="/img/vecinos-constuyendo.jpg" class="item-gallery">
+		<img src="/img/vecinos-constuyendo.jpg" />
 	</a>
 </div>
 </div>
