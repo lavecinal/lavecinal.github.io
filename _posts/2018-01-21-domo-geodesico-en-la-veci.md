@@ -22,8 +22,8 @@ Para lograr una forma más esferizada se quiebran los triángulos que forman el 
 </p>
 
 <p style="text-align: center;">
-	<img src="/img/2018-01-31-domo-geodesico/proyeccion.jpg" width="384px" style="margin: 0" alt="">
-	<figcaption style="text-align: center;">Proyección de los nuevos triángulos en un circunferencia a partir de su centro</figcaption>
+	<img src="/img/2018-01-31-domo-geodesico/proyeccion.jpg" width="100%" style="margin: 0; max-width: 380px;" alt="">
+	<figcaption style="text-align: center; color: #999; margin-bottom: 25px; display: block;">Proyección de los nuevos triángulos en un circunferencia a partir de su centro</figcaption>
 </p>
 
 Ahora todos los <b>vértices</b> están a la misma distancia de dicho centro.

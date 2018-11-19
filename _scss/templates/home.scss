@@ -12,14 +12,14 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 		//padding-top: 1em;
 	    flex-wrap: wrap;
 
-		 @include media($mobile) {
+		 @include media($ipad-v) {
 		 	flex-direction: column;
 		 }
 	}
 
 	.featured-container {
 		width: 100%;
-		height: 400px;
+		height: 500px;
 		background: #f1f1f1;
 		border-bottom: 2px solid #ddd;
 		background-image: url(/img/vecinal-casa.jpg);
@@ -32,29 +32,29 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 			}
 
 		&::before {
-			background-color: #651a45;
+			background-color: #20804b;
 			content: '';
 			position: absolute;
 			top: 0px;
 			left: 0;
 			right: 0;
-			height: 400px;
+			height: 500px;
 			opacity: 0.9;
 
-			@include media($mobile) {
+			@include media($ipad-v) {
 				height: 600px;
 			}
 		}
 
-		@include media($mobile) {
+		@include media($ipad-v) {
 			height: 600px;
 		}
 
 
 		.owl-wrapper-outer {
-			height: 400px;
+			height: 500px;
 
-			@include media($mobile) {
+			@include media($ipad-v) {
 				height: 600px;
 			}
 
@@ -65,7 +65,7 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 			position: absolute;
 			bottom: 10px;
 			width: 180px;
-			left: calc(50% - 50px);
+			left: calc(50% - 90px);
 		}
 
 		.owl-buttons {
@@ -88,7 +88,7 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 			text-align: center;
 		    line-height: 45px;
 
-		    @include media($mobile) {
+		    @include media($ipad-v) {
 		    	top: 30%;
 		    }
 
@@ -111,12 +111,12 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 		}
 
 		.owl-item {
-			height: 400px;
+			height: 500px;
 			text-align: left;
 			padding: 3em 2em;
 			color: #fff;
 
-			@include media($mobile) {
+			@include media($ipad-v) {
 				height: 620px;
 				padding: 1em;
 			}
@@ -124,10 +124,10 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 
 		.item {
 			display: flex;
-			max-width: 900px;
+			max-width: 1000px;
 			margin: 0 auto;
 
-			@include media($mobile) {
+			@include media($ipad-v) {
 				flex-direction: column;
 			}
 
@@ -135,11 +135,11 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 				overflow: hidden;
 				border-radius: 9px;
 				position: relative;
-				height: 252px;
-			    flex: 1;
+				height: 350px;
+			    flex: 2;
 
 
-				@include media($mobile) {
+				@include media($ipad-v) {
 					width: 100%;
 					height: auto;
 				}
@@ -156,7 +156,7 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 				flex-direction: column;
 			    flex: 1;
 
-				@include media($mobile) {
+				@include media($ipad-v) {
 					width: 100%;
 					padding: .5em;
 				}
@@ -169,7 +169,7 @@ $ipad-h: new-breakpoint(max-width 1027px 4);
 					font-weight: 600;
 					margin-top: 15px;
 
-					@include media($mobile) {
+					@include media($ipad-v) {
 						font-size: 24px;
 					}
 
