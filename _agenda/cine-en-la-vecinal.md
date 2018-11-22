@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Cine en la veci - They Live de John Carpenters
-fecha: Domingo 4 de Noviembre
+title: Cine en la veci - Naufrago en la luna
+fecha: Domingo 25 de Noviembre
 hora: 20hs
-published: false
+published: true
 orden: 3
-link: /novedades/cine-en-la-veci-they-live
+link: /novedades/cine-naufrago-en-la-luna
 ---

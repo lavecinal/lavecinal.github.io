@@ -1,9 +1,9 @@
 ---
 layout: agenda
 title: Espacio de reflexión
-fecha: Domingo 18 de Noviembre
+fecha: Domingo 25 de Noviembre
 hora: 11hs
-published: false
+published: true
 orden: 2
-link: /novedades/espacio-de-reflexion
+link: /novedades/segundo-encuentro-de-reflexion
 ---
