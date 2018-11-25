@@ -2,6 +2,7 @@
 title: Segundo encuentro de reflexión 💬
 layout: post-novedad
 featured: true
+published: false
 categoria: noticia
 image_url: /img/espacio-de-reflexion-vol-2.jpg
 meta: Segundo encuentro coordinado por Alejandro para reflexionar sobre el trabajo construyendo vínculos. Domingo 25 de noviembre a las 11hs
