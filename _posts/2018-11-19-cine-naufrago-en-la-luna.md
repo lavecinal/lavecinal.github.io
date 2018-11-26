@@ -1,7 +1,7 @@
 ---
 title: Cine a la gorra - Naufrago en la luna 🎬
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/cine-naufrago-en-la-luna.jpg
 meta: Este domingo 25 a las 20hs nos juntamos a compartir un película de amor poco convencional en la que dos extraños se ven unidos por sus conciencias problemáticas y sus fantasías
