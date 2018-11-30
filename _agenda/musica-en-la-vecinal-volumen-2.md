@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Espacio de reflexión
-fecha: Domingo 25 de Noviembre
-hora: 11hs
-published: false
+title: Muestra de talleres
+fecha: Domingo 2 de Diciembre
+hora: 16hs
+published: true
 orden: 2
-link: /novedades/segundo-encuentro-de-reflexion
+link: /novedades/muestra-de-talleres-cumple-de-la-veci
 ---
