@@ -17,7 +17,7 @@ Les esperamos como siempre, para compartir un hermoso momento entre todes.
 ❤️💙💜🧡💚
 
 
-<div style="position: relative; max-width: 500px; margin: 0 auto;">
+<div style="position: relative; max-width: 610px; margin: 0 auto;">
 	<div class="gallery col-3">
         <a style="width: 100%;" href="/img/2018-muestra-talleres/muestra-de-talleres-2018.jpg" data-fancybox="images" data-srcset="/img/2018-muestra-talleres/muestra-de-talleres-2018.jpg" class="item-gallery">
             <img src="/img/2018-muestra-talleres/muestra-de-talleres-2018.jpg" />
@@ -25,7 +25,7 @@ Les esperamos como siempre, para compartir un hermoso momento entre todes.
     </div>
 </div>
 
-<div style="position: relative; max-width: 500px; margin: 0 auto;">
+<div style="position: relative; max-width: 610px; margin: 0 auto;">
 	<div class="gallery col-3">
         <a style="width: 100%;" href="/img/2018-muestra-talleres/cumple-veci.jpg" data-fancybox="images" data-srcset="/img/2018-muestra-talleres/cumple-veci.jpg" class="item-gallery">
             <img src="/img/2018-muestra-talleres/cumple-veci.jpg" />
