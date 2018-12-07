@@ -1,7 +1,7 @@
 ---
 title: Muestra de talleres y Cumple de la Veci
 layout: post-featured-novedad
-featured: true
+featured: false
 categoria: noticia
 featured_img: /img/2018-muestra-talleres/featured-cumple-veci-2018.jpg
 image_url: /img/2018-muestra-talleres/cumple-veci.jpg
@@ -14,7 +14,7 @@ Intervenciones, musica en vivo, danza, todos los talleres compartiendonos lo que
 
 Les esperamos como siempre, para compartir un hermoso momento entre todes.
 
-❤️💙💜🧡💚
+❤️💙💜💚
 
 
 <div style="position: relative; max-width: 610px; margin: 0 auto;">
