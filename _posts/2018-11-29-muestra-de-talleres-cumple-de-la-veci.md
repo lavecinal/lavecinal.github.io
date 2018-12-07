@@ -5,7 +5,7 @@ featured: false
 categoria: noticia
 featured_img: /img/2018-muestra-talleres/featured-cumple-veci-2018.jpg
 image_url: /img/2018-muestra-talleres/cumple-veci.jpg
-meta: Este domingo 2 de diciembre a partir de las 16hs .. les esperamos. Muestra de talleres 2018 y de paso... festejamos los 25 años de la vecinaaaaal!!!! 
+meta: El domingo 2 de diciembre a partir de las 16hs realizamos la Muestra de talleres 2018 y de paso... festejamos los 25 años de la vecinaaaaal!!!! 
 --- 
 
 El domingo 2 de diciembre a partir de las 16hs realizamos la Muestra de talleres 2018 y de paso... festejamos los 25 años de la vecinaaaaal!!!! 
