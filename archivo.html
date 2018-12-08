@@ -16,7 +16,7 @@ permalink: /archivo/
 	<div class="ui cards" style="justify-content: center;"> 
 	  {% for post in site.posts %}
       {% unless post.next %}
-        <h3 style="display: block;width: 100%;font-size: 20px;text-align: center;position: sticky;top: 60px;background: #fff;z-index: 1;padding: 15px;" id="{{ post.date | date: '%Y-%m' }}">
+        <h3 style="display: block;width: 100%;font-size: 20px;text-align: center;position: sticky;top: 60px;background: #fff;z-index: 1;padding: 15px; border-bottom: 1px solid #ddd;" id="{{ post.date | date: '%Y-%m' }}">
           {% assign m = post.date | date: "%-m" %}
           {% case m %}
            {% when '1' %}Enero
@@ -38,7 +38,7 @@ permalink: /archivo/
         {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
         {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
         {% if year != nyear %}
-          <h3 style="display: block;width: 100%;font-size: 20px;text-align: center;position: sticky;top: 60px;background: #fff;z-index: 1;padding: 15px;" id="{{ post.date | date: '%Y-%m' }}">
+          <h3 style="display: block;width: 100%;font-size: 20px;text-align: center;position: sticky;top: 60px;background: #fff;z-index: 1;padding: 15px;border-bottom: 1px solid #ddd;" id="{{ post.date | date: '%Y-%m' }}">
           {% assign m = post.date | date: "%-m" %}
           {% case m %}
            {% when '1' %}Enero
