@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Cine en la veci - Naufrago en la luna
-fecha: Domingo 25 de Noviembre
-hora: 20hs
-published: false
-orden: 3
-link: /novedades/cine-naufrago-en-la-luna
+title: Cine en la veci - Black Mirror
+fecha: Viernes 14 de Diciembre
+hora: 21.30hs
+published: true
+orden: 2
+link: /novedades/cine-en-la-veci-black-mirror
 ---
