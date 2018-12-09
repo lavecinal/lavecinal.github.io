@@ -1,6 +1,6 @@
 ---
 title: Muestra de talleres y Cumple de la Veci
-layout: post-featured-novedad
+layout: post-novedad
 featured: false
 categoria: noticia
 featured_img: /img/2018-muestra-talleres/featured-cumple-veci-2018.jpg
