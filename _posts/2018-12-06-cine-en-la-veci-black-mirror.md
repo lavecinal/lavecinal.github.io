@@ -1,7 +1,7 @@
 ---
 title: Cine en la veci - Black Mirror 🎬
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/cine-en-la-veci-black-mirror.jpg
 meta: El Viernes 14 a las 21:30hs hay cine al aire libre, comida rica y charla, te esperamos con las puertas abiertas!!
