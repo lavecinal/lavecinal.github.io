@@ -1,7 +1,7 @@
 ---
 title: Cumbión en la Veci 🎶🎵
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/2018-12-22-cumbion-en-la-veci/se-armo-el-cumbion.jpg
 meta: Sabado 22/12 en la pinta ElCumbión de CocoSondé + Undewandel, Como siempre entrada a la gorra conciente, Buffet bien piola! Súmate a este ritmo popular 
