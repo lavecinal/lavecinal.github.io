@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Cumbión en la veci 
-fecha: Sabado 22 de Diciembre
-hora: 19hs
-published: false
+title: Peña al encuentro
+fecha: Viernes 18 de enero
+hora: 21hs
+published: true
 orden: 3
-link: /novedades/cumbion-en-la-veci
+link: 
 ---
