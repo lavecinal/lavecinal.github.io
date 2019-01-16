@@ -5,5 +5,5 @@ fecha: Viernes 18 de enero
 hora: 21hs
 published: true
 orden: 3
-link: 
+link: /novedades/penia-al-encuentro-verano
 ---
