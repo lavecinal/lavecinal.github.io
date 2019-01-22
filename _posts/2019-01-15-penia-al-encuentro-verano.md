@@ -1,7 +1,7 @@
 ---
 title: Peña al Encuentro 🎵
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/2019-01-18-penia-al-encuentro.jpg
 meta:  Este VIERNES 18 en la Vecinal del Paraje! 21 hs Peña al aire (y) libre, baile, música en vivo, birra, comidita y la alegría de encontrarnos!!!
