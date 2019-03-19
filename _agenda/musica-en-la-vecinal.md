@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Peña al encuentro
-fecha: Viernes 18 de enero
+title: Música de So Miranda & Banda
+fecha: Sabado 23 de Marzo
 hora: 21hs
-published: false
+published: true
 orden: 3
-link: /novedades/penia-al-encuentro-verano
+link: /novedades/sabado-de-musica-con-so-miranda
 ---
