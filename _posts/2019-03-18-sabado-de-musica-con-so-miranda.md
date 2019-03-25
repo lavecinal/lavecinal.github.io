@@ -1,7 +1,7 @@
 ---
 title: Sábado de música con So Miranda & Banda 🎵
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/2019-03-musica-so-miranda.jpg
 meta: Este sábado 23 a las 21hs nos encontramos a compartir una bella noche de música. No hay gorra, ni entrada, pasa a dejar una buena onda.
