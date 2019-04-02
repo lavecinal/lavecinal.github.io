@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+  <title>Vecinal del Paraje Entre Ríos</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <meta name="robots" content="index, follow">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="theme-color" content="#1c7e46">
+
+  <meta name="description" content="Enterate de las últimas novedades de La Vecinal del Paraje Entre Ríos"/>
+
+
+  <meta content="La vecinal" property="og:site_name">
+  {% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+  {% else %}
+  <meta content="La vecinal del paraje entre rios" property="og:title">
+  {% endif %}
+  {% if page.meta %}
+  <meta content="{{ page.meta }}" property="og:description">
+  {% else %}
+  <meta content="Enterate de las últimas novedades de nuestra vecinal" property="og:description">
+  {% endif %}
+  {% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+  {% endif %}
+  {% if page.date %}
+  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+  <meta content="{{ site.url }}/elparaje/" property="article:author">
+  {% endif %}
+  {% if page.image_url %}
+  <meta content="{{ site.url }}{{ page.image_url }}" property="og:image">
+  {% else %}
+  <meta content="https://www.vecinaldelparaje.com.ar/img/opengraph.jpg" property="og:image">
+  {% endif %}
+	
+  <meta property="fb:app_id" content="1288928734550299" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  
+  <link rel="stylesheet" href="{{site.baseurl}}/style.css">
+  <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="{{ site.baseurl }}/js/mixitup.js"></script>
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108130854-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108130854-1');
+</script>
+</head>
+<body style="overflow: hidden;">
+<span id="arriba" style="position: absolute; top: 0"></span>
+<div class="offcanvas js-menu sliding-panel-content">
+  <ul>
+      <li><a href="{{ site.baseurl }}/talleres/" {% if page.url == '/talleres/' %}class="active" {% endif %}>talleres</a></li>
+      <li><a href="{{ site.baseurl }}/novedades/" {% if page.url == '/novedades/' %}class="active" {% endif %}>novedades</a></li>
+      <li><a href="{{ site.baseurl }}/archivo/" {% if page.url == '/archivo/' %}class="active" {% endif %}>archivo</a></li>
+      <li><a href="{{ site.baseurl }}/elparaje/" {% if page.url == '/elparaje/' %}class="active" {% endif %}>el paraje</a></li>
+      <li><a href="{{ site.baseurl }}/participa/" {% if page.url == '/participa/' %}class="active" {% endif %}>participa</a></li>
+  </ul>
+</div>
+
+<div class="top-bar">
+	<div class="top-bar-wrapper">
+	<a class="logo" href="{{ site.baseurl }}/">
+		<img src="{{ site.baseurl }}/img/logo-vecinal-entre-rios.svg" width="260px">
+	</a>
+	<nav>
+		<a href="{{ site.baseurl }}/talleres/" {% if page.url == '/talleres/' %}class="active" {% endif %}>talleres </a>
+		<a href="{{ site.baseurl }}/novedades/" {% if page.url == '/novedades/' %}class="active" {% endif %}>novedades</a>
+		<a href="{{ site.baseurl }}/archivo/" {% if page.url == '/archivo/' %}class="active" {% endif %}>archivo</a>
+		<a href="{{ site.baseurl }}/elparaje/" {% if page.url == '/elparaje/' %}class="active" {% endif %}>el paraje</a>
+		<a href="{{ site.baseurl }}/participa/" {% if page.url == '/participa/' %}class="active" {% endif %}>participa</a>
+	</nav>
+	<button type="button" class="toogle-btn js-menu-trigger sliding-panel-button">
+	  <i class="fa fa-bars" aria-hidden="true"></i>
+	</button>
+	</div>
+</div>
+
+<div class="main-container" style="max-width: 100%;">
+	{{content}}
+</div>
+
+
+<div class="js-menu-screen sliding-panel-fade-screen"></div>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.10";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script src="{{ site.baseurl }}/js/owl.carousel.js"></script>
+
+<footer style="text-align: right; background: #333; padding: 2em;">
+<div class="github" style="
+    float: left;
+    color: #999;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    line-height: 25px;
+">
+  <i class="fa fa-github-square" aria-hidden="true"></i> Este sitio esta alojado gratuitamente en <a style="color: #fff;" target="_blank" href="https://github.com/lavecinal/lavecinal.github.io">Github y es de código abierto.</a>
+</div>
+
+<a href="#arriba" class="to-top">
+  <i class="fa fa-chevron-up"></i>
+</a>
+
+<div class="maldonado" style="
+    display: block;
+    text-align: center;
+    padding: 1em 0;
+">
+  <span class="fa-stack fa-lg" aria-hidden="true">
+      <i class="fa fa-flag fa-stack-2x" style="
+      color: #25a55f;
+  "></i>
+      <i class="fa fa-heart fa-stack-1x" style="
+      color: #fff;
+      position: relative;
+      top: -5px;
+      font-size: 12px;
+      left: 0px;
+  "></i>
+    </span>
+    <!--<span id="demo" style="color: #fff;width: auto;text-indent: -7px;overflow: hidden;margin: 0px 0 0 15px;font-size: 20px;display: inline-block;position: relative;top: 5px;"></span>-->
+    <a href="https://noalamina.org/" target="_blank" style="text-decoration: none;color: #fff;width: auto;overflow: hidden;margin: 0px 0 0 15px;font-size: 20px;display: inline-block;position: relative;top: 5px;">
+      La <b>Vida</b> vale más que la mega-minería
+    </a>
+</div>
+
+ 
+</footer>
+
+
+<script>
+  // Select all links with hashes
+$('a[href*="#"]')
+  // Remove links that don't actually link to anything
+  .not('[href="#"]')
+  .not('[href="#0"]')
+  .click(function(event) {
+    // On-page links
+    if (
+      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
+      && 
+      location.hostname == this.hostname
+    ) {
+      // Figure out element to scroll to
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+      // Does a scroll target exist?
+      if (target.length) {
+        // Only prevent default if animation is actually gonna happen
+        event.preventDefault();
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000, function() {
+          // Callback after animation
+          // Must change focus!
+          var $target = $(target);
+          $target.focus();
+          if ($target.is(":focus")) { // Checking if the target was focused
+            return false;
+          } else {
+            $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+            $target.focus(); // Set focus again
+          };
+        });
+      }
+    }
+  });
+</script>
+
+{% include offcanvas.html %}
+	
+
+
+
+</body>
+
