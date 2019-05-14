@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Cine en la veci - Black Mirror
-fecha: Viernes 14 de Diciembre
-hora: 21.30hs
-published: false
+title: Cine - El primer grito
+fecha: Viernes 17 de Mayo
+hora: 19hs
+published: true
 orden: 2
-link: /novedades/cine-en-la-veci-black-mirror
+link: /novedades/cine-en-la-veci-el-primer-grito
 ---
