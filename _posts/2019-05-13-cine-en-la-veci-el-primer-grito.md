@@ -1,7 +1,7 @@
 ---
 title: Cine en la veci - El Primer Grito 🎬
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/el-primer-grito.jpg
 meta: HAY CINE en LA VECI! A la gorra y buffet! EL PODER DE PARIR ESTÁ EN VOS. Este viernes 17/5, a las 19hs.
