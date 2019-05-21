@@ -3,8 +3,8 @@ title: En tus ojos, todos los ojos
 layout: post-featured-novedad
 featured: false
 categoria: noticia
-featured_img: /img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-03.jpg
-image_url: /img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-03.jpg
+featured_img: https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-03.jpg?raw=true
+image_url: https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-03.jpg?raw=true
 meta: Instalación muestra itinerante de la escultura.
 --- 
 
@@ -15,157 +15,157 @@ meta: Instalación muestra itinerante de la escultura.
 
 <div style="position: relative;">
     <div class="gallery col-3">
-		<a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-02.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-02.jpg" class="item-gallery">
-			<img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-02.jpg"/>
+		<a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-02.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-02.jpg?raw=true" class="item-gallery">
+			<img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-02.jpg?raw=true"/>
 		</a>
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-04.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-04.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-04.jpg"/>
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-04.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-04.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-04.jpg?raw=true"/>
         </a>
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-10.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-10.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-10.jpg"/>
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-10.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-10.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-10.jpg?raw=true"/>
         </a>
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-01.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-01.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-01.jpg"/>
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-01.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-01.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-01.jpg?raw=true"/>
         </a>
-		<a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-03.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-03.jpg" class="item-gallery">
-			<img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-03.jpg"/>
+		<a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-03.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-03.jpg?raw=true" class="item-gallery">
+			<img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-03.jpg?raw=true"/>
 		</a>
 		
 
 		
 
-		<a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-05.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-05.jpg" class="item-gallery">
-			<img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-05.jpg"/>
+		<a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-05.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-05.jpg?raw=true" class="item-gallery">
+			<img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-05.jpg?raw=true"/>
 		</a>
 
 		
 
-		<a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-06.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-06.jpg" class="item-gallery">
-			<img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-06.jpg"/>
+		<a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-06.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-06.jpg?raw=true" class="item-gallery">
+			<img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-06.jpg?raw=true"/>
 		</a>
 
 
 
-		<a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-07.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-07.jpg" class="item-gallery">
-			<img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-07.jpg"/>
+		<a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-07.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-07.jpg?raw=true" class="item-gallery">
+			<img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-07.jpg?raw=true"/>
 		</a>
 
-		<a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-08.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-08.jpg" class="item-gallery">
-			<img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-08.jpg"/>
-		</a>
-
-		
-
-
-		<a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-09.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-09.jpg" class="item-gallery">
-			<img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-09.jpg"/>
+		<a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-08.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-08.jpg?raw=true" class="item-gallery">
+			<img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-08.jpg?raw=true"/>
 		</a>
 
 		
 
-		<a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-11.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-11.jpg" class="item-gallery">
-			<img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-11.jpg"/>
+
+		<a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-09.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-09.jpg?raw=true" class="item-gallery">
+			<img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-09.jpg?raw=true"/>
 		</a>
 
 		
 
-		<a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-12.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-12.jpg" class="item-gallery">
-			<img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-12.jpg"/>
+		<a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-11.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-11.jpg?raw=true" class="item-gallery">
+			<img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-11.jpg?raw=true"/>
 		</a>
 
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-13.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-13.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-13.jpg"/>
-        </a>
+		
 
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-14.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-14.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-14.jpg"/>
+		<a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-12.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-12.jpg?raw=true" class="item-gallery">
+			<img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-12.jpg?raw=true"/>
+		</a>
+
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-13.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-13.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-13.jpg?raw=true"/>
         </a>
 
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-27.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-27.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-27.jpg"/>
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-14.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-14.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-14.jpg?raw=true"/>
+        </a>
+
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-27.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-27.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-27.jpg?raw=true"/>
         </a>    
 
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-15.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-15.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-15.jpg"/>
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-15.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-15.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-15.jpg?raw=true"/>
         </a>
 
         
 
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-16.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-16.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-16.jpg"/>
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-16.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-16.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-16.jpg?raw=true"/>
         </a>
 
 
 
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-17.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-17.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-17.jpg"/>
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-17.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-17.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-17.jpg?raw=true"/>
         </a>
 
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-18.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-18.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-18.jpg"/>
-        </a>
-
-        
-
-
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-19.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-19.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-19.jpg"/>
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-18.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-18.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-18.jpg?raw=true"/>
         </a>
 
         
 
 
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-20.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-20.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-20.jpg"/>
-        </a>
-
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-21.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-21.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-21.jpg"/>
-        </a>
-
-        
-
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-22.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-22.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-22.jpg"/>
-        </a>
-
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-23.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-23.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-23.jpg"/>
-        </a>
-
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-24.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-24.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-24.jpg"/>
-        </a>
-
-        
-
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-25.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-25.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-25.jpg"/>
-        </a>
-
-        
-
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-26.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-26.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-26.jpg"/>
-        </a>
-
-
-
-        
-
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-28.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-28.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-28.jpg"/>
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-19.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-19.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-19.jpg?raw=true"/>
         </a>
 
         
 
 
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-29.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-29.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-29.jpg"/>
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-20.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-20.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-20.jpg?raw=true"/>
         </a>
 
-        <a href="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-30.jpg" data-fancybox="images" data-srcset="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-30.jpg" class="item-gallery">
-            <img src="/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-30.jpg"/>
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-21.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-21.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-21.jpg?raw=true"/>
+        </a>
+
+        
+
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-22.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-22.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-22.jpg?raw=true"/>
+        </a>
+
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-23.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-23.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-23.jpg?raw=true"/>
+        </a>
+
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-24.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-24.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-24.jpg?raw=true"/>
+        </a>
+
+        
+
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-25.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-25.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-25.jpg?raw=true"/>
+        </a>
+
+        
+
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-26.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-26.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-26.jpg?raw=true"/>
+        </a>
+
+
+
+        
+
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-28.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-28.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-28.jpg?raw=true"/>
+        </a>
+
+        
+
+
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-29.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-29.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-29.jpg?raw=true"/>
+        </a>
+
+        <a href="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-30.jpg?raw=true" data-fancybox="images" data-srcset="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-30.jpg?raw=true" class="item-gallery">
+            <img src="https://github.com/lavecinal/lavecinal.github.io/blob/master/img/2019-02-en-tus-ojos/colectivo-maldonado-primero-febrero-30.jpg?raw=true"/>
         </a>
 		
 	</div>
