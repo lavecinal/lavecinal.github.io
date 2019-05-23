@@ -1,7 +1,7 @@
 ---
 title: Vecins construyendo nuestra vecinal
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/vecinos-constuyendo.jpg
 meta: Desde hace un tiempo que nos propusimos ampliar el espacio de tods los vecins.
