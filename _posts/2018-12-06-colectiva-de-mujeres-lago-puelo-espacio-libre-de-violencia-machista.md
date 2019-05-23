@@ -1,7 +1,7 @@
 ---
 title: Colectiva de mujeres de Lago Puelo
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/vecinal-libre-violencia-machista.jpg
 meta: La Colectiva Mujeres Lago Puelo continua tejiendo redes en su andar y tramaron una bandera para este espacio de encuentros.
