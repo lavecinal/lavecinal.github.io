@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Cine - El primer grito
-fecha: Viernes 17 de Mayo
-hora: 19hs
-published: false
+title: Cine - Noviembre
+fecha: Viernes 31 de Mayo
+hora: 21hs
+published: true
 orden: 2
-link: /novedades/cine-en-la-veci-el-primer-grito
+link: /novedades/cine-en-la-veci-noviembre
 ---
