@@ -1,7 +1,7 @@
 ---
 title: Cine en la veci - Noviembre 🎬
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/cine-en-la-veci-noviembre.jpg
 featured_img: /img/cine-en-la-veci-noviembre.jpg
