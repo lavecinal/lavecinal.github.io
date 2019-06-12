@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Música de So Miranda & Banda
-fecha: Sabado 23 de Marzo
+title: Peña en el Paraje mas invitades
+fecha: Sabado 15 de Junio
 hora: 21hs
-published: false
+published: true
 orden: 3
-link: /novedades/sabado-de-musica-con-so-miranda
+link: /novedades/penia-en-el-paraje-mas-invitades
 ---
