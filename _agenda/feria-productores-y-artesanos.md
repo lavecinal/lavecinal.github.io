@@ -1,9 +1,9 @@
 ---
 layout: agenda
 title: Feria de Productores y Artesanos
-fecha: Domingo 26 de Mayo
+fecha: Domingo 16 de Junio
 hora: 11hs
-published: false
+published: true
 orden: 3
 link: /novedades/feria-en-el-paraje
 ---
