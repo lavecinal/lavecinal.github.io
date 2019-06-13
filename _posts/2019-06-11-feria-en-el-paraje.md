@@ -11,7 +11,7 @@ meta: Este domingo 2 de Junio de 11 a 15hs arranca el primer encuentro de peque�
 <link href="https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap" rel="stylesheet">
 
 <b style="text-align: center;display: block;font-family: 'Kaushan Script', cursive;font-size: 45px;color: coral;padding: 0 75px;">
-    Este domingo 16 de Julio de 11 a 15hs
+    Este domingo 16 de Junio de 11 a 15hs
 </b>
 <p style="text-align: center; margin: 25px auto;">
      Segundo encuentro en el que se le abren las puertas a las pequeñas y pequeños productores, productos de agricultura familiar, recolectores y artesanes.
