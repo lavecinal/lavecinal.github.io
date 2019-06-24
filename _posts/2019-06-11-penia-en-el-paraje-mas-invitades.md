@@ -1,7 +1,7 @@
 ---
 title: Peña en el Paraje mas invitades 🎵
 layout: post-novedad
-featured: true
+featured: false
 categoria: noticia
 image_url: /img/penia-en-el-paraje-mas-invitades-cover.jpg
 meta:  Andá agendando! Que este sábado 15 a las 21hs se viene una gran Peña en la veci! Con invitades, taller de canto y muchisimas cosas más.
