@@ -1,7 +1,7 @@
 ---
 title: 🥕 Mercado Popular en la Veci 🥕
 layout: post-featured-novedad
-featured: true
+featured: false
 categoria: noticia
 featured_img: /img/mercado-popular-en-la-veci-card-flyer.jpg
 image_url: /img/mercado-popular-en-la-veci-card.jpg
