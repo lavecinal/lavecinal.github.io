@@ -3,7 +3,7 @@ layout: agenda
 title: Peña en el Paraje mas invitades
 fecha: Sabado 15 de Junio
 hora: 21hs
-published: true
+published: false
 orden: 2
 link: /novedades/penia-en-el-paraje-mas-invitades
 ---
