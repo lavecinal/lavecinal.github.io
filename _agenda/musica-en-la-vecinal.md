@@ -1,9 +1,9 @@
 ---
 layout: agenda
 title: Peña en el Paraje mas invitades
-fecha: Sabado 15 de Junio
-hora: 21hs
-published: false
+fecha: Sabado 16 de Noviembre
+hora: 21.30hs
+published: true
 orden: 2
-link: /novedades/penia-en-el-paraje-mas-invitades
+link: /novedades/cande-maio-jorge-arias-duo-acustico
 ---
