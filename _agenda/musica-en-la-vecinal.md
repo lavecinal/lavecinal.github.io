@@ -1,7 +1,7 @@
 ---
 layout: agenda
-title: Peña en el Paraje mas invitades
-fecha: Sabado 16 de Noviembre
+title: Duo acústico
+fecha: Sábado 16 de Noviembre
 hora: 21.30hs
 published: true
 orden: 2
