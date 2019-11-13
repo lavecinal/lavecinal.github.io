@@ -1,7 +1,7 @@
 ---
 title: Cine en la veci - Capitan Fantastico 🎬
 layout: post-novedad
-featured: true
+featured: false
 fecha: Viernes 5 de julio
 hora: 21hs
 categoria: noticia
