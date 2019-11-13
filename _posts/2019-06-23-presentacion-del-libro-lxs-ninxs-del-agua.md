@@ -2,7 +2,7 @@
 title: Presentacion del libro Lxs niñxs del Agua 📗
 layout: post-novedad
 categoria: noticia
-featured: true
+featured: false
 image_url: /img/lxs-ninxs-del-agua-cover.jpg
 meta: Este viernes 28 de Junio a las 19.30hs. Relatos sobre pérdidas gestacionales. Una polifonía convocada por Adriana Marcus.
 ---
