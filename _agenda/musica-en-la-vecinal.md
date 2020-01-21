@@ -1,9 +1,9 @@
 ---
 layout: agenda
-title: Duo acústico
-fecha: Sábado 16 de Noviembre
-hora: 21.30hs
-published: false
+title: Peña al encuentro y a cielo abierto
+fecha: Viernes 24 de Enero
+hora: 21hs
+published: true
 orden: 2
-link: /novedades/cande-maio-jorge-arias-duo-acustico
+link: /novedades/pena-al-encuentro-a-cielo-abierto-enero-2020
 ---
