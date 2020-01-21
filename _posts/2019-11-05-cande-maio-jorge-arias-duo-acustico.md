@@ -1,7 +1,7 @@
 ---
 title: Cande Maio y Jorge Arias (duo acústico)
 layout: post-novedad
-featured: true
+featured: false
 fecha: Sabado 16 de Noviembre
 hora: 21:30hs
 categoria: noticia
