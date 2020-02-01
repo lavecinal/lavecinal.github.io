@@ -1,7 +1,7 @@
 ---
 title: Peña al encuentro y a cielo abierto
 layout: post-novedad
-featured: true
+featured: false
 fecha: Viernes 24 de Enero
 hora: 21:00hs
 categoria: noticia
